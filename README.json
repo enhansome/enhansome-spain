@@ -606,7 +606,7 @@
           "repo_info": {
             "archived": false,
             "language": "HTML",
-            "last_commit": "2026-08-12T12:45:44Z",
+            "last_commit": "2026-08-13T11:39:28Z",
             "owner": "soker90",
             "repo": "precio-gasolina",
             "stars": 3
@@ -1662,7 +1662,7 @@
             "last_commit": "2025-03-19T12:05:58Z",
             "owner": "danimart1991",
             "repo": "pvpc-hourly-pricing-card",
-            "stars": 111
+            "stars": 112
           }
         },
         {
@@ -1953,7 +1953,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-12T22:39:25Z",
+            "last_commit": "2026-08-13T11:50:48Z",
             "owner": "almax-es",
             "repo": "luzfija.es",
             "stars": 5
@@ -2276,10 +2276,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-12T10:50:43Z",
+            "last_commit": "2026-08-13T11:44:15Z",
             "owner": "invopop",
             "repo": "gobl",
-            "stars": 296
+            "stars": 297
           }
         },
         {
@@ -2293,7 +2293,7 @@
             "last_commit": "2026-06-17T22:20:01Z",
             "owner": "paumrch",
             "repo": "larenta",
-            "stars": 98
+            "stars": 99
           }
         },
         {
@@ -3786,7 +3786,7 @@
           "repo_info": {
             "archived": false,
             "language": "Ruby",
-            "last_commit": "2026-08-12T20:35:18Z",
+            "last_commit": "2026-08-13T11:18:33Z",
             "owner": "decidim",
             "repo": "decidim",
             "stars": 1804
@@ -3814,7 +3814,7 @@
           "repo_info": {
             "archived": false,
             "language": "HTML",
-            "last_commit": "2026-08-10T23:15:17Z",
+            "last_commit": "2026-08-13T08:39:31Z",
             "owner": "AjuntamentdeBarcelona",
             "repo": "decidim-barcelona",
             "stars": 85
@@ -4055,7 +4055,7 @@
           "repo_info": {
             "archived": false,
             "language": "Perl",
-            "last_commit": "2026-08-12T08:46:16Z",
+            "last_commit": "2026-08-13T07:48:23Z",
             "owner": "Softcatala",
             "repo": "catalan-dict-tools",
             "stars": 65
@@ -4704,7 +4704,7 @@
             "last_commit": "2026-08-12T16:42:21Z",
             "owner": "mv12star",
             "repo": "lista-telefonos-spam",
-            "stars": 27
+            "stars": 28
           }
         },
         {
@@ -6096,7 +6096,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T03:59:53.884Z",
+    "last_updated": "2026-08-13T11:55:29.271Z",
     "original_repository": "GeiserX/awesome-spain",
     "original_repository_sha": "50f61cdf14b828e86226b112447d557ad00b8d3c",
     "enhanced_repository": "enhansome/enhansome-spain",
