@@ -59,7 +59,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-12T03:06:20Z",
+            "last_commit": "2026-08-15T14:06:39Z",
             "owner": "guerrerotook",
             "repo": "securitas-direct-new-api",
             "stars": 135
@@ -606,7 +606,7 @@
           "repo_info": {
             "archived": false,
             "language": "HTML",
-            "last_commit": "2026-08-15T11:11:17Z",
+            "last_commit": "2026-08-16T11:11:14Z",
             "owner": "soker90",
             "repo": "precio-gasolina",
             "stars": 3
@@ -842,7 +842,7 @@
             "last_commit": "2026-01-02T11:21:08Z",
             "owner": "ctt-gob-es",
             "repo": "datos.gob.es",
-            "stars": 30
+            "stars": 31
           }
         },
         {
@@ -931,6 +931,20 @@
         },
         {
           "node_type": "item",
+          "title": "datosgobes",
+          "description": "Librería Python para gestionar datos del portal datos.gob.es.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-04-16T16:01:09Z",
+            "owner": "jvaleroliet",
+            "repo": "datosgobes",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
           "title": "Siane",
           "description": "Paquete R para representar datos estadísticos en mapas oficiales españoles.",
           "children": [],
@@ -945,15 +959,15 @@
         },
         {
           "node_type": "item",
-          "title": "datosgobes",
-          "description": "Librería Python para gestionar datos del portal datos.gob.es.",
+          "title": "Datania Mercadona",
+          "description": "Catálogo de productos de la tienda online de Mercadona en formato JSON.",
           "children": [],
           "repo_info": {
             "archived": false,
-            "language": "Python",
-            "last_commit": "2025-04-16T16:01:09Z",
-            "owner": "jvaleroliet",
-            "repo": "datosgobes",
+            "language": "HTML",
+            "last_commit": "2026-08-10T01:16:34Z",
+            "owner": "datania",
+            "repo": "mercadona-catalog",
             "stars": 9
           }
         },
@@ -983,20 +997,6 @@
             "owner": "ginopalazzo",
             "repo": "spain-open-data",
             "stars": 9
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Datania Mercadona",
-          "description": "Catálogo de productos de la tienda online de Mercadona en formato JSON.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "HTML",
-            "last_commit": "2026-08-10T01:16:34Z",
-            "owner": "datania",
-            "repo": "mercadona-catalog",
-            "stars": 8
           }
         },
         {
@@ -1953,7 +1953,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-15T11:24:01Z",
+            "last_commit": "2026-08-16T11:15:35Z",
             "owner": "almax-es",
             "repo": "luzfija.es",
             "stars": 5
@@ -2004,7 +2004,7 @@
             "last_commit": "2026-08-11T11:34:16Z",
             "owner": "OCA",
             "repo": "l10n-spain",
-            "stars": 547
+            "stars": 548
           }
         },
         {
@@ -2571,7 +2571,7 @@
             "last_commit": "2026-02-22T08:55:47Z",
             "owner": "josemmo",
             "repo": "Verifactu-PHP",
-            "stars": 106
+            "stars": 107
           }
         },
         {
@@ -3606,7 +3606,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-12T22:14:34Z",
+            "last_commit": "2026-08-15T16:05:18Z",
             "owner": "Danieldiazi",
             "repo": "homeassistant-meteogalicia",
             "stars": 19
@@ -3786,7 +3786,7 @@
           "repo_info": {
             "archived": false,
             "language": "Ruby",
-            "last_commit": "2026-08-14T20:55:38Z",
+            "last_commit": "2026-08-15T21:19:36Z",
             "owner": "decidim",
             "repo": "decidim",
             "stars": 1805
@@ -3803,7 +3803,7 @@
             "last_commit": "2026-08-15T01:56:27Z",
             "owner": "consuldemocracy",
             "repo": "consuldemocracy",
-            "stars": 1545
+            "stars": 1546
           }
         },
         {
@@ -4097,7 +4097,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-15T09:39:42Z",
+            "last_commit": "2026-08-16T04:32:11Z",
             "owner": "Softcatala",
             "repo": "translation-memory-tools",
             "stars": 31
@@ -4701,7 +4701,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-14T16:37:08Z",
+            "last_commit": "2026-08-15T16:08:05Z",
             "owner": "mv12star",
             "repo": "lista-telefonos-spam",
             "stars": 28
@@ -4884,7 +4884,7 @@
             "last_commit": "2026-07-02T08:05:14Z",
             "owner": "Paco8",
             "repo": "plugin.video.movistarplus",
-            "stars": 82
+            "stars": 83
           }
         },
         {
@@ -5106,7 +5106,7 @@
             "last_commit": "2026-08-11T10:45:45Z",
             "owner": "legalize-dev",
             "repo": "legalize-es",
-            "stars": 1871
+            "stars": 1872
           }
         },
         {
@@ -5414,7 +5414,7 @@
             "last_commit": "2026-07-04T12:30:22Z",
             "owner": "hadronomy",
             "repo": "canary",
-            "stars": 1
+            "stars": 2
           }
         }
       ],
@@ -5787,7 +5787,7 @@
           "repo_info": {
             "archived": false,
             "language": "Kotlin",
-            "last_commit": "2026-08-08T17:53:32Z",
+            "last_commit": "2026-08-15T17:53:07Z",
             "owner": "gcaguilar",
             "repo": "biciradar",
             "stars": 4
@@ -6096,7 +6096,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T11:29:56.398Z",
+    "last_updated": "2026-08-16T11:29:42.365Z",
     "original_repository": "GeiserX/awesome-spain",
     "original_repository_sha": "50f61cdf14b828e86226b112447d557ad00b8d3c",
     "enhanced_repository": "enhansome/enhansome-spain",
