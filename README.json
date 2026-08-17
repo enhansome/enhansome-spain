@@ -606,7 +606,7 @@
           "repo_info": {
             "archived": false,
             "language": "HTML",
-            "last_commit": "2026-08-16T11:11:14Z",
+            "last_commit": "2026-08-17T10:22:15Z",
             "owner": "soker90",
             "repo": "precio-gasolina",
             "stars": 3
@@ -755,7 +755,7 @@
           "repo_info": {
             "archived": false,
             "language": "Jupyter Notebook",
-            "last_commit": "2026-06-25T15:09:34Z",
+            "last_commit": "2026-08-17T10:47:09Z",
             "owner": "Admindatosgobes",
             "repo": "Laboratorio-de-Datos",
             "stars": 68
@@ -931,6 +931,20 @@
         },
         {
           "node_type": "item",
+          "title": "Datania Mercadona",
+          "description": "Catálogo de productos de la tienda online de Mercadona en formato JSON.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-08-17T00:54:51Z",
+            "owner": "datania",
+            "repo": "mercadona-catalog",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
           "title": "datosgobes",
           "description": "Librería Python para gestionar datos del portal datos.gob.es.",
           "children": [],
@@ -955,20 +969,6 @@
             "owner": "rOpenSpain",
             "repo": "Siane",
             "stars": 10
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Datania Mercadona",
-          "description": "Catálogo de productos de la tienda online de Mercadona en formato JSON.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "HTML",
-            "last_commit": "2026-08-10T01:16:34Z",
-            "owner": "datania",
-            "repo": "mercadona-catalog",
-            "stars": 9
           }
         },
         {
@@ -1105,7 +1105,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-10T07:37:55Z",
+            "last_commit": "2026-08-17T06:51:55Z",
             "owner": "datania",
             "repo": "ine-catalog",
             "stars": 3
@@ -1600,7 +1600,7 @@
             "last_commit": "2025-09-29T14:18:00Z",
             "owner": "getmanfred",
             "repo": "mac",
-            "stars": 593
+            "stars": 592
           }
         },
         {
@@ -1939,7 +1939,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-14T13:25:06Z",
+            "last_commit": "2026-08-17T07:16:53Z",
             "owner": "gisce",
             "repo": "libCNMC",
             "stars": 5
@@ -1953,7 +1953,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-16T11:15:35Z",
+            "last_commit": "2026-08-17T11:32:50Z",
             "owner": "almax-es",
             "repo": "luzfija.es",
             "stars": 5
@@ -2043,7 +2043,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-10T13:21:22Z",
+            "last_commit": "2026-08-17T10:07:33Z",
             "owner": "GeiserX",
             "repo": "DeclaRenta",
             "stars": 46
@@ -2276,7 +2276,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-13T19:29:24Z",
+            "last_commit": "2026-08-17T08:25:06Z",
             "owner": "invopop",
             "repo": "gobl",
             "stars": 297
@@ -2613,7 +2613,7 @@
             "last_commit": "2025-11-26T08:19:08Z",
             "owner": "EduardoRuizM",
             "repo": "verifactu-api-python",
-            "stars": 21
+            "stars": 22
           }
         },
         {
@@ -2736,10 +2736,10 @@
           "repo_info": {
             "archived": false,
             "language": "PHP",
-            "last_commit": "2026-07-29T17:05:52Z",
+            "last_commit": "2026-08-16T16:56:38Z",
             "owner": "codeccoop",
             "repo": "autoverifactu",
-            "stars": 7
+            "stars": 8
           }
         },
         {
@@ -3606,7 +3606,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-15T16:05:18Z",
+            "last_commit": "2026-08-17T06:22:37Z",
             "owner": "Danieldiazi",
             "repo": "homeassistant-meteogalicia",
             "stars": 19
@@ -3786,10 +3786,10 @@
           "repo_info": {
             "archived": false,
             "language": "Ruby",
-            "last_commit": "2026-08-15T21:19:36Z",
+            "last_commit": "2026-08-17T11:26:42Z",
             "owner": "decidim",
             "repo": "decidim",
-            "stars": 1805
+            "stars": 1806
           }
         },
         {
@@ -3800,7 +3800,7 @@
           "repo_info": {
             "archived": false,
             "language": "Ruby",
-            "last_commit": "2026-08-15T01:56:27Z",
+            "last_commit": "2026-08-17T05:49:27Z",
             "owner": "consuldemocracy",
             "repo": "consuldemocracy",
             "stars": 1546
@@ -4097,7 +4097,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-16T04:32:11Z",
+            "last_commit": "2026-08-16T18:59:58Z",
             "owner": "Softcatala",
             "repo": "translation-memory-tools",
             "stars": 31
@@ -4701,7 +4701,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-15T16:08:05Z",
+            "last_commit": "2026-08-16T16:08:55Z",
             "owner": "mv12star",
             "repo": "lista-telefonos-spam",
             "stars": 28
@@ -4828,7 +4828,7 @@
             "last_commit": "2026-08-15T09:10:18Z",
             "owner": "LaQuay",
             "repo": "TDTChannels",
-            "stars": 1646
+            "stars": 1647
           }
         },
         {
@@ -5103,7 +5103,7 @@
           "repo_info": {
             "archived": false,
             "language": null,
-            "last_commit": "2026-08-11T10:45:45Z",
+            "last_commit": "2026-08-17T10:26:57Z",
             "owner": "legalize-dev",
             "repo": "legalize-es",
             "stars": 1872
@@ -6096,7 +6096,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T11:29:42.365Z",
+    "last_updated": "2026-08-17T11:35:07.368Z",
     "original_repository": "GeiserX/awesome-spain",
     "original_repository_sha": "50f61cdf14b828e86226b112447d557ad00b8d3c",
     "enhanced_repository": "enhansome/enhansome-spain",
