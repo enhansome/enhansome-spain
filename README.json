@@ -63,7 +63,7 @@
             "archived": false,
             "id": 432434646,
             "language": "Python",
-            "last_commit": "2026-08-18T11:56:49Z",
+            "last_commit": "2026-08-20T10:13:09Z",
             "owner": "guerrerotook",
             "repo": "securitas-direct-new-api",
             "stars": 136
@@ -375,7 +375,7 @@
             "archived": false,
             "id": 921066224,
             "language": "JavaScript",
-            "last_commit": "2026-08-18T13:07:44Z",
+            "last_commit": "2026-08-20T08:03:51Z",
             "owner": "Desarrollos-IDEE",
             "repo": "API-IDEE",
             "stars": 9
@@ -649,7 +649,7 @@
             "archived": false,
             "id": 461959149,
             "language": "HTML",
-            "last_commit": "2026-08-19T11:16:20Z",
+            "last_commit": "2026-08-20T09:24:04Z",
             "owner": "soker90",
             "repo": "precio-gasolina",
             "stars": 3
@@ -1982,7 +1982,7 @@
             "archived": false,
             "id": 1137833640,
             "language": "JavaScript",
-            "last_commit": "2026-08-19T12:10:51Z",
+            "last_commit": "2026-08-20T11:31:53Z",
             "owner": "almax-es",
             "repo": "luzfija.es",
             "stars": 5
@@ -2033,7 +2033,7 @@
             "archived": false,
             "id": 20920616,
             "language": "Python",
-            "last_commit": "2026-08-19T10:15:56Z",
+            "last_commit": "2026-08-20T11:16:52Z",
             "owner": "OCA",
             "repo": "l10n-spain",
             "stars": 548
@@ -2147,7 +2147,7 @@
             "last_commit": "2025-12-19T11:28:32Z",
             "owner": "AFFT-520",
             "repo": "NIEBot",
-            "stars": 60
+            "stars": 61
           }
         },
         {
@@ -2327,7 +2327,7 @@
                 "last_commit": "2026-08-19T08:38:53Z",
                 "owner": "invopop",
                 "repo": "gobl",
-                "stars": 297
+                "stars": 298
               }
             },
             {
@@ -2973,7 +2973,7 @@
                 "archived": false,
                 "id": 695448736,
                 "language": "Nix",
-                "last_commit": "2026-08-17T18:20:27Z",
+                "last_commit": "2026-08-19T15:56:17Z",
                 "owner": "nix-community",
                 "repo": "autofirma-nix",
                 "stars": 54
@@ -3949,7 +3949,7 @@
             "archived": false,
             "id": 65914086,
             "language": "Ruby",
-            "last_commit": "2026-08-19T12:51:03Z",
+            "last_commit": "2026-08-20T07:01:36Z",
             "owner": "decidim",
             "repo": "decidim",
             "stars": 1808
@@ -4143,21 +4143,6 @@
         },
         {
           "node_type": "item",
-          "title": "django-payments-redsys",
-          "description": "Backend Redsys para django-payments.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 144717130,
-            "language": "Python",
-            "last_commit": "2026-04-08T16:57:20Z",
-            "owner": "ajostergaard",
-            "repo": "django-payments-redsys",
-            "stars": 18
-          }
-        },
-        {
-          "node_type": "item",
           "title": "redsys-php",
           "description": "Integración Redsys en PHP puro de Creagia.",
           "children": [],
@@ -4168,6 +4153,21 @@
             "last_commit": "2026-06-23T07:20:59Z",
             "owner": "creagia",
             "repo": "redsys-php",
+            "stars": 19
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-payments-redsys",
+          "description": "Backend Redsys para django-payments.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 144717130,
+            "language": "Python",
+            "last_commit": "2026-04-08T16:57:20Z",
+            "owner": "ajostergaard",
+            "repo": "django-payments-redsys",
             "stars": 18
           }
         },
@@ -4233,7 +4233,7 @@
                 "archived": false,
                 "id": 17015540,
                 "language": "Perl",
-                "last_commit": "2026-08-19T12:10:28Z",
+                "last_commit": "2026-08-20T08:09:48Z",
                 "owner": "Softcatala",
                 "repo": "catalan-dict-tools",
                 "stars": 65
@@ -4928,7 +4928,7 @@
             "archived": false,
             "id": 1025912736,
             "language": "Python",
-            "last_commit": "2026-08-18T16:15:38Z",
+            "last_commit": "2026-08-19T16:15:12Z",
             "owner": "mv12star",
             "repo": "lista-telefonos-spam",
             "stars": 28
@@ -5562,21 +5562,6 @@
         },
         {
           "node_type": "item",
-          "title": "contractacio.cat",
-          "description": "Propuestas de mejora a los portales de transparencia de contratación pública en Cataluña.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 819835227,
-            "language": "HTML",
-            "last_commit": "2025-10-12T11:58:32Z",
-            "owner": "JaimeObregon",
-            "repo": "contractacio.cat",
-            "stars": 12
-          }
-        },
-        {
-          "node_type": "item",
           "title": "subastas-boe",
           "description": "Scraper de subastas judiciales del portal de subastas del BOE.",
           "children": [],
@@ -5587,6 +5572,21 @@
             "last_commit": "2025-06-21T23:49:34Z",
             "owner": "eduaero",
             "repo": "BOE",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "contractacio.cat",
+          "description": "Propuestas de mejora a los portales de transparencia de contratación pública en Cataluña.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 819835227,
+            "language": "HTML",
+            "last_commit": "2025-10-12T11:58:32Z",
+            "owner": "JaimeObregon",
+            "repo": "contractacio.cat",
             "stars": 12
           }
         },
@@ -5845,7 +5845,7 @@
             "archived": false,
             "id": 912887788,
             "language": "Dart",
-            "last_commit": "2026-08-19T11:10:52Z",
+            "last_commit": "2026-08-19T13:57:18Z",
             "owner": "jesusrp98",
             "repo": "aucorsa",
             "stars": 7
@@ -6386,7 +6386,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:53:39.619Z",
+    "last_updated": "2026-08-20T11:36:20.684Z",
     "original_repository": "GeiserX/awesome-spain",
     "original_repository_id": 1187199436,
     "original_repository_sha": "50f61cdf14b828e86226b112447d557ad00b8d3c",
