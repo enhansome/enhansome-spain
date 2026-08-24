@@ -659,6 +659,408 @@
       "title": "Combustible y Estaciones de Servicio"
     },
     {
+      "description": "Software open source de comunidades autónomas, ayuntamientos y diputaciones.",
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Lista dedicada: awesome-andalucia",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1209376795,
+                "language": null,
+                "last_commit": "2026-08-01T10:42:22Z",
+                "owner": "GeiserX",
+                "repo": "awesome-andalucia",
+                "stars": 5
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Andalucía"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Lista dedicada: awesome-aragon",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1209380852,
+                "language": null,
+                "last_commit": "2026-08-08T21:22:44Z",
+                "owner": "GeiserX",
+                "repo": "awesome-aragon",
+                "stars": 4
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Aragón"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Lista dedicada: awesome-asturies",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1209385146,
+                "language": null,
+                "last_commit": "2026-08-01T10:42:29Z",
+                "owner": "GeiserX",
+                "repo": "awesome-asturies",
+                "stars": 4
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Asturias"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Lista dedicada: awesome-canarias",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1209380765,
+                "language": null,
+                "last_commit": "2026-08-01T19:28:21Z",
+                "owner": "GeiserX",
+                "repo": "awesome-canarias",
+                "stars": 3
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Canarias"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Lista dedicada: awesome-cantabria",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1209383755,
+                "language": null,
+                "last_commit": "2026-08-01T10:42:39Z",
+                "owner": "GeiserX",
+                "repo": "awesome-cantabria",
+                "stars": 2
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Cantabria"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Lista dedicada: awesome-castilla-la-mancha",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1209385365,
+                "language": "Python",
+                "last_commit": "2026-08-08T21:22:50Z",
+                "owner": "GeiserX",
+                "repo": "awesome-castilla-la-mancha",
+                "stars": 3
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Castilla-La Mancha"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Lista dedicada: awesome-castilla-y-leon",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1209383828,
+                "language": null,
+                "last_commit": "2026-07-01T23:57:31Z",
+                "owner": "GeiserX",
+                "repo": "awesome-castilla-y-leon",
+                "stars": 3
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Castilla y León"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Lista dedicada: awesome-catalunya",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1209377261,
+                "language": null,
+                "last_commit": "2026-08-01T10:42:18Z",
+                "owner": "GeiserX",
+                "repo": "awesome-catalunya",
+                "stars": 11
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Cataluña"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Lista dedicada: awesome-ceuta-y-melilla",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1209385350,
+                "language": "Python",
+                "last_commit": "2026-08-01T10:42:14Z",
+                "owner": "GeiserX",
+                "repo": "awesome-ceuta-y-melilla",
+                "stars": 1
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Ceuta y Melilla"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Lista dedicada: awesome-comunidad-de-madrid",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1209377018,
+                "language": null,
+                "last_commit": "2026-08-08T21:22:56Z",
+                "owner": "GeiserX",
+                "repo": "awesome-comunidad-de-madrid",
+                "stars": 4
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Comunidad de Madrid"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Lista dedicada: awesome-comunitat-valenciana",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1209380828,
+                "language": null,
+                "last_commit": "2026-08-02T10:28:17Z",
+                "owner": "GeiserX",
+                "repo": "awesome-comunitat-valenciana",
+                "stars": 4
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Comunidad Valenciana"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Lista dedicada: awesome-extremadura",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1209385176,
+                "language": null,
+                "last_commit": "2026-08-08T21:23:04Z",
+                "owner": "GeiserX",
+                "repo": "awesome-extremadura",
+                "stars": 1
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Extremadura"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Lista dedicada: awesome-galicia",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1209380825,
+                "language": null,
+                "last_commit": "2026-08-01T16:57:43Z",
+                "owner": "GeiserX",
+                "repo": "awesome-galicia",
+                "stars": 6
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Galicia"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Lista dedicada: awesome-illes-balears",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1209376754,
+                "language": null,
+                "last_commit": "2026-08-08T21:23:12Z",
+                "owner": "GeiserX",
+                "repo": "awesome-illes-balears",
+                "stars": 2
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Islas Baleares"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Lista dedicada: awesome-la-rioja",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1209383802,
+                "language": null,
+                "last_commit": "2026-08-01T06:52:49Z",
+                "owner": "GeiserX",
+                "repo": "awesome-la-rioja",
+                "stars": 2
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "La Rioja"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Lista dedicada: awesome-nafarroa",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1209387484,
+                "language": "Python",
+                "last_commit": "2026-08-01T10:42:32Z",
+                "owner": "GeiserX",
+                "repo": "awesome-nafarroa",
+                "stars": 2
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Navarra"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Lista dedicada: awesome-euskadi",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1209383786,
+                "language": null,
+                "last_commit": "2026-08-01T10:42:49Z",
+                "owner": "GeiserX",
+                "repo": "awesome-euskadi",
+                "stars": 5
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "País Vasco"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Lista dedicada: awesome-region-de-murcia",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1189356064,
+                "language": "Python",
+                "last_commit": "2026-08-02T10:34:45Z",
+                "owner": "GeiserX",
+                "repo": "awesome-region-de-murcia",
+                "stars": 8
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Región de Murcia"
+        }
+      ],
+      "title": "Comunidades Autónomas y Administración Local"
+    },
+    {
       "description": null,
       "items": [
         {
@@ -1982,7 +2384,7 @@
             "archived": false,
             "id": 1137833640,
             "language": "JavaScript",
-            "last_commit": "2026-08-24T11:31:16Z",
+            "last_commit": "2026-08-24T13:58:46Z",
             "owner": "almax-es",
             "repo": "luzfija.es",
             "stars": 5
@@ -2078,7 +2480,7 @@
             "archived": false,
             "id": 1207185051,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T10:08:02Z",
+            "last_commit": "2026-08-24T11:45:04Z",
             "owner": "GeiserX",
             "repo": "DeclaRenta",
             "stars": 46
@@ -2958,7 +3360,7 @@
                 "archived": false,
                 "id": 20186069,
                 "language": "Java",
-                "last_commit": "2026-08-24T01:22:20Z",
+                "last_commit": "2026-08-24T11:51:55Z",
                 "owner": "ctt-gob-es",
                 "repo": "clienteafirma",
                 "stars": 330
@@ -5930,6 +6332,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "AENA_Info_Vuelos",
+              "description": "Scraper de información de vuelos de AENA (Aeropuertos Españoles y Navegación Aérea).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 125722298,
+                "language": "HTML",
+                "last_commit": "2018-11-19T21:34:40Z",
+                "owner": "InnocenceAllen",
+                "repo": "AENA_Info_Vuelos",
+                "stars": 8
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Aeropuertos"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "bicing-api",
               "description": "API REST para estadísticas y localizaciones de estaciones de Bicing (Barcelona).",
               "children": [],
@@ -6386,7 +6810,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T11:37:52.809Z",
+    "last_updated": "2026-08-24T14:29:06.688Z",
     "original_repository": "GeiserX/awesome-spain",
     "original_repository_id": 1187199436,
     "original_repository_sha": "50f61cdf14b828e86226b112447d557ad00b8d3c",
