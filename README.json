@@ -649,7 +649,7 @@
             "archived": false,
             "id": 461959149,
             "language": "HTML",
-            "last_commit": "2026-08-23T11:12:18Z",
+            "last_commit": "2026-08-24T11:18:19Z",
             "owner": "soker90",
             "repo": "precio-gasolina",
             "stars": 3
@@ -925,7 +925,7 @@
             "archived": false,
             "id": 1154422915,
             "language": "HTML",
-            "last_commit": "2026-08-17T00:54:51Z",
+            "last_commit": "2026-08-24T00:55:51Z",
             "owner": "datania",
             "repo": "mercadona-catalog",
             "stars": 9
@@ -1075,7 +1075,7 @@
             "archived": false,
             "id": 948078621,
             "language": "Python",
-            "last_commit": "2026-08-17T06:51:55Z",
+            "last_commit": "2026-08-24T06:54:57Z",
             "owner": "datania",
             "repo": "ine-catalog",
             "stars": 3
@@ -1268,7 +1268,7 @@
             "archived": false,
             "id": 10214008,
             "language": null,
-            "last_commit": "2026-08-22T18:25:44Z",
+            "last_commit": "2026-08-23T12:56:54Z",
             "owner": "openfootball",
             "repo": "espana",
             "stars": 78
@@ -1655,7 +1655,7 @@
             "last_commit": "2026-07-28T16:13:30Z",
             "owner": "uvejota",
             "repo": "homeassistant-edata",
-            "stars": 333
+            "stars": 334
           }
         },
         {
@@ -1907,7 +1907,7 @@
             "archived": false,
             "id": 449294521,
             "language": "Python",
-            "last_commit": "2026-08-09T16:12:30Z",
+            "last_commit": "2026-08-23T16:12:44Z",
             "owner": "hectorespert",
             "repo": "som-energia-hass",
             "stars": 10
@@ -1982,7 +1982,7 @@
             "archived": false,
             "id": 1137833640,
             "language": "JavaScript",
-            "last_commit": "2026-08-23T05:57:23Z",
+            "last_commit": "2026-08-24T11:31:16Z",
             "owner": "almax-es",
             "repo": "luzfija.es",
             "stars": 5
@@ -2048,7 +2048,7 @@
             "archived": false,
             "id": 9263296,
             "language": "PHP",
-            "last_commit": "2026-08-21T15:46:19Z",
+            "last_commit": "2026-08-24T11:27:20Z",
             "owner": "NeoRazorX",
             "repo": "facturascripts",
             "stars": 490
@@ -2078,7 +2078,7 @@
             "archived": false,
             "id": 1207185051,
             "language": "TypeScript",
-            "last_commit": "2026-08-20T14:07:02Z",
+            "last_commit": "2026-08-24T10:08:02Z",
             "owner": "GeiserX",
             "repo": "DeclaRenta",
             "stars": 46
@@ -2958,7 +2958,7 @@
                 "archived": false,
                 "id": 20186069,
                 "language": "Java",
-                "last_commit": "2026-08-22T18:52:25Z",
+                "last_commit": "2026-08-24T01:22:20Z",
                 "owner": "ctt-gob-es",
                 "repo": "clienteafirma",
                 "stars": 330
@@ -3757,7 +3757,7 @@
             "archived": false,
             "id": 539629703,
             "language": "Python",
-            "last_commit": "2026-08-17T06:22:37Z",
+            "last_commit": "2026-08-24T06:21:15Z",
             "owner": "Danieldiazi",
             "repo": "homeassistant-meteogalicia",
             "stars": 19
@@ -3949,7 +3949,7 @@
             "archived": false,
             "id": 65914086,
             "language": "Ruby",
-            "last_commit": "2026-08-22T10:19:31Z",
+            "last_commit": "2026-08-24T04:15:13Z",
             "owner": "decidim",
             "repo": "decidim",
             "stars": 1807
@@ -3964,7 +3964,7 @@
             "archived": false,
             "id": 39152554,
             "language": "Ruby",
-            "last_commit": "2026-08-17T05:49:27Z",
+            "last_commit": "2026-08-24T08:29:04Z",
             "owner": "consuldemocracy",
             "repo": "consuldemocracy",
             "stars": 1547
@@ -5046,10 +5046,10 @@
             "archived": false,
             "id": 100126804,
             "language": "Python",
-            "last_commit": "2026-08-17T21:43:38Z",
+            "last_commit": "2026-08-23T21:52:32Z",
             "owner": "LaQuay",
             "repo": "TDTChannels",
-            "stars": 1650
+            "stars": 1651
           }
         },
         {
@@ -6386,7 +6386,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T11:30:07.731Z",
+    "last_updated": "2026-08-24T11:37:52.809Z",
     "original_repository": "GeiserX/awesome-spain",
     "original_repository_id": 1187199436,
     "original_repository_sha": "50f61cdf14b828e86226b112447d557ad00b8d3c",
