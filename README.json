@@ -649,7 +649,7 @@
             "archived": false,
             "id": 461959149,
             "language": "HTML",
-            "last_commit": "2026-08-24T15:29:21Z",
+            "last_commit": "2026-08-25T11:17:56Z",
             "owner": "soker90",
             "repo": "precio-gasolina",
             "stars": 3
@@ -2102,7 +2102,7 @@
             "last_commit": "2026-05-24T16:42:47Z",
             "owner": "luuuis",
             "repo": "hass_omie",
-            "stars": 80
+            "stars": 81
           }
         },
         {
@@ -2384,7 +2384,7 @@
             "archived": false,
             "id": 1137833640,
             "language": "JavaScript",
-            "last_commit": "2026-08-24T20:17:01Z",
+            "last_commit": "2026-08-25T10:40:47Z",
             "owner": "almax-es",
             "repo": "luzfija.es",
             "stars": 5
@@ -2726,7 +2726,7 @@
                 "archived": false,
                 "id": 292311963,
                 "language": "Go",
-                "last_commit": "2026-08-19T08:38:53Z",
+                "last_commit": "2026-08-25T08:00:07Z",
                 "owner": "invopop",
                 "repo": "gobl",
                 "stars": 300
@@ -4366,7 +4366,7 @@
             "archived": false,
             "id": 39152554,
             "language": "Ruby",
-            "last_commit": "2026-08-24T15:17:17Z",
+            "last_commit": "2026-08-25T09:57:30Z",
             "owner": "consuldemocracy",
             "repo": "consuldemocracy",
             "stars": 1547
@@ -4635,7 +4635,7 @@
                 "archived": false,
                 "id": 17015540,
                 "language": "Perl",
-                "last_commit": "2026-08-22T18:22:03Z",
+                "last_commit": "2026-08-25T08:40:36Z",
                 "owner": "Softcatala",
                 "repo": "catalan-dict-tools",
                 "stars": 65
@@ -6810,7 +6810,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:19:03.380Z",
+    "last_updated": "2026-08-25T11:36:51.716Z",
     "original_repository": "GeiserX/awesome-spain",
     "original_repository_id": 1187199436,
     "original_repository_sha": "50f61cdf14b828e86226b112447d557ad00b8d3c",
