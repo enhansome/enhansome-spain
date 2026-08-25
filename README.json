@@ -649,7 +649,7 @@
             "archived": false,
             "id": 461959149,
             "language": "HTML",
-            "last_commit": "2026-08-24T11:18:19Z",
+            "last_commit": "2026-08-24T15:29:21Z",
             "owner": "soker90",
             "repo": "precio-gasolina",
             "stars": 3
@@ -1230,6 +1230,21 @@
         },
         {
           "node_type": "item",
+          "title": "ccaa-provincias-municipios",
+          "description": "Tablas MySQL para vincular CCAA con provincias y municipios de España.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 302334703,
+            "language": null,
+            "last_commit": "2020-10-08T15:36:35Z",
+            "owner": "oscarnovasf",
+            "repo": "ccaa-provincias-municipios",
+            "stars": 22
+          }
+        },
+        {
+          "node_type": "item",
           "title": "opendataes",
           "description": "Paquete R para acceder a datos de datos.gob.es de forma programática.",
           "children": [],
@@ -1241,21 +1256,6 @@
             "owner": "rOpenSpain",
             "repo": "opendataes",
             "stars": 22
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ccaa-provincias-municipios",
-          "description": "Tablas MySQL para vincular CCAA con provincias y municipios de España.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 302334703,
-            "language": null,
-            "last_commit": "2020-10-08T15:36:35Z",
-            "owner": "oscarnovasf",
-            "repo": "ccaa-provincias-municipios",
-            "stars": 21
           }
         },
         {
@@ -1282,7 +1282,7 @@
             "archived": false,
             "id": 353524206,
             "language": "R",
-            "last_commit": "2026-08-15T09:25:36Z",
+            "last_commit": "2026-08-24T18:23:42Z",
             "owner": "rOpenSpain",
             "repo": "tidyBdE",
             "stars": 12
@@ -2384,7 +2384,7 @@
             "archived": false,
             "id": 1137833640,
             "language": "JavaScript",
-            "last_commit": "2026-08-24T13:58:46Z",
+            "last_commit": "2026-08-24T20:17:01Z",
             "owner": "almax-es",
             "repo": "luzfija.es",
             "stars": 5
@@ -2729,7 +2729,7 @@
                 "last_commit": "2026-08-19T08:38:53Z",
                 "owner": "invopop",
                 "repo": "gobl",
-                "stars": 299
+                "stars": 300
               }
             },
             {
@@ -3375,7 +3375,7 @@
                 "archived": false,
                 "id": 695448736,
                 "language": "Nix",
-                "last_commit": "2026-08-21T15:54:26Z",
+                "last_commit": "2026-08-24T15:56:05Z",
                 "owner": "nix-community",
                 "repo": "autofirma-nix",
                 "stars": 55
@@ -4144,7 +4144,7 @@
             "archived": false,
             "id": 277600874,
             "language": "R",
-            "last_commit": "2026-08-19T12:31:44Z",
+            "last_commit": "2026-08-24T22:03:00Z",
             "owner": "rOpenSpain",
             "repo": "climaemet",
             "stars": 46
@@ -4351,7 +4351,7 @@
             "archived": false,
             "id": 65914086,
             "language": "Ruby",
-            "last_commit": "2026-08-24T04:15:13Z",
+            "last_commit": "2026-08-25T01:29:44Z",
             "owner": "decidim",
             "repo": "decidim",
             "stars": 1807
@@ -4366,7 +4366,7 @@
             "archived": false,
             "id": 39152554,
             "language": "Ruby",
-            "last_commit": "2026-08-24T08:29:04Z",
+            "last_commit": "2026-08-24T15:17:17Z",
             "owner": "consuldemocracy",
             "repo": "consuldemocracy",
             "stars": 1547
@@ -5330,7 +5330,7 @@
             "archived": false,
             "id": 1025912736,
             "language": "Python",
-            "last_commit": "2026-08-22T16:08:03Z",
+            "last_commit": "2026-08-24T16:20:01Z",
             "owner": "mv12star",
             "repo": "lista-telefonos-spam",
             "stars": 28
@@ -5749,7 +5749,7 @@
             "last_commit": "2026-08-17T10:26:57Z",
             "owner": "legalize-dev",
             "repo": "legalize-es",
-            "stars": 1871
+            "stars": 1872
           }
         },
         {
@@ -6810,7 +6810,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:29:06.688Z",
+    "last_updated": "2026-08-25T06:19:03.380Z",
     "original_repository": "GeiserX/awesome-spain",
     "original_repository_id": 1187199436,
     "original_repository_sha": "50f61cdf14b828e86226b112447d557ad00b8d3c",
