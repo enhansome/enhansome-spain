@@ -240,7 +240,7 @@
             "archived": false,
             "id": 94240565,
             "language": "R",
-            "last_commit": "2026-08-14T13:52:32Z",
+            "last_commit": "2026-08-26T10:28:10Z",
             "owner": "rOpenSpain",
             "repo": "CatastRo",
             "stars": 31
@@ -649,7 +649,7 @@
             "archived": false,
             "id": 461959149,
             "language": "HTML",
-            "last_commit": "2026-08-25T11:17:56Z",
+            "last_commit": "2026-08-26T11:19:56Z",
             "owner": "soker90",
             "repo": "precio-gasolina",
             "stars": 3
@@ -1024,7 +1024,7 @@
                 "archived": false,
                 "id": 1209383786,
                 "language": null,
-                "last_commit": "2026-08-01T10:42:49Z",
+                "last_commit": "2026-08-25T15:02:19Z",
                 "owner": "GeiserX",
                 "repo": "awesome-euskadi",
                 "stars": 5
@@ -1282,7 +1282,7 @@
             "archived": false,
             "id": 353524206,
             "language": "R",
-            "last_commit": "2026-08-24T18:23:42Z",
+            "last_commit": "2026-08-26T08:39:15Z",
             "owner": "rOpenSpain",
             "repo": "tidyBdE",
             "stars": 12
@@ -1670,7 +1670,7 @@
             "archived": false,
             "id": 10214008,
             "language": null,
-            "last_commit": "2026-08-23T12:56:54Z",
+            "last_commit": "2026-08-25T14:20:50Z",
             "owner": "openfootball",
             "repo": "espana",
             "stars": 78
@@ -2057,7 +2057,7 @@
             "last_commit": "2026-07-28T16:13:30Z",
             "owner": "uvejota",
             "repo": "homeassistant-edata",
-            "stars": 334
+            "stars": 335
           }
         },
         {
@@ -2384,7 +2384,7 @@
             "archived": false,
             "id": 1137833640,
             "language": "JavaScript",
-            "last_commit": "2026-08-25T10:40:47Z",
+            "last_commit": "2026-08-26T10:51:48Z",
             "owner": "almax-es",
             "repo": "luzfija.es",
             "stars": 5
@@ -2438,7 +2438,7 @@
             "last_commit": "2026-08-21T18:36:51Z",
             "owner": "OCA",
             "repo": "l10n-spain",
-            "stars": 549
+            "stars": 550
           }
         },
         {
@@ -2450,7 +2450,7 @@
             "archived": false,
             "id": 9263296,
             "language": "PHP",
-            "last_commit": "2026-08-24T11:27:20Z",
+            "last_commit": "2026-08-26T09:14:46Z",
             "owner": "NeoRazorX",
             "repo": "facturascripts",
             "stars": 490
@@ -2726,7 +2726,7 @@
                 "archived": false,
                 "id": 292311963,
                 "language": "Go",
-                "last_commit": "2026-08-25T08:00:07Z",
+                "last_commit": "2026-08-25T16:26:18Z",
                 "owner": "invopop",
                 "repo": "gobl",
                 "stars": 300
@@ -3190,7 +3190,7 @@
                 "archived": false,
                 "id": 1023109211,
                 "language": "Ruby",
-                "last_commit": "2026-06-12T13:49:47Z",
+                "last_commit": "2026-08-25T16:25:43Z",
                 "owner": "mybooking-es",
                 "repo": "verifactu-rb",
                 "stars": 11
@@ -3375,7 +3375,7 @@
                 "archived": false,
                 "id": 695448736,
                 "language": "Nix",
-                "last_commit": "2026-08-24T15:56:05Z",
+                "last_commit": "2026-08-25T15:55:40Z",
                 "owner": "nix-community",
                 "repo": "autofirma-nix",
                 "stars": 55
@@ -4144,7 +4144,7 @@
             "archived": false,
             "id": 277600874,
             "language": "R",
-            "last_commit": "2026-08-24T22:03:00Z",
+            "last_commit": "2026-08-26T11:12:34Z",
             "owner": "rOpenSpain",
             "repo": "climaemet",
             "stars": 46
@@ -4351,10 +4351,10 @@
             "archived": false,
             "id": 65914086,
             "language": "Ruby",
-            "last_commit": "2026-08-25T01:29:44Z",
+            "last_commit": "2026-08-26T01:42:03Z",
             "owner": "decidim",
             "repo": "decidim",
-            "stars": 1807
+            "stars": 1808
           }
         },
         {
@@ -4366,7 +4366,7 @@
             "archived": false,
             "id": 39152554,
             "language": "Ruby",
-            "last_commit": "2026-08-25T09:57:30Z",
+            "last_commit": "2026-08-25T17:13:58Z",
             "owner": "consuldemocracy",
             "repo": "consuldemocracy",
             "stars": 1547
@@ -4381,7 +4381,7 @@
             "archived": false,
             "id": 78930746,
             "language": "HTML",
-            "last_commit": "2026-08-21T07:37:05Z",
+            "last_commit": "2026-08-26T10:32:21Z",
             "owner": "AjuntamentdeBarcelona",
             "repo": "decidim-barcelona",
             "stars": 85
@@ -4635,7 +4635,7 @@
                 "archived": false,
                 "id": 17015540,
                 "language": "Perl",
-                "last_commit": "2026-08-25T08:40:36Z",
+                "last_commit": "2026-08-26T10:23:54Z",
                 "owner": "Softcatala",
                 "repo": "catalan-dict-tools",
                 "stars": 65
@@ -5330,7 +5330,7 @@
             "archived": false,
             "id": 1025912736,
             "language": "Python",
-            "last_commit": "2026-08-24T16:20:01Z",
+            "last_commit": "2026-08-25T16:21:05Z",
             "owner": "mv12star",
             "repo": "lista-telefonos-spam",
             "stars": 28
@@ -5451,7 +5451,7 @@
             "last_commit": "2026-08-23T21:52:32Z",
             "owner": "LaQuay",
             "repo": "TDTChannels",
-            "stars": 1651
+            "stars": 1652
           }
         },
         {
@@ -5746,10 +5746,10 @@
             "archived": false,
             "id": 1193927913,
             "language": null,
-            "last_commit": "2026-08-17T10:26:57Z",
+            "last_commit": "2026-08-26T10:29:26Z",
             "owner": "legalize-dev",
             "repo": "legalize-es",
-            "stars": 1872
+            "stars": 1873
           }
         },
         {
@@ -6810,7 +6810,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T11:36:51.716Z",
+    "last_updated": "2026-08-26T11:38:33.528Z",
     "original_repository": "GeiserX/awesome-spain",
     "original_repository_id": 1187199436,
     "original_repository_sha": "50f61cdf14b828e86226b112447d557ad00b8d3c",
