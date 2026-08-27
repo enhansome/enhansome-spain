@@ -195,7 +195,7 @@
             "archived": false,
             "id": 310689182,
             "language": "R",
-            "last_commit": "2026-08-22T21:00:16Z",
+            "last_commit": "2026-08-26T14:49:58Z",
             "owner": "rOpenSpain",
             "repo": "mapSpain",
             "stars": 49
@@ -240,7 +240,7 @@
             "archived": false,
             "id": 94240565,
             "language": "R",
-            "last_commit": "2026-08-26T10:28:10Z",
+            "last_commit": "2026-08-27T06:58:25Z",
             "owner": "rOpenSpain",
             "repo": "CatastRo",
             "stars": 31
@@ -465,7 +465,7 @@
             "archived": false,
             "id": 471005556,
             "language": "R",
-            "last_commit": "2026-08-14T13:59:43Z",
+            "last_commit": "2026-08-26T14:46:39Z",
             "owner": "rOpenSpain",
             "repo": "CatastRoNav",
             "stars": 2
@@ -649,7 +649,7 @@
             "archived": false,
             "id": 461959149,
             "language": "HTML",
-            "last_commit": "2026-08-26T11:19:56Z",
+            "last_commit": "2026-08-26T16:10:02Z",
             "owner": "soker90",
             "repo": "precio-gasolina",
             "stars": 3
@@ -2057,7 +2057,7 @@
             "last_commit": "2026-07-28T16:13:30Z",
             "owner": "uvejota",
             "repo": "homeassistant-edata",
-            "stars": 335
+            "stars": 336
           }
         },
         {
@@ -2237,7 +2237,7 @@
             "last_commit": "2026-06-12T18:15:21Z",
             "owner": "oscarrgarciia",
             "repo": "HA-PVPC-Updated",
-            "stars": 31
+            "stars": 32
           }
         },
         {
@@ -2369,7 +2369,7 @@
             "archived": false,
             "id": 23655536,
             "language": "Python",
-            "last_commit": "2026-08-17T07:16:53Z",
+            "last_commit": "2026-08-27T09:00:31Z",
             "owner": "gisce",
             "repo": "libCNMC",
             "stars": 5
@@ -2384,7 +2384,7 @@
             "archived": false,
             "id": 1137833640,
             "language": "JavaScript",
-            "last_commit": "2026-08-26T10:51:48Z",
+            "last_commit": "2026-08-27T08:38:59Z",
             "owner": "almax-es",
             "repo": "luzfija.es",
             "stars": 5
@@ -2438,7 +2438,7 @@
             "last_commit": "2026-08-21T18:36:51Z",
             "owner": "OCA",
             "repo": "l10n-spain",
-            "stars": 550
+            "stars": 551
           }
         },
         {
@@ -2494,8 +2494,8 @@
           "repo_info": {
             "archived": false,
             "id": 247062905,
-            "language": "Dockerfile",
-            "last_commit": "2026-08-05T10:51:00Z",
+            "language": "Shell",
+            "last_commit": "2026-08-27T08:54:56Z",
             "owner": "FacturaScripts",
             "repo": "docker-facturascripts",
             "stars": 27
@@ -2674,7 +2674,7 @@
                 "archived": false,
                 "id": 1055336429,
                 "language": "C#",
-                "last_commit": "2026-08-04T08:43:18Z",
+                "last_commit": "2026-08-26T15:03:52Z",
                 "owner": "mdiago",
                 "repo": "FACe",
                 "stars": 14
@@ -2726,10 +2726,10 @@
                 "archived": false,
                 "id": 292311963,
                 "language": "Go",
-                "last_commit": "2026-08-25T16:26:18Z",
+                "last_commit": "2026-08-26T14:03:40Z",
                 "owner": "invopop",
                 "repo": "gobl",
-                "stars": 300
+                "stars": 302
               }
             },
             {
@@ -3025,7 +3025,7 @@
                 "archived": false,
                 "id": 594140234,
                 "language": "C#",
-                "last_commit": "2026-08-04T08:42:43Z",
+                "last_commit": "2026-08-26T15:04:07Z",
                 "owner": "mdiago",
                 "repo": "VeriFactu",
                 "stars": 336
@@ -3375,7 +3375,7 @@
                 "archived": false,
                 "id": 695448736,
                 "language": "Nix",
-                "last_commit": "2026-08-25T15:55:40Z",
+                "last_commit": "2026-08-26T15:58:14Z",
                 "owner": "nix-community",
                 "repo": "autofirma-nix",
                 "stars": 55
@@ -4144,7 +4144,7 @@
             "archived": false,
             "id": 277600874,
             "language": "R",
-            "last_commit": "2026-08-26T11:12:34Z",
+            "last_commit": "2026-08-26T12:38:06Z",
             "owner": "rOpenSpain",
             "repo": "climaemet",
             "stars": 46
@@ -4189,7 +4189,7 @@
             "archived": false,
             "id": 163177427,
             "language": "JavaScript",
-            "last_commit": "2026-01-22T00:00:14Z",
+            "last_commit": "2026-08-26T18:58:58Z",
             "owner": "vulturno",
             "repo": "vulturno",
             "stars": 13
@@ -4351,7 +4351,7 @@
             "archived": false,
             "id": 65914086,
             "language": "Ruby",
-            "last_commit": "2026-08-26T01:42:03Z",
+            "last_commit": "2026-08-27T11:41:03Z",
             "owner": "decidim",
             "repo": "decidim",
             "stars": 1808
@@ -4366,7 +4366,7 @@
             "archived": false,
             "id": 39152554,
             "language": "Ruby",
-            "last_commit": "2026-08-25T17:13:58Z",
+            "last_commit": "2026-08-27T11:32:22Z",
             "owner": "consuldemocracy",
             "repo": "consuldemocracy",
             "stars": 1547
@@ -4381,7 +4381,7 @@
             "archived": false,
             "id": 78930746,
             "language": "HTML",
-            "last_commit": "2026-08-26T10:32:21Z",
+            "last_commit": "2026-08-27T11:52:10Z",
             "owner": "AjuntamentdeBarcelona",
             "repo": "decidim-barcelona",
             "stars": 85
@@ -5330,7 +5330,7 @@
             "archived": false,
             "id": 1025912736,
             "language": "Python",
-            "last_commit": "2026-08-25T16:21:05Z",
+            "last_commit": "2026-08-26T16:45:05Z",
             "owner": "mv12star",
             "repo": "lista-telefonos-spam",
             "stars": 28
@@ -5451,7 +5451,7 @@
             "last_commit": "2026-08-23T21:52:32Z",
             "owner": "LaQuay",
             "repo": "TDTChannels",
-            "stars": 1652
+            "stars": 1651
           }
         },
         {
@@ -5511,7 +5511,7 @@
             "last_commit": "2026-07-02T08:05:14Z",
             "owner": "Paco8",
             "repo": "plugin.video.movistarplus",
-            "stars": 83
+            "stars": 84
           }
         },
         {
@@ -6810,9 +6810,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T11:38:33.528Z",
-    "original_repository": "GeiserX/awesome-spain",
-    "original_repository_id": 1187199436,
+    "last_updated": "2026-08-27T12:03:07.684Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 1187199436,
+      "language": "Python",
+      "last_commit": "2026-08-07T14:01:59Z",
+      "owner": "GeiserX",
+      "repo": "awesome-spain",
+      "stars": 332
+    },
     "original_repository_sha": "50f61cdf14b828e86226b112447d557ad00b8d3c",
     "enhanced_repository": "enhansome/enhansome-spain",
     "enhanced_repository_description": null,
