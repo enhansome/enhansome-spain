@@ -63,7 +63,7 @@
             "archived": false,
             "id": 432434646,
             "language": "Python",
-            "last_commit": "2026-08-21T14:19:41Z",
+            "last_commit": "2026-08-27T13:39:07Z",
             "owner": "guerrerotook",
             "repo": "securitas-direct-new-api",
             "stars": 137
@@ -465,7 +465,7 @@
             "archived": false,
             "id": 471005556,
             "language": "R",
-            "last_commit": "2026-08-26T14:46:39Z",
+            "last_commit": "2026-08-27T19:50:03Z",
             "owner": "rOpenSpain",
             "repo": "CatastRoNav",
             "stars": 2
@@ -649,7 +649,7 @@
             "archived": false,
             "id": 461959149,
             "language": "HTML",
-            "last_commit": "2026-08-26T16:10:02Z",
+            "last_commit": "2026-08-27T17:59:00Z",
             "owner": "soker90",
             "repo": "precio-gasolina",
             "stars": 3
@@ -2384,7 +2384,7 @@
             "archived": false,
             "id": 1137833640,
             "language": "JavaScript",
-            "last_commit": "2026-08-27T08:38:59Z",
+            "last_commit": "2026-08-27T20:50:55Z",
             "owner": "almax-es",
             "repo": "luzfija.es",
             "stars": 5
@@ -2450,10 +2450,10 @@
             "archived": false,
             "id": 9263296,
             "language": "PHP",
-            "last_commit": "2026-08-26T09:14:46Z",
+            "last_commit": "2026-08-27T18:36:34Z",
             "owner": "NeoRazorX",
             "repo": "facturascripts",
-            "stars": 490
+            "stars": 491
           }
         },
         {
@@ -2988,7 +2988,7 @@
                 "archived": false,
                 "id": 788935987,
                 "language": "TypeScript",
-                "last_commit": "2026-05-18T11:04:25Z",
+                "last_commit": "2026-08-27T12:19:34Z",
                 "owner": "binovo",
                 "repo": "verifactu-xmlgen",
                 "stars": 5
@@ -3375,7 +3375,7 @@
                 "archived": false,
                 "id": 695448736,
                 "language": "Nix",
-                "last_commit": "2026-08-26T15:58:14Z",
+                "last_commit": "2026-08-27T15:57:52Z",
                 "owner": "nix-community",
                 "repo": "autofirma-nix",
                 "stars": 55
@@ -3393,7 +3393,7 @@
                 "last_commit": "2026-04-29T11:51:20Z",
                 "owner": "ctt-gob-es",
                 "repo": "jmulticard",
-                "stars": 45
+                "stars": 46
               }
             },
             {
@@ -4351,10 +4351,10 @@
             "archived": false,
             "id": 65914086,
             "language": "Ruby",
-            "last_commit": "2026-08-27T11:41:03Z",
+            "last_commit": "2026-08-27T16:03:11Z",
             "owner": "decidim",
             "repo": "decidim",
-            "stars": 1808
+            "stars": 1809
           }
         },
         {
@@ -4366,7 +4366,7 @@
             "archived": false,
             "id": 39152554,
             "language": "Ruby",
-            "last_commit": "2026-08-27T11:32:22Z",
+            "last_commit": "2026-08-27T20:24:16Z",
             "owner": "consuldemocracy",
             "repo": "consuldemocracy",
             "stars": 1547
@@ -4892,7 +4892,7 @@
             "archived": false,
             "id": 1043243966,
             "language": "Python",
-            "last_commit": "2026-08-08T10:18:17Z",
+            "last_commit": "2026-08-27T14:51:59Z",
             "owner": "ComputingVictor",
             "repo": "MCP-BOE",
             "stars": 48
@@ -5646,7 +5646,7 @@
             "last_commit": "2026-03-04T08:36:55Z",
             "owner": "Paco8",
             "repo": "plugin.video.orange.spain",
-            "stars": 19
+            "stars": 20
           }
         },
         {
@@ -5749,7 +5749,7 @@
             "last_commit": "2026-08-26T10:29:26Z",
             "owner": "legalize-dev",
             "repo": "legalize-es",
-            "stars": 1873
+            "stars": 1874
           }
         },
         {
@@ -6810,7 +6810,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T12:03:07.684Z",
+    "last_updated": "2026-08-27T20:59:01.807Z",
     "original_repository_info": {
       "archived": false,
       "id": 1187199436,
