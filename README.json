@@ -16,7 +16,8 @@
             "owner": "dan96ct",
             "repo": "sigpac-client",
             "stars": 17
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "geomatico",
             "repo": "qgis-sigpac",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "KhaosResearch",
             "repo": "sigpac-tools",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         }
       ],
       "title": "Agricultura"
@@ -63,11 +66,12 @@
             "archived": false,
             "id": 432434646,
             "language": "Python",
-            "last_commit": "2026-08-27T13:39:07Z",
+            "last_commit": "2026-08-28T12:06:45Z",
             "owner": "guerrerotook",
             "repo": "securitas-direct-new-api",
             "stars": 137
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         },
         {
           "node_type": "item",
@@ -82,7 +86,8 @@
             "owner": "segalion",
             "repo": "securitasdirect",
             "stars": 46
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         },
         {
           "node_type": "item",
@@ -97,7 +102,8 @@
             "owner": "ptz0n",
             "repo": "homebridge-securitas-direct",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         },
         {
           "node_type": "item",
@@ -112,7 +118,8 @@
             "owner": "dgomes",
             "repo": "pyprosegur",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         },
         {
           "node_type": "item",
@@ -127,7 +134,8 @@
             "owner": "dgomes",
             "repo": "ha_prosegur",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         }
       ],
       "title": "Alarmas y Seguridad del Hogar"
@@ -148,7 +156,8 @@
             "owner": "alastria",
             "repo": "alastria-identity",
             "stars": 39
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         },
         {
           "node_type": "item",
@@ -163,7 +172,8 @@
             "owner": "alastria",
             "repo": "alastria-node-besu",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         }
       ],
       "title": "Blockchain e Identidad Digital"
@@ -183,8 +193,9 @@
             "last_commit": "2023-04-23T20:28:13Z",
             "owner": "martgnz",
             "repo": "bcn-geodata",
-            "stars": 69
-          }
+            "stars": 70
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         },
         {
           "node_type": "item",
@@ -195,11 +206,12 @@
             "archived": false,
             "id": 310689182,
             "language": "R",
-            "last_commit": "2026-08-26T14:49:58Z",
+            "last_commit": "2026-08-28T13:38:18Z",
             "owner": "rOpenSpain",
             "repo": "mapSpain",
             "stars": 49
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         },
         {
           "node_type": "item",
@@ -214,7 +226,8 @@
             "owner": "sigdeletras",
             "repo": "Leaflet.Spain.WMS",
             "stars": 36
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         },
         {
           "node_type": "item",
@@ -229,7 +242,8 @@
             "owner": "gisce",
             "repo": "pycatastro",
             "stars": 36
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         },
         {
           "node_type": "item",
@@ -240,11 +254,12 @@
             "archived": false,
             "id": 94240565,
             "language": "R",
-            "last_commit": "2026-08-27T06:58:25Z",
+            "last_commit": "2026-08-28T13:21:55Z",
             "owner": "rOpenSpain",
             "repo": "CatastRo",
             "stars": 31
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         },
         {
           "node_type": "item",
@@ -259,7 +274,8 @@
             "owner": "oscarfonts",
             "repo": "catastro2postgis",
             "stars": 28
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         },
         {
           "node_type": "item",
@@ -274,7 +290,8 @@
             "owner": "rOpenSpain",
             "repo": "caRtociudad",
             "stars": 25
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         },
         {
           "node_type": "item",
@@ -289,7 +306,8 @@
             "owner": "geomatico",
             "repo": "cidownloader",
             "stars": 20
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         },
         {
           "node_type": "item",
@@ -304,7 +322,8 @@
             "owner": "chapulincatastral",
             "repo": "generador-gml",
             "stars": 18
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         },
         {
           "node_type": "item",
@@ -319,7 +338,8 @@
             "owner": "OSM-es",
             "repo": "CatAtom2Osm",
             "stars": 15
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         },
         {
           "node_type": "item",
@@ -334,7 +354,8 @@
             "owner": "josejuanmartinez",
             "repo": "libreCatastro",
             "stars": 14
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         },
         {
           "node_type": "item",
@@ -349,7 +370,8 @@
             "owner": "IvanitiX",
             "repo": "ESCatastroLib",
             "stars": 13
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         },
         {
           "node_type": "item",
@@ -364,7 +386,8 @@
             "owner": "sperea",
             "repo": "catastro-lib-python",
             "stars": 12
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         },
         {
           "node_type": "item",
@@ -375,11 +398,12 @@
             "archived": false,
             "id": 921066224,
             "language": "JavaScript",
-            "last_commit": "2026-08-20T08:03:51Z",
+            "last_commit": "2026-08-28T11:01:39Z",
             "owner": "Desarrollos-IDEE",
             "repo": "API-IDEE",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         },
         {
           "node_type": "item",
@@ -394,7 +418,8 @@
             "owner": "dieghernan",
             "repo": "leaflet-providersESP",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         },
         {
           "node_type": "item",
@@ -409,7 +434,8 @@
             "owner": "IDEESpain",
             "repo": "Cartociudad",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         },
         {
           "node_type": "item",
@@ -424,7 +450,8 @@
             "owner": "ernestofgonzalez",
             "repo": "trece",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         },
         {
           "node_type": "item",
@@ -439,7 +466,8 @@
             "owner": "IGN-CNIG",
             "repo": "API-CNIG",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         },
         {
           "node_type": "item",
@@ -454,7 +482,8 @@
             "owner": "PyLadiesMadrid",
             "repo": "pycartociudad",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         },
         {
           "node_type": "item",
@@ -465,11 +494,12 @@
             "archived": false,
             "id": 471005556,
             "language": "R",
-            "last_commit": "2026-08-27T19:50:03Z",
+            "last_commit": "2026-08-28T13:21:56Z",
             "owner": "rOpenSpain",
             "repo": "CatastRoNav",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         }
       ],
       "title": "Cartografía y Catastro"
@@ -492,7 +522,8 @@
                 "owner": "carlosramosa",
                 "repo": "api-filmaffinity",
                 "stars": 29
-              }
+              },
+              "first_seen": "2026-08-28T21:21:12.343Z"
             },
             {
               "node_type": "item",
@@ -507,7 +538,8 @@
                 "owner": "xsga",
                 "repo": "filmaffinity-api",
                 "stars": 26
-              }
+              },
+              "first_seen": "2026-08-28T21:21:12.343Z"
             },
             {
               "node_type": "item",
@@ -522,7 +554,8 @@
                 "owner": "sergiormb",
                 "repo": "python_filmaffinity",
                 "stars": 22
-              }
+              },
+              "first_seen": "2026-08-28T21:21:12.343Z"
             },
             {
               "node_type": "item",
@@ -537,7 +570,8 @@
                 "owner": "gism",
                 "repo": "filmaffinity2CSV",
                 "stars": 20
-              }
+              },
+              "first_seen": "2026-08-28T21:21:12.343Z"
             },
             {
               "node_type": "item",
@@ -552,7 +586,8 @@
                 "owner": "svex99",
                 "repo": "faffinity-bot",
                 "stars": 12
-              }
+              },
+              "first_seen": "2026-08-28T21:21:12.343Z"
             }
           ],
           "description": null,
@@ -578,7 +613,8 @@
             "owner": "miguelangellv",
             "repo": "ha-gas-station-spain",
             "stars": 59
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         },
         {
           "node_type": "item",
@@ -593,7 +629,8 @@
             "owner": "igorrecioh",
             "repo": "gasolineras-app-android",
             "stars": 11
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         },
         {
           "node_type": "item",
@@ -608,7 +645,8 @@
             "owner": "ormeno",
             "repo": "combustible_bot",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         },
         {
           "node_type": "item",
@@ -623,7 +661,8 @@
             "owner": "kbsali",
             "repo": "gasolineras-espana",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         },
         {
           "node_type": "item",
@@ -638,7 +677,8 @@
             "owner": "Flerex",
             "repo": "spain-gas",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         },
         {
           "node_type": "item",
@@ -649,11 +689,12 @@
             "archived": false,
             "id": 461959149,
             "language": "HTML",
-            "last_commit": "2026-08-27T17:59:00Z",
+            "last_commit": "2026-08-28T19:09:24Z",
             "owner": "soker90",
             "repo": "precio-gasolina",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         }
       ],
       "title": "Combustible y Estaciones de Servicio"
@@ -676,7 +717,8 @@
                 "owner": "GeiserX",
                 "repo": "awesome-andalucia",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T21:21:12.343Z"
             }
           ],
           "description": null,
@@ -698,7 +740,8 @@
                 "owner": "GeiserX",
                 "repo": "awesome-aragon",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T21:21:12.343Z"
             }
           ],
           "description": null,
@@ -720,7 +763,8 @@
                 "owner": "GeiserX",
                 "repo": "awesome-asturies",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T21:21:12.343Z"
             }
           ],
           "description": null,
@@ -742,7 +786,8 @@
                 "owner": "GeiserX",
                 "repo": "awesome-canarias",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T21:21:12.343Z"
             }
           ],
           "description": null,
@@ -764,7 +809,8 @@
                 "owner": "GeiserX",
                 "repo": "awesome-cantabria",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T21:21:12.343Z"
             }
           ],
           "description": null,
@@ -786,7 +832,8 @@
                 "owner": "GeiserX",
                 "repo": "awesome-castilla-la-mancha",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T21:21:12.343Z"
             }
           ],
           "description": null,
@@ -808,7 +855,8 @@
                 "owner": "GeiserX",
                 "repo": "awesome-castilla-y-leon",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T21:21:12.343Z"
             }
           ],
           "description": null,
@@ -830,7 +878,8 @@
                 "owner": "GeiserX",
                 "repo": "awesome-catalunya",
                 "stars": 11
-              }
+              },
+              "first_seen": "2026-08-28T21:21:12.343Z"
             }
           ],
           "description": null,
@@ -852,7 +901,8 @@
                 "owner": "GeiserX",
                 "repo": "awesome-ceuta-y-melilla",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T21:21:12.343Z"
             }
           ],
           "description": null,
@@ -874,7 +924,8 @@
                 "owner": "GeiserX",
                 "repo": "awesome-comunidad-de-madrid",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T21:21:12.343Z"
             }
           ],
           "description": null,
@@ -896,7 +947,8 @@
                 "owner": "GeiserX",
                 "repo": "awesome-comunitat-valenciana",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T21:21:12.343Z"
             }
           ],
           "description": null,
@@ -918,7 +970,8 @@
                 "owner": "GeiserX",
                 "repo": "awesome-extremadura",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T21:21:12.343Z"
             }
           ],
           "description": null,
@@ -940,7 +993,8 @@
                 "owner": "GeiserX",
                 "repo": "awesome-galicia",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T21:21:12.343Z"
             }
           ],
           "description": null,
@@ -962,7 +1016,8 @@
                 "owner": "GeiserX",
                 "repo": "awesome-illes-balears",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T21:21:12.343Z"
             }
           ],
           "description": null,
@@ -984,7 +1039,8 @@
                 "owner": "GeiserX",
                 "repo": "awesome-la-rioja",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T21:21:12.343Z"
             }
           ],
           "description": null,
@@ -1006,7 +1062,8 @@
                 "owner": "GeiserX",
                 "repo": "awesome-nafarroa",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T21:21:12.343Z"
             }
           ],
           "description": null,
@@ -1028,7 +1085,8 @@
                 "owner": "GeiserX",
                 "repo": "awesome-euskadi",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T21:21:12.343Z"
             }
           ],
           "description": null,
@@ -1050,7 +1108,8 @@
                 "owner": "GeiserX",
                 "repo": "awesome-region-de-murcia",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-28T21:21:12.343Z"
             }
           ],
           "description": null,
@@ -1076,7 +1135,8 @@
             "owner": "datadista",
             "repo": "datasets",
             "stars": 333
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         },
         {
           "node_type": "item",
@@ -1091,7 +1151,8 @@
             "owner": "inigoflores",
             "repo": "ds-codigos-postales-ine-es",
             "stars": 163
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         },
         {
           "node_type": "item",
@@ -1102,11 +1163,12 @@
             "archived": false,
             "id": 357524767,
             "language": "Jupyter Notebook",
-            "last_commit": "2026-08-17T10:47:09Z",
+            "last_commit": "2026-08-28T15:19:09Z",
             "owner": "Admindatosgobes",
             "repo": "Laboratorio-de-Datos",
             "stars": 68
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         },
         {
           "node_type": "item",
@@ -1121,7 +1183,8 @@
             "owner": "martgnz",
             "repo": "es-atlas",
             "stars": 67
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         },
         {
           "node_type": "item",
@@ -1136,7 +1199,8 @@
             "owner": "rOpenSpain",
             "repo": "spanishoddata",
             "stars": 48
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         },
         {
           "node_type": "item",
@@ -1151,7 +1215,8 @@
             "owner": "jvalhondo",
             "repo": "spanish-names-surnames",
             "stars": 35
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         },
         {
           "node_type": "item",
@@ -1166,7 +1231,8 @@
             "owner": "victorvicpal",
             "repo": "COVID19_es",
             "stars": 34
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         },
         {
           "node_type": "item",
@@ -1181,7 +1247,8 @@
             "owner": "antonrodin",
             "repo": "municipios",
             "stars": 32
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         },
         {
           "node_type": "item",
@@ -1196,7 +1263,8 @@
             "owner": "ctt-gob-es",
             "repo": "datos.gob.es",
             "stars": 31
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         },
         {
           "node_type": "item",
@@ -1211,7 +1279,8 @@
             "owner": "palmerabollo",
             "repo": "egov",
             "stars": 25
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         },
         {
           "node_type": "item",
@@ -1226,7 +1295,8 @@
             "owner": "rOpenSpain",
             "repo": "INEbaseR",
             "stars": 23
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         },
         {
           "node_type": "item",
@@ -1241,7 +1311,8 @@
             "owner": "oscarnovasf",
             "repo": "ccaa-provincias-municipios",
             "stars": 22
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         },
         {
           "node_type": "item",
@@ -1256,7 +1327,8 @@
             "owner": "rOpenSpain",
             "repo": "opendataes",
             "stars": 22
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         },
         {
           "node_type": "item",
@@ -1271,7 +1343,8 @@
             "owner": "rOpenSpain",
             "repo": "MicroDatosEs",
             "stars": 14
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         },
         {
           "node_type": "item",
@@ -1282,11 +1355,12 @@
             "archived": false,
             "id": 353524206,
             "language": "R",
-            "last_commit": "2026-08-26T08:39:15Z",
+            "last_commit": "2026-08-28T13:24:40Z",
             "owner": "rOpenSpain",
             "repo": "tidyBdE",
             "stars": 12
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         },
         {
           "node_type": "item",
@@ -1301,7 +1375,8 @@
             "owner": "jvaleroliet",
             "repo": "datosgobes",
             "stars": 10
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         },
         {
           "node_type": "item",
@@ -1316,7 +1391,8 @@
             "owner": "rOpenSpain",
             "repo": "Siane",
             "stars": 10
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         },
         {
           "node_type": "item",
@@ -1331,7 +1407,8 @@
             "owner": "datania",
             "repo": "mercadona-catalog",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         },
         {
           "node_type": "item",
@@ -1346,7 +1423,8 @@
             "owner": "didacrios",
             "repo": "municipios-provincias-comunidades-INE-spain",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         },
         {
           "node_type": "item",
@@ -1361,7 +1439,8 @@
             "owner": "ginopalazzo",
             "repo": "spain-open-data",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         },
         {
           "node_type": "item",
@@ -1376,7 +1455,8 @@
             "owner": "sigdeletras",
             "repo": "censosine21",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         },
         {
           "node_type": "item",
@@ -1391,7 +1471,8 @@
             "owner": "franciscojuan1974",
             "repo": "codigos_postales_spain",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         },
         {
           "node_type": "item",
@@ -1406,7 +1487,8 @@
             "owner": "datania",
             "repo": "hub",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         },
         {
           "node_type": "item",
@@ -1421,7 +1503,8 @@
             "owner": "davidgasquez",
             "repo": "dine",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         },
         {
           "node_type": "item",
@@ -1436,7 +1519,8 @@
             "owner": "ByMykel",
             "repo": "spanish-cities",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         },
         {
           "node_type": "item",
@@ -1451,7 +1535,8 @@
             "owner": "rOpenSpain",
             "repo": "airqualityES",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         },
         {
           "node_type": "item",
@@ -1466,7 +1551,8 @@
             "owner": "hmeleiro",
             "repo": "opencis",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         },
         {
           "node_type": "item",
@@ -1481,7 +1567,8 @@
             "owner": "datania",
             "repo": "ine-catalog",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         },
         {
           "node_type": "item",
@@ -1496,7 +1583,8 @@
             "owner": "GeiserX",
             "repo": "secciones-nacionalidades",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         },
         {
           "node_type": "item",
@@ -1511,7 +1599,8 @@
             "owner": "rOpenSpain",
             "repo": "tidycenso",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         },
         {
           "node_type": "item",
@@ -1526,7 +1615,8 @@
             "owner": "datania",
             "repo": "censo-raia",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         },
         {
           "node_type": "item",
@@ -1541,7 +1631,8 @@
             "owner": "datania",
             "repo": "aemet",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         },
         {
           "node_type": "item",
@@ -1556,7 +1647,8 @@
             "owner": "datania",
             "repo": "boe",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         },
         {
           "node_type": "item",
@@ -1571,7 +1663,8 @@
             "owner": "datania",
             "repo": "datosgobes-catalog",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         },
         {
           "node_type": "item",
@@ -1586,7 +1679,8 @@
             "owner": "datania",
             "repo": "emisiones-climate-trace",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         },
         {
           "node_type": "item",
@@ -1601,7 +1695,8 @@
             "owner": "datania",
             "repo": "ipc",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         },
         {
           "children": [
@@ -1618,7 +1713,8 @@
                 "owner": "RadarCOVID",
                 "repo": "radar-covid-android",
                 "stars": 376
-              }
+              },
+              "first_seen": "2026-08-28T21:21:12.343Z"
             },
             {
               "node_type": "item",
@@ -1633,7 +1729,8 @@
                 "owner": "RadarCOVID",
                 "repo": "radar-covid-ios",
                 "stars": 143
-              }
+              },
+              "first_seen": "2026-08-28T21:21:12.343Z"
             },
             {
               "node_type": "item",
@@ -1648,7 +1745,8 @@
                 "owner": "RadarCOVID",
                 "repo": "radar-covid-backend-verification-server",
                 "stars": 92
-              }
+              },
+              "first_seen": "2026-08-28T21:21:12.343Z"
             }
           ],
           "description": null,
@@ -1674,7 +1772,8 @@
             "owner": "openfootball",
             "repo": "espana",
             "stars": 78
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         },
         {
           "node_type": "item",
@@ -1689,7 +1788,8 @@
             "owner": "RicardoMoya",
             "repo": "FootballMatchesDataSet",
             "stars": 37
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         },
         {
           "node_type": "item",
@@ -1704,7 +1804,8 @@
             "owner": "alxgarci",
             "repo": "marca-fantasy-api-scraper-updated",
             "stars": 28
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         },
         {
           "node_type": "item",
@@ -1719,7 +1820,8 @@
             "owner": "footballcsv",
             "repo": "espana",
             "stars": 25
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         },
         {
           "node_type": "item",
@@ -1734,7 +1836,8 @@
             "owner": "diegoparrilla",
             "repo": "marca-fantasy-scraper",
             "stars": 22
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         }
       ],
       "title": "Deportes"
@@ -1751,11 +1854,12 @@
             "archived": false,
             "id": 575569576,
             "language": "Python",
-            "last_commit": "2025-07-14T22:38:30Z",
+            "last_commit": "2026-08-28T02:19:48Z",
             "owner": "donmerendolo",
             "repo": "anki-carnet-conducir",
             "stars": 39
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         },
         {
           "node_type": "item",
@@ -1770,7 +1874,8 @@
             "owner": "jabellcu",
             "repo": "DGT_cita_previa",
             "stars": 17
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         },
         {
           "node_type": "item",
@@ -1785,7 +1890,8 @@
             "owner": "mdelapenya",
             "repo": "dgt",
             "stars": 14
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         },
         {
           "node_type": "item",
@@ -1800,7 +1906,8 @@
             "owner": "javichur",
             "repo": "Alexa-Skill-Test-Autoescuela",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         },
         {
           "node_type": "item",
@@ -1815,7 +1922,8 @@
             "owner": "ajorquera",
             "repo": "DGT-appointment",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         },
         {
           "node_type": "item",
@@ -1830,7 +1938,8 @@
             "owner": "literato1987",
             "repo": "dgt-matriculaciones",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         }
       ],
       "title": "DGT y Vehículos"
@@ -1851,7 +1960,8 @@
             "owner": "projectestac",
             "repo": "agora",
             "stars": 43
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         },
         {
           "node_type": "item",
@@ -1866,7 +1976,8 @@
             "owner": "projectestac",
             "repo": "jclic",
             "stars": 29
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         },
         {
           "node_type": "item",
@@ -1881,7 +1992,8 @@
             "owner": "Pakillo",
             "repo": "ANECAtools",
             "stars": 22
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         },
         {
           "node_type": "item",
@@ -1896,7 +2008,8 @@
             "owner": "rubenleon",
             "repo": "rpttai",
             "stars": 17
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         },
         {
           "node_type": "item",
@@ -1911,7 +2024,8 @@
             "owner": "Naritsumi",
             "repo": "EstudiaTAI-app",
             "stars": 10
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         },
         {
           "node_type": "item",
@@ -1926,7 +2040,8 @@
             "owner": "projectestac",
             "repo": "odissea",
             "stars": 10
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         },
         {
           "node_type": "item",
@@ -1941,7 +2056,8 @@
             "owner": "marticliment",
             "repo": "Selectivitapp",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         },
         {
           "node_type": "item",
@@ -1956,7 +2072,8 @@
             "owner": "preparatic",
             "repo": "utilidadesdetests",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         },
         {
           "node_type": "item",
@@ -1971,7 +2088,8 @@
             "owner": "d3stroya",
             "repo": "virgulayapp-curriculos",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         }
       ],
       "title": "Educación y Oposiciones"
@@ -1992,7 +2110,8 @@
             "owner": "remote-es",
             "repo": "remotes",
             "stars": 2832
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         },
         {
           "node_type": "item",
@@ -2006,8 +2125,9 @@
             "last_commit": "2025-09-29T14:18:00Z",
             "owner": "getmanfred",
             "repo": "mac",
-            "stars": 591
-          }
+            "stars": 592
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         },
         {
           "node_type": "item",
@@ -2022,7 +2142,8 @@
             "owner": "midudev",
             "repo": "infojobs-hackathon",
             "stars": 49
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         },
         {
           "node_type": "item",
@@ -2037,7 +2158,8 @@
             "owner": "ericrisco",
             "repo": "infojobs-hackaton",
             "stars": 43
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         }
       ],
       "title": "Empleo y Trabajo Remoto"
@@ -2058,7 +2180,8 @@
             "owner": "uvejota",
             "repo": "homeassistant-edata",
             "stars": 336
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         },
         {
           "node_type": "item",
@@ -2073,7 +2196,8 @@
             "owner": "danimart1991",
             "repo": "pvpc-hourly-pricing-card",
             "stars": 112
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         },
         {
           "node_type": "item",
@@ -2088,7 +2212,8 @@
             "owner": "ldotlopez",
             "repo": "ha-ideenergy",
             "stars": 100
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         },
         {
           "node_type": "item",
@@ -2103,7 +2228,8 @@
             "owner": "luuuis",
             "repo": "hass_omie",
             "stars": 81
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         },
         {
           "node_type": "item",
@@ -2118,7 +2244,8 @@
             "owner": "hectorespert",
             "repo": "python-oligo",
             "stars": 71
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         },
         {
           "node_type": "item",
@@ -2133,7 +2260,8 @@
             "owner": "miguelangellv",
             "repo": "ha-balance-neto",
             "stars": 66
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         },
         {
           "node_type": "item",
@@ -2148,7 +2276,8 @@
             "owner": "miguelangellv",
             "repo": "ha-octopus-spain",
             "stars": 60
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         },
         {
           "node_type": "item",
@@ -2163,7 +2292,8 @@
             "owner": "azogue",
             "repo": "aiopvpc",
             "stars": 48
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         },
         {
           "node_type": "item",
@@ -2178,7 +2308,8 @@
             "owner": "miguelangellv",
             "repo": "ha-tarifa-20td",
             "stars": 47
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         },
         {
           "node_type": "item",
@@ -2193,7 +2324,8 @@
             "owner": "acruzgarcia",
             "repo": "OMIEData",
             "stars": 38
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         },
         {
           "node_type": "item",
@@ -2208,7 +2340,8 @@
             "owner": "azogue",
             "repo": "ha-pvpc-custom",
             "stars": 36
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         },
         {
           "node_type": "item",
@@ -2223,7 +2356,8 @@
             "owner": "trocotronic",
             "repo": "edistribucion",
             "stars": 32
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         },
         {
           "node_type": "item",
@@ -2238,7 +2372,8 @@
             "owner": "oscarrgarciia",
             "repo": "HA-PVPC-Updated",
             "stars": 32
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         },
         {
           "node_type": "item",
@@ -2253,7 +2388,8 @@
             "owner": "bzzoiro",
             "repo": "repsolluzygas",
             "stars": 16
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         },
         {
           "node_type": "item",
@@ -2268,7 +2404,8 @@
             "owner": "zoilomora",
             "repo": "iberdrola",
             "stars": 16
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         },
         {
           "node_type": "item",
@@ -2283,7 +2420,8 @@
             "owner": "yinyang17",
             "repo": "pvpc_energy",
             "stars": 15
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         },
         {
           "node_type": "item",
@@ -2298,7 +2436,8 @@
             "owner": "uvejota",
             "repo": "python-edata",
             "stars": 13
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         },
         {
           "node_type": "item",
@@ -2309,11 +2448,12 @@
             "archived": false,
             "id": 449294521,
             "language": "Python",
-            "last_commit": "2026-08-23T16:12:44Z",
+            "last_commit": "2026-08-28T11:10:07Z",
             "owner": "hectorespert",
             "repo": "som-energia-hass",
             "stars": 10
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         },
         {
           "node_type": "item",
@@ -2328,7 +2468,8 @@
             "owner": "MrMarble",
             "repo": "datadis",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         },
         {
           "node_type": "item",
@@ -2343,7 +2484,8 @@
             "owner": "Webierta",
             "repo": "open_luz",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         },
         {
           "node_type": "item",
@@ -2358,7 +2500,8 @@
             "owner": "psincraian",
             "repo": "precios-tur-homeassistant",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         },
         {
           "node_type": "item",
@@ -2373,7 +2516,8 @@
             "owner": "gisce",
             "repo": "libCNMC",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         },
         {
           "node_type": "item",
@@ -2384,11 +2528,12 @@
             "archived": false,
             "id": 1137833640,
             "language": "JavaScript",
-            "last_commit": "2026-08-27T20:50:55Z",
+            "last_commit": "2026-08-28T20:25:35Z",
             "owner": "almax-es",
             "repo": "luzfija.es",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         },
         {
           "node_type": "item",
@@ -2403,7 +2548,8 @@
             "owner": "M4RC0Sx",
             "repo": "esiosapy",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         },
         {
           "node_type": "item",
@@ -2418,7 +2564,8 @@
             "owner": "herruzo99",
             "repo": "ista-calista",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         }
       ],
       "title": "Energía y Electricidad"
@@ -2435,11 +2582,12 @@
             "archived": false,
             "id": 20920616,
             "language": "Python",
-            "last_commit": "2026-08-21T18:36:51Z",
+            "last_commit": "2026-08-28T13:50:01Z",
             "owner": "OCA",
             "repo": "l10n-spain",
-            "stars": 551
-          }
+            "stars": 552
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         },
         {
           "node_type": "item",
@@ -2450,11 +2598,12 @@
             "archived": false,
             "id": 9263296,
             "language": "PHP",
-            "last_commit": "2026-08-27T18:36:34Z",
+            "last_commit": "2026-08-28T09:46:12Z",
             "owner": "NeoRazorX",
             "repo": "facturascripts",
-            "stars": 491
-          }
+            "stars": 492
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         },
         {
           "node_type": "item",
@@ -2469,7 +2618,8 @@
             "owner": "NeoRazorX",
             "repo": "facturascripts_2015",
             "stars": 88
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         },
         {
           "node_type": "item",
@@ -2484,7 +2634,8 @@
             "owner": "GeiserX",
             "repo": "DeclaRenta",
             "stars": 46
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         },
         {
           "node_type": "item",
@@ -2499,7 +2650,8 @@
             "owner": "FacturaScripts",
             "repo": "docker-facturascripts",
             "stars": 27
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         },
         {
           "node_type": "item",
@@ -2514,7 +2666,8 @@
             "owner": "sramos",
             "repo": "LibreTPV",
             "stars": 18
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         },
         {
           "node_type": "item",
@@ -2529,7 +2682,8 @@
             "owner": "luxeon",
             "repo": "spanish-tax-calculators",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         }
       ],
       "title": "ERP y Contabilidad"
@@ -2550,7 +2704,8 @@
             "owner": "AFFT-520",
             "repo": "NIEBot",
             "stars": 61
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         },
         {
           "node_type": "item",
@@ -2565,7 +2720,8 @@
             "owner": "TiagoCortinhal",
             "repo": "cita-checker",
             "stars": 29
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         },
         {
           "node_type": "item",
@@ -2580,7 +2736,8 @@
             "owner": "kpliuta",
             "repo": "cita-previa-extranjeria-monitor",
             "stars": 19
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         },
         {
           "node_type": "item",
@@ -2595,7 +2752,8 @@
             "owner": "sviridoff",
             "repo": "cita-previa-tie",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         },
         {
           "node_type": "item",
@@ -2610,7 +2768,8 @@
             "owner": "nebojsa-prodana",
             "repo": "spanish-long-term-visa-docker",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         },
         {
           "node_type": "item",
@@ -2625,7 +2784,8 @@
             "owner": "jhon-murillo",
             "repo": "monitor-CitaPrevia-Extranjeria",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         },
         {
           "node_type": "item",
@@ -2640,7 +2800,8 @@
             "owner": "nyanja",
             "repo": "cita-previa-checker",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         }
       ],
       "title": "Extranjería y Visados"
@@ -2663,7 +2824,8 @@
                 "owner": "josemmo",
                 "repo": "Facturae-PHP",
                 "stars": 285
-              }
+              },
+              "first_seen": "2026-08-28T21:21:12.343Z"
             },
             {
               "node_type": "item",
@@ -2678,7 +2840,8 @@
                 "owner": "mdiago",
                 "repo": "FACe",
                 "stars": 14
-              }
+              },
+              "first_seen": "2026-08-28T21:21:12.343Z"
             },
             {
               "node_type": "item",
@@ -2693,7 +2856,8 @@
                 "owner": "xocapik",
                 "repo": "FaceWebServiceClient",
                 "stars": 11
-              }
+              },
+              "first_seen": "2026-08-28T21:21:12.343Z"
             },
             {
               "node_type": "item",
@@ -2708,7 +2872,8 @@
                 "owner": "invopop",
                 "repo": "gobl.facturae",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-28T21:21:12.343Z"
             }
           ],
           "description": "Formato estándar de factura electrónica española.",
@@ -2726,11 +2891,12 @@
                 "archived": false,
                 "id": 292311963,
                 "language": "Go",
-                "last_commit": "2026-08-26T14:03:40Z",
+                "last_commit": "2026-08-28T11:20:52Z",
                 "owner": "invopop",
                 "repo": "gobl",
                 "stars": 302
-              }
+              },
+              "first_seen": "2026-08-28T21:21:12.343Z"
             },
             {
               "node_type": "item",
@@ -2745,7 +2911,8 @@
                 "owner": "paumrch",
                 "repo": "larenta",
                 "stars": 99
-              }
+              },
+              "first_seen": "2026-08-28T21:21:12.343Z"
             },
             {
               "node_type": "item",
@@ -2760,7 +2927,8 @@
                 "owner": "vaijira",
                 "repo": "burocratin",
                 "stars": 19
-              }
+              },
+              "first_seen": "2026-08-28T21:21:12.343Z"
             },
             {
               "node_type": "item",
@@ -2775,7 +2943,8 @@
                 "owner": "gisce",
                 "repo": "sii",
                 "stars": 16
-              }
+              },
+              "first_seen": "2026-08-28T21:21:12.343Z"
             },
             {
               "node_type": "item",
@@ -2790,7 +2959,8 @@
                 "owner": "initios",
                 "repo": "aeat-web-services",
                 "stars": 12
-              }
+              },
+              "first_seen": "2026-08-28T21:21:12.343Z"
             },
             {
               "node_type": "item",
@@ -2805,7 +2975,8 @@
                 "owner": "fawno",
                 "repo": "AEAT",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-28T21:21:12.343Z"
             },
             {
               "node_type": "item",
@@ -2820,7 +2991,8 @@
                 "owner": "Enchufa2",
                 "repo": "irpf",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-28T21:21:12.343Z"
             },
             {
               "node_type": "item",
@@ -2835,7 +3007,8 @@
                 "owner": "mpuig",
                 "repo": "rentagpt",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-28T21:21:12.343Z"
             },
             {
               "node_type": "item",
@@ -2850,7 +3023,8 @@
                 "owner": "akrck02",
                 "repo": "salary",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T21:21:12.343Z"
             },
             {
               "node_type": "item",
@@ -2865,7 +3039,8 @@
                 "owner": "babu-cat",
                 "repo": "AEAT",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T21:21:12.343Z"
             },
             {
               "node_type": "item",
@@ -2880,7 +3055,8 @@
                 "owner": "mdiago",
                 "repo": "EasySII.Watcher",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T21:21:12.343Z"
             },
             {
               "node_type": "item",
@@ -2895,7 +3071,8 @@
                 "owner": "aldoborrero",
                 "repo": "hacienda-gpt",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T21:21:12.343Z"
             },
             {
               "node_type": "item",
@@ -2910,7 +3087,8 @@
                 "owner": "mdiago",
                 "repo": "Batuz",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T21:21:12.343Z"
             },
             {
               "node_type": "item",
@@ -2925,7 +3103,8 @@
                 "owner": "gabela-io",
                 "repo": "puntoBOE",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T21:21:12.343Z"
             }
           ],
           "description": null,
@@ -2947,7 +3126,8 @@
                 "owner": "Barnetik",
                 "repo": "tbai-php-lib",
                 "stars": 41
-              }
+              },
+              "first_seen": "2026-08-28T21:21:12.343Z"
             },
             {
               "node_type": "item",
@@ -2962,7 +3142,8 @@
                 "owner": "invopop",
                 "repo": "gobl.es.ticketbai",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-28T21:21:12.343Z"
             },
             {
               "node_type": "item",
@@ -2977,7 +3158,8 @@
                 "owner": "ecommerce-ventures",
                 "repo": "ticketbai",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-28T21:21:12.343Z"
             },
             {
               "node_type": "item",
@@ -2992,7 +3174,8 @@
                 "owner": "binovo",
                 "repo": "verifactu-xmlgen",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T21:21:12.343Z"
             },
             {
               "node_type": "item",
@@ -3007,7 +3190,8 @@
                 "owner": "codesyntax",
                 "repo": "pytbai",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T21:21:12.343Z"
             }
           ],
           "description": "Sistema de facturación electrónica obligatorio en el País Vasco.",
@@ -3029,7 +3213,8 @@
                 "owner": "mdiago",
                 "repo": "VeriFactu",
                 "stars": 336
-              }
+              },
+              "first_seen": "2026-08-28T21:21:12.343Z"
             },
             {
               "node_type": "item",
@@ -3044,7 +3229,8 @@
                 "owner": "josemmo",
                 "repo": "Verifactu-PHP",
                 "stars": 107
-              }
+              },
+              "first_seen": "2026-08-28T21:21:12.343Z"
             },
             {
               "node_type": "item",
@@ -3059,7 +3245,8 @@
                 "owner": "Eseperio",
                 "repo": "verifactu-php",
                 "stars": 52
-              }
+              },
+              "first_seen": "2026-08-28T21:21:12.343Z"
             },
             {
               "node_type": "item",
@@ -3074,7 +3261,8 @@
                 "owner": "squareetlabs",
                 "repo": "LaravelVerifactu",
                 "stars": 23
-              }
+              },
+              "first_seen": "2026-08-28T21:21:12.343Z"
             },
             {
               "node_type": "item",
@@ -3089,7 +3277,8 @@
                 "owner": "EduardoRuizM",
                 "repo": "verifactu-api-python",
                 "stars": 22
-              }
+              },
+              "first_seen": "2026-08-28T21:21:12.343Z"
             },
             {
               "node_type": "item",
@@ -3104,7 +3293,8 @@
                 "owner": "garacil",
                 "repo": "verifactu",
                 "stars": 18
-              }
+              },
+              "first_seen": "2026-08-28T21:21:12.343Z"
             },
             {
               "node_type": "item",
@@ -3119,7 +3309,8 @@
                 "owner": "jdgOpenCode",
                 "repo": "verifactu",
                 "stars": 17
-              }
+              },
+              "first_seen": "2026-08-28T21:21:12.343Z"
             },
             {
               "node_type": "item",
@@ -3134,7 +3325,8 @@
                 "owner": "invopop",
                 "repo": "gobl.verifactu",
                 "stars": 15
-              }
+              },
+              "first_seen": "2026-08-28T21:21:12.343Z"
             },
             {
               "node_type": "item",
@@ -3149,7 +3341,8 @@
                 "owner": "EduardoRuizM",
                 "repo": "verifactu-api-nodejs",
                 "stars": 15
-              }
+              },
+              "first_seen": "2026-08-28T21:21:12.343Z"
             },
             {
               "node_type": "item",
@@ -3164,7 +3357,8 @@
                 "owner": "EduardoRuizM",
                 "repo": "verifactu-api-php",
                 "stars": 15
-              }
+              },
+              "first_seen": "2026-08-28T21:21:12.343Z"
             },
             {
               "node_type": "item",
@@ -3179,7 +3373,8 @@
                 "owner": "seccion31",
                 "repo": "verifactu-delphi-demo",
                 "stars": 12
-              }
+              },
+              "first_seen": "2026-08-28T21:21:12.343Z"
             },
             {
               "node_type": "item",
@@ -3194,7 +3389,8 @@
                 "owner": "mybooking-es",
                 "repo": "verifactu-rb",
                 "stars": 11
-              }
+              },
+              "first_seen": "2026-08-28T21:21:12.343Z"
             },
             {
               "node_type": "item",
@@ -3209,7 +3405,8 @@
                 "owner": "NemonInvocash",
                 "repo": "verifactu-php",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-28T21:21:12.343Z"
             },
             {
               "node_type": "item",
@@ -3220,11 +3417,12 @@
                 "archived": false,
                 "id": 1087889199,
                 "language": "PHP",
-                "last_commit": "2026-08-16T16:56:38Z",
+                "last_commit": "2026-08-28T21:07:29Z",
                 "owner": "codeccoop",
                 "repo": "autoverifactu",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-28T21:21:12.343Z"
             },
             {
               "node_type": "item",
@@ -3239,7 +3437,8 @@
                 "owner": "easybytehub",
                 "repo": "verifactu-lint",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T21:21:12.343Z"
             }
           ],
           "description": "Sistema de facturación certificada de la AEAT (Ley Antifraude 2021).",
@@ -3267,7 +3466,8 @@
                 "owner": "ctt-gob-es",
                 "repo": "oaw",
                 "stars": 26
-              }
+              },
+              "first_seen": "2026-08-28T21:21:12.343Z"
             },
             {
               "node_type": "item",
@@ -3282,7 +3482,8 @@
                 "owner": "ctt-gob-es",
                 "repo": "SIGM-Community",
                 "stars": 22
-              }
+              },
+              "first_seen": "2026-08-28T21:21:12.343Z"
             },
             {
               "node_type": "item",
@@ -3297,7 +3498,8 @@
                 "owner": "leifermendez",
                 "repo": "laravel-policia-hotel",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-28T21:21:12.343Z"
             },
             {
               "node_type": "item",
@@ -3312,7 +3514,8 @@
                 "owner": "ctt-gob-es",
                 "repo": "MinervaChatBot",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T21:21:12.343Z"
             },
             {
               "node_type": "item",
@@ -3327,7 +3530,8 @@
                 "owner": "ctt-gob-es",
                 "repo": "clave",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T21:21:12.343Z"
             },
             {
               "node_type": "item",
@@ -3342,7 +3546,8 @@
                 "owner": "gabela-io",
                 "repo": "llave",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T21:21:12.343Z"
             }
           ],
           "description": null,
@@ -3364,7 +3569,8 @@
                 "owner": "ctt-gob-es",
                 "repo": "clienteafirma",
                 "stars": 330
-              }
+              },
+              "first_seen": "2026-08-28T21:21:12.343Z"
             },
             {
               "node_type": "item",
@@ -3375,11 +3581,12 @@
                 "archived": false,
                 "id": 695448736,
                 "language": "Nix",
-                "last_commit": "2026-08-27T15:57:52Z",
+                "last_commit": "2026-08-28T15:54:54Z",
                 "owner": "nix-community",
                 "repo": "autofirma-nix",
                 "stars": 55
-              }
+              },
+              "first_seen": "2026-08-28T21:21:12.343Z"
             },
             {
               "node_type": "item",
@@ -3394,7 +3601,8 @@
                 "owner": "ctt-gob-es",
                 "repo": "jmulticard",
                 "stars": 46
-              }
+              },
+              "first_seen": "2026-08-28T21:21:12.343Z"
             },
             {
               "node_type": "item",
@@ -3409,7 +3617,8 @@
                 "owner": "ctt-gob-es",
                 "repo": "FirmaXadesNet45",
                 "stars": 38
-              }
+              },
+              "first_seen": "2026-08-28T21:21:12.343Z"
             },
             {
               "node_type": "item",
@@ -3424,7 +3633,8 @@
                 "owner": "ctt-gob-es",
                 "repo": "fire",
                 "stars": 30
-              }
+              },
+              "first_seen": "2026-08-28T21:21:12.343Z"
             },
             {
               "node_type": "item",
@@ -3439,7 +3649,8 @@
                 "owner": "ctt-gob-es",
                 "repo": "FirmaXadesNet",
                 "stars": 28
-              }
+              },
+              "first_seen": "2026-08-28T21:21:12.343Z"
             },
             {
               "node_type": "item",
@@ -3454,7 +3665,8 @@
                 "owner": "lfern",
                 "repo": "dnieprov",
                 "stars": 21
-              }
+              },
+              "first_seen": "2026-08-28T21:21:12.343Z"
             },
             {
               "node_type": "item",
@@ -3469,7 +3681,8 @@
                 "owner": "aruiz",
                 "repo": "autofirma-flatpak",
                 "stars": 13
-              }
+              },
+              "first_seen": "2026-08-28T21:21:12.343Z"
             },
             {
               "node_type": "item",
@@ -3484,7 +3697,8 @@
                 "owner": "ctt-gob-es",
                 "repo": "integra",
                 "stars": 12
-              }
+              },
+              "first_seen": "2026-08-28T21:21:12.343Z"
             },
             {
               "node_type": "item",
@@ -3499,7 +3713,8 @@
                 "owner": "ctt-gob-es",
                 "repo": "FirmaCadesNet",
                 "stars": 10
-              }
+              },
+              "first_seen": "2026-08-28T21:21:12.343Z"
             },
             {
               "node_type": "item",
@@ -3514,7 +3729,8 @@
                 "owner": "ctt-gob-es",
                 "repo": "firma-ios",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-28T21:21:12.343Z"
             },
             {
               "node_type": "item",
@@ -3529,7 +3745,8 @@
                 "owner": "xmartinez",
                 "repo": "autofirma-docker",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-28T21:21:12.343Z"
             },
             {
               "node_type": "item",
@@ -3544,7 +3761,8 @@
                 "owner": "ctt-gob-es",
                 "repo": "firma-android",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-28T21:21:12.343Z"
             },
             {
               "node_type": "item",
@@ -3559,7 +3777,8 @@
                 "owner": "ctt-gob-es",
                 "repo": "eVisor",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T21:21:12.343Z"
             },
             {
               "node_type": "item",
@@ -3574,7 +3793,8 @@
                 "owner": "ctt-gob-es",
                 "repo": "portafirmas-android",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T21:21:12.343Z"
             },
             {
               "node_type": "item",
@@ -3589,7 +3809,8 @@
                 "owner": "azogue",
                 "repo": "autograph",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T21:21:12.343Z"
             }
           ],
           "description": null,
@@ -3615,7 +3836,8 @@
             "owner": "cocosistemas",
             "repo": "Delphi-SEPA-XML-ES",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         },
         {
           "node_type": "item",
@@ -3630,7 +3852,8 @@
             "owner": "jofemodo",
             "repo": "cuadernos-AEB",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         },
         {
           "node_type": "item",
@@ -3645,7 +3868,8 @@
             "owner": "linkingpaths",
             "repo": "norma43",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         },
         {
           "node_type": "item",
@@ -3660,7 +3884,8 @@
             "owner": "embatio",
             "repo": "vscode-norma43",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         },
         {
           "node_type": "item",
@@ -3675,7 +3900,8 @@
             "owner": "mdiago",
             "repo": "N43",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         },
         {
           "node_type": "item",
@@ -3690,7 +3916,8 @@
             "owner": "APSL",
             "repo": "sepakit",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         },
         {
           "node_type": "item",
@@ -3705,7 +3932,8 @@
             "owner": "joyner-perez",
             "repo": "SpainNotebook64",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         }
       ],
       "title": "Formatos Bancarios"
@@ -3728,7 +3956,8 @@
                 "owner": "paezha",
                 "repo": "idealista18",
                 "stars": 58
-              }
+              },
+              "first_seen": "2026-08-28T21:21:12.343Z"
             },
             {
               "node_type": "item",
@@ -3743,7 +3972,8 @@
                 "owner": "ginopalazzo",
                 "repo": "dedomeno",
                 "stars": 45
-              }
+              },
+              "first_seen": "2026-08-28T21:21:12.343Z"
             },
             {
               "node_type": "item",
@@ -3758,7 +3988,8 @@
                 "owner": "hmeleiro",
                 "repo": "idealisto",
                 "stars": 15
-              }
+              },
+              "first_seen": "2026-08-28T21:21:12.343Z"
             },
             {
               "node_type": "item",
@@ -3773,7 +4004,8 @@
                 "owner": "yagueto",
                 "repo": "idealista-api",
                 "stars": 13
-              }
+              },
+              "first_seen": "2026-08-28T21:21:12.343Z"
             },
             {
               "node_type": "item",
@@ -3788,7 +4020,8 @@
                 "owner": "martin0995",
                 "repo": "idealista-notifier",
                 "stars": 11
-              }
+              },
+              "first_seen": "2026-08-28T21:21:12.343Z"
             },
             {
               "node_type": "item",
@@ -3803,7 +4036,8 @@
                 "owner": "astrojuanlu",
                 "repo": "python-idealista",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-28T21:21:12.343Z"
             },
             {
               "node_type": "item",
@@ -3818,7 +4052,8 @@
                 "owner": "rubnvp",
                 "repo": "idealista-scraper",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T21:21:12.343Z"
             },
             {
               "node_type": "item",
@@ -3833,7 +4068,8 @@
                 "owner": "rociobenitez",
                 "repo": "fotocasa-scraper",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T21:21:12.343Z"
             }
           ],
           "description": null,
@@ -3855,7 +4091,8 @@
                 "owner": "z0r3f",
                 "repo": "wallbot",
                 "stars": 43
-              }
+              },
+              "first_seen": "2026-08-28T21:21:12.343Z"
             },
             {
               "node_type": "item",
@@ -3870,7 +4107,8 @@
                 "owner": "danielhuici",
                 "repo": "Wallamonitor",
                 "stars": 32
-              }
+              },
+              "first_seen": "2026-08-28T21:21:12.343Z"
             },
             {
               "node_type": "item",
@@ -3885,7 +4123,8 @@
                 "owner": "toniprada",
                 "repo": "wallapopy",
                 "stars": 25
-              }
+              },
+              "first_seen": "2026-08-28T21:21:12.343Z"
             },
             {
               "node_type": "item",
@@ -3900,7 +4139,8 @@
                 "owner": "rmonvfer",
                 "repo": "wallapop_secret",
                 "stars": 15
-              }
+              },
+              "first_seen": "2026-08-28T21:21:12.343Z"
             },
             {
               "node_type": "item",
@@ -3915,7 +4155,8 @@
                 "owner": "Neufal777",
                 "repo": "wallapop-go",
                 "stars": 10
-              }
+              },
+              "first_seen": "2026-08-28T21:21:12.343Z"
             },
             {
               "node_type": "item",
@@ -3930,7 +4171,8 @@
                 "owner": "Tatuck",
                 "repo": "wallapop-scraper",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-28T21:21:12.343Z"
             },
             {
               "node_type": "item",
@@ -3945,7 +4187,8 @@
                 "owner": "CuB1z",
                 "repo": "Wallapop-Scrapper",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-28T21:21:12.343Z"
             },
             {
               "node_type": "item",
@@ -3960,7 +4203,8 @@
                 "owner": "LopCuns",
                 "repo": "wallapop_scraper",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T21:21:12.343Z"
             }
           ],
           "description": null,
@@ -3986,7 +4230,8 @@
             "owner": "mgp25",
             "repo": "RAE-API",
             "stars": 45
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         },
         {
           "node_type": "item",
@@ -4001,7 +4246,8 @@
             "owner": "account0123",
             "repo": "RAE-API",
             "stars": 26
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         },
         {
           "node_type": "item",
@@ -4016,7 +4262,8 @@
             "owner": "rae-api-com",
             "repo": "go-rae",
             "stars": 11
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         },
         {
           "node_type": "item",
@@ -4031,7 +4278,8 @@
             "owner": "rae-api-com",
             "repo": "rae-tui",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         }
       ],
       "title": "Lengua Española y Diccionarios"
@@ -4052,7 +4300,8 @@
             "owner": "maguayo",
             "repo": "python-correos-express",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         },
         {
           "node_type": "item",
@@ -4067,7 +4316,8 @@
             "owner": "klareNNNs",
             "repo": "php-correosexpress-api",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         },
         {
           "node_type": "item",
@@ -4082,7 +4332,8 @@
             "owner": "rikman122",
             "repo": "homeassistant-correos_spain",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         },
         {
           "node_type": "item",
@@ -4097,7 +4348,8 @@
             "owner": "javaguirre",
             "repo": "NacexBundle",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         },
         {
           "node_type": "item",
@@ -4112,7 +4364,8 @@
             "owner": "vgvr0",
             "repo": "correos-tracking-api",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         }
       ],
       "title": "Logística y Mensajería"
@@ -4133,7 +4386,8 @@
             "owner": "pablo-moreno",
             "repo": "python-aemet",
             "stars": 63
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         },
         {
           "node_type": "item",
@@ -4144,11 +4398,12 @@
             "archived": false,
             "id": 277600874,
             "language": "R",
-            "last_commit": "2026-08-26T12:38:06Z",
+            "last_commit": "2026-08-28T13:22:19Z",
             "owner": "rOpenSpain",
             "repo": "climaemet",
             "stars": 46
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         },
         {
           "node_type": "item",
@@ -4163,7 +4418,8 @@
             "owner": "Danieldiazi",
             "repo": "homeassistant-meteogalicia",
             "stars": 19
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         },
         {
           "node_type": "item",
@@ -4178,7 +4434,8 @@
             "owner": "jsrl",
             "repo": "aemet-elt",
             "stars": 16
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         },
         {
           "node_type": "item",
@@ -4193,7 +4450,8 @@
             "owner": "vulturno",
             "repo": "vulturno",
             "stars": 13
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         },
         {
           "node_type": "item",
@@ -4208,7 +4466,8 @@
             "owner": "aariste",
             "repo": "AEMET-Python",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         },
         {
           "node_type": "item",
@@ -4223,7 +4482,8 @@
             "owner": "vrruiz",
             "repo": "calima",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         },
         {
           "node_type": "item",
@@ -4238,7 +4498,8 @@
             "owner": "Noltari",
             "repo": "AEMET-OpenData",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         },
         {
           "node_type": "item",
@@ -4253,7 +4514,8 @@
             "owner": "ALArvi019",
             "repo": "moderntides",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         }
       ],
       "title": "Meteorología"
@@ -4274,7 +4536,8 @@
             "owner": "NadineKroher",
             "repo": "PyCante",
             "stars": 14
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         },
         {
           "node_type": "item",
@@ -4289,7 +4552,8 @@
             "owner": "alvarogonzalezferrer",
             "repo": "kronognuguitarra",
             "stars": 11
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         },
         {
           "node_type": "item",
@@ -4304,7 +4568,8 @@
             "owner": "ElJere",
             "repo": "aCompas",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         },
         {
           "node_type": "item",
@@ -4319,7 +4584,8 @@
             "owner": "oratioandco",
             "repo": "Generative-Flamenco",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         },
         {
           "node_type": "item",
@@ -4334,7 +4600,8 @@
             "owner": "alesanmed",
             "repo": "lola",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         }
       ],
       "title": "Música y Flamenco"
@@ -4351,11 +4618,12 @@
             "archived": false,
             "id": 65914086,
             "language": "Ruby",
-            "last_commit": "2026-08-27T16:03:11Z",
+            "last_commit": "2026-08-28T02:56:14Z",
             "owner": "decidim",
             "repo": "decidim",
             "stars": 1809
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         },
         {
           "node_type": "item",
@@ -4366,11 +4634,12 @@
             "archived": false,
             "id": 39152554,
             "language": "Ruby",
-            "last_commit": "2026-08-27T20:24:16Z",
+            "last_commit": "2026-08-28T19:51:39Z",
             "owner": "consuldemocracy",
             "repo": "consuldemocracy",
             "stars": 1547
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         },
         {
           "node_type": "item",
@@ -4381,11 +4650,12 @@
             "archived": false,
             "id": 78930746,
             "language": "HTML",
-            "last_commit": "2026-08-27T11:52:10Z",
+            "last_commit": "2026-08-28T11:29:52Z",
             "owner": "AjuntamentdeBarcelona",
             "repo": "decidim-barcelona",
             "stars": 85
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         },
         {
           "node_type": "item",
@@ -4400,7 +4670,8 @@
             "owner": "podemos-info",
             "repo": "participa",
             "stars": 60
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         }
       ],
       "title": "Participación Ciudadana"
@@ -4421,7 +4692,8 @@
             "owner": "ssheduardo",
             "repo": "sermepa",
             "stars": 207
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         },
         {
           "node_type": "item",
@@ -4436,7 +4708,8 @@
             "owner": "ssheduardo",
             "repo": "redsys-laravel",
             "stars": 101
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         },
         {
           "node_type": "item",
@@ -4451,7 +4724,8 @@
             "owner": "eusonlito",
             "repo": "redsys-TPV",
             "stars": 63
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         },
         {
           "node_type": "item",
@@ -4466,7 +4740,8 @@
             "owner": "javiertury",
             "repo": "redsys-easy",
             "stars": 54
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         },
         {
           "node_type": "item",
@@ -4481,7 +4756,8 @@
             "owner": "santiperez",
             "repo": "node-redsys-api",
             "stars": 48
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         },
         {
           "node_type": "item",
@@ -4496,7 +4772,8 @@
             "owner": "DevopensourceTeam",
             "repo": "Devopensource_Redsys",
             "stars": 26
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         },
         {
           "node_type": "item",
@@ -4511,7 +4788,8 @@
             "owner": "intelligenia",
             "repo": "django-virtual-pos",
             "stars": 23
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         },
         {
           "node_type": "item",
@@ -4526,7 +4804,8 @@
             "owner": "creagia",
             "repo": "laravel-redsys",
             "stars": 21
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         },
         {
           "node_type": "item",
@@ -4541,7 +4820,8 @@
             "owner": "jsampedro77",
             "repo": "sermepa-omnipay",
             "stars": 21
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         },
         {
           "node_type": "item",
@@ -4556,7 +4836,8 @@
             "owner": "creagia",
             "repo": "redsys-php",
             "stars": 19
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         },
         {
           "node_type": "item",
@@ -4571,7 +4852,8 @@
             "owner": "ajostergaard",
             "repo": "django-payments-redsys",
             "stars": 18
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         },
         {
           "node_type": "item",
@@ -4586,7 +4868,8 @@
             "owner": "ddiazpinto",
             "repo": "python-redsys",
             "stars": 16
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         },
         {
           "node_type": "item",
@@ -4601,7 +4884,8 @@
             "owner": "majulvez",
             "repo": "easyredsys",
             "stars": 14
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         },
         {
           "node_type": "item",
@@ -4616,7 +4900,8 @@
             "owner": "CommerceRedsys",
             "repo": "sermepa",
             "stars": 11
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         }
       ],
       "title": "Pasarelas de Pago"
@@ -4635,11 +4920,12 @@
                 "archived": false,
                 "id": 17015540,
                 "language": "Perl",
-                "last_commit": "2026-08-26T10:23:54Z",
+                "last_commit": "2026-08-28T07:43:38Z",
                 "owner": "Softcatala",
                 "repo": "catalan-dict-tools",
                 "stars": 65
-              }
+              },
+              "first_seen": "2026-08-28T21:21:12.343Z"
             },
             {
               "node_type": "item",
@@ -4654,7 +4940,8 @@
                 "owner": "Softcatala",
                 "repo": "nmt-softcatala",
                 "stars": 45
-              }
+              },
+              "first_seen": "2026-08-28T21:21:12.343Z"
             },
             {
               "node_type": "item",
@@ -4669,7 +4956,8 @@
                 "owner": "hitz-zentroa",
                 "repo": "latxa",
                 "stars": 36
-              }
+              },
+              "first_seen": "2026-08-28T21:21:12.343Z"
             },
             {
               "node_type": "item",
@@ -4684,7 +4972,8 @@
                 "owner": "Softcatala",
                 "repo": "translation-memory-tools",
                 "stars": 31
-              }
+              },
+              "first_seen": "2026-08-28T21:21:12.343Z"
             },
             {
               "node_type": "item",
@@ -4699,7 +4988,8 @@
                 "owner": "Softcatala",
                 "repo": "Catalanitzador",
                 "stars": 29
-              }
+              },
+              "first_seen": "2026-08-28T21:21:12.343Z"
             },
             {
               "node_type": "item",
@@ -4714,7 +5004,8 @@
                 "owner": "projecte-aina",
                 "repo": "lm-catalan",
                 "stars": 26
-              }
+              },
+              "first_seen": "2026-08-28T21:21:12.343Z"
             },
             {
               "node_type": "item",
@@ -4729,7 +5020,8 @@
                 "owner": "projecte-aina",
                 "repo": "tts-api",
                 "stars": 17
-              }
+              },
+              "first_seen": "2026-08-28T21:21:12.343Z"
             },
             {
               "node_type": "item",
@@ -4744,7 +5036,8 @@
                 "owner": "projecte-aina",
                 "repo": "spacy",
                 "stars": 14
-              }
+              },
+              "first_seen": "2026-08-28T21:21:12.343Z"
             },
             {
               "node_type": "item",
@@ -4759,7 +5052,8 @@
                 "owner": "hitz-zentroa",
                 "repo": "aHoTTS",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-28T21:21:12.343Z"
             },
             {
               "node_type": "item",
@@ -4774,7 +5068,8 @@
                 "owner": "proxectonos",
                 "repo": "language-models",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T21:21:12.343Z"
             },
             {
               "node_type": "item",
@@ -4789,7 +5084,8 @@
                 "owner": "projecte-aina",
                 "repo": "club",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T21:21:12.343Z"
             },
             {
               "node_type": "item",
@@ -4804,7 +5100,8 @@
                 "owner": "citiususc",
                 "repo": "SimpleNLG-GL",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T21:21:12.343Z"
             },
             {
               "node_type": "item",
@@ -4819,7 +5116,8 @@
                 "owner": "crpih",
                 "repo": "xiada",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T21:21:12.343Z"
             }
           ],
           "description": null,
@@ -4845,7 +5143,8 @@
             "owner": "D4vidDf",
             "repo": "PillPal",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         },
         {
           "node_type": "item",
@@ -4860,7 +5159,8 @@
             "owner": "fqlenos",
             "repo": "aempsconn",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         },
         {
           "node_type": "item",
@@ -4875,7 +5175,8 @@
             "owner": "apenab",
             "repo": "aemps-sdk",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         }
       ],
       "title": "Salud y Medicamentos"
@@ -4896,7 +5197,8 @@
             "owner": "ComputingVictor",
             "repo": "MCP-BOE",
             "stars": 48
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         },
         {
           "node_type": "item",
@@ -4911,7 +5213,8 @@
             "owner": "AlbertoUAH",
             "repo": "datos-gob-es-mcp",
             "stars": 20
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         },
         {
           "node_type": "item",
@@ -4926,7 +5229,8 @@
             "owner": "iMark21",
             "repo": "aeat-mcp",
             "stars": 13
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         },
         {
           "node_type": "item",
@@ -4941,7 +5245,8 @@
             "owner": "ESJavadex",
             "repo": "ree-mcp",
             "stars": 11
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         },
         {
           "node_type": "item",
@@ -4956,7 +5261,8 @@
             "owner": "cristotodev",
             "repo": "MCP-Facturascripts",
             "stars": 10
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         },
         {
           "node_type": "item",
@@ -4971,7 +5277,8 @@
             "owner": "rae-api-com",
             "repo": "rae-mcp",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         },
         {
           "node_type": "item",
@@ -4986,7 +5293,8 @@
             "owner": "AnCode666",
             "repo": "boe-mcp",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         },
         {
           "node_type": "item",
@@ -5001,7 +5309,8 @@
             "owner": "xavimf87",
             "repo": "mcp-govern",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         },
         {
           "node_type": "item",
@@ -5016,7 +5325,8 @@
             "owner": "dieguezz",
             "repo": "mcp-madrid-public-transport",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         },
         {
           "node_type": "item",
@@ -5031,7 +5341,8 @@
             "owner": "AnCode666",
             "repo": "aemet-mcp",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         },
         {
           "node_type": "item",
@@ -5046,7 +5357,8 @@
             "owner": "carlosGalisteo",
             "repo": "catastro_mcp_server",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         },
         {
           "node_type": "item",
@@ -5061,7 +5373,8 @@
             "owner": "mjgmario",
             "repo": "spanish-public-info-radar-mcp",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         },
         {
           "node_type": "item",
@@ -5076,7 +5389,8 @@
             "owner": "AnCode666",
             "repo": "ine-mcp",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         },
         {
           "node_type": "item",
@@ -5091,7 +5405,8 @@
             "owner": "Ansvar-Systems",
             "repo": "spanish-law-mcp",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         }
       ],
       "title": "Servidores MCP"
@@ -5112,7 +5427,8 @@
             "owner": "sentilo",
             "repo": "sentilo",
             "stars": 173
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         },
         {
           "node_type": "item",
@@ -5127,7 +5443,8 @@
             "owner": "sigcorporativo-ja",
             "repo": "Mapea4",
             "stars": 26
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         },
         {
           "node_type": "item",
@@ -5142,7 +5459,8 @@
             "owner": "sitna",
             "repo": "api-sitna",
             "stars": 16
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         },
         {
           "node_type": "item",
@@ -5157,7 +5475,8 @@
             "owner": "ConsorciAOC",
             "repo": "signador",
             "stars": 16
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         },
         {
           "node_type": "item",
@@ -5172,7 +5491,8 @@
             "owner": "AjuntamentdeBarcelona",
             "repo": "bustia-etica-bcn",
             "stars": 14
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         }
       ],
       "title": "Smart Cities e IoT"
@@ -5193,7 +5513,8 @@
             "owner": "nicolaspascual",
             "repo": "mercadona-scrapper",
             "stars": 49
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         },
         {
           "node_type": "item",
@@ -5208,7 +5529,8 @@
             "owner": "izanamador",
             "repo": "mercadata",
             "stars": 40
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         },
         {
           "node_type": "item",
@@ -5223,7 +5545,8 @@
             "owner": "josantonius",
             "repo": "php-mercadona-importer",
             "stars": 14
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         },
         {
           "node_type": "item",
@@ -5238,7 +5561,8 @@
             "owner": "javichur",
             "repo": "merca-api",
             "stars": 13
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         },
         {
           "node_type": "item",
@@ -5253,7 +5577,8 @@
             "owner": "joseluam97",
             "repo": "Supermarket-Price-Scraper",
             "stars": 13
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         },
         {
           "node_type": "item",
@@ -5268,7 +5593,8 @@
             "owner": "m0wer",
             "repo": "mercaapi",
             "stars": 11
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         },
         {
           "node_type": "item",
@@ -5283,7 +5609,8 @@
             "owner": "jtayped",
             "repo": "mercapy",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         },
         {
           "node_type": "item",
@@ -5298,7 +5625,8 @@
             "owner": "vgvr0",
             "repo": "supermarket-mercadona-scraper",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         }
       ],
       "title": "Supermercados"
@@ -5319,7 +5647,8 @@
             "owner": "daniel-dona",
             "repo": "askey_RTF3505VW_hacking",
             "stars": 32
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         },
         {
           "node_type": "item",
@@ -5330,11 +5659,12 @@
             "archived": false,
             "id": 1025912736,
             "language": "Python",
-            "last_commit": "2026-08-26T16:45:05Z",
+            "last_commit": "2026-08-28T00:39:13Z",
             "owner": "mv12star",
             "repo": "lista-telefonos-spam",
-            "stars": 28
-          }
+            "stars": 29
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         },
         {
           "node_type": "item",
@@ -5349,7 +5679,8 @@
             "owner": "segura2010",
             "repo": "LiveboxFibraExtractor",
             "stars": 15
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         },
         {
           "node_type": "item",
@@ -5364,7 +5695,8 @@
             "owner": "joseska",
             "repo": "MitraStar_GPT-2541GNAC_HA",
             "stars": 14
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         },
         {
           "node_type": "item",
@@ -5379,7 +5711,8 @@
             "owner": "Eitol",
             "repo": "router-movistar",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         },
         {
           "node_type": "item",
@@ -5394,7 +5727,8 @@
             "owner": "ldotlopez",
             "repo": "ha-pepephone",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         },
         {
           "node_type": "item",
@@ -5409,7 +5743,8 @@
             "owner": "GeiserX",
             "repo": "search-by-surname",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         },
         {
           "children": [
@@ -5426,7 +5761,8 @@
                 "owner": "duhow",
                 "repo": "hass-aigues-barcelona",
                 "stars": 70
-              }
+              },
+              "first_seen": "2026-08-28T21:21:12.343Z"
             }
           ],
           "description": null,
@@ -5451,8 +5787,9 @@
             "last_commit": "2026-08-23T21:52:32Z",
             "owner": "LaQuay",
             "repo": "TDTChannels",
-            "stars": 1651
-          }
+            "stars": 1652
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         },
         {
           "node_type": "item",
@@ -5467,7 +5804,8 @@
             "owner": "LaQuay",
             "repo": "TDTChannels-APP",
             "stars": 187
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         },
         {
           "node_type": "item",
@@ -5482,7 +5820,8 @@
             "owner": "ruvelro",
             "repo": "TV-Online-TDT-Spain",
             "stars": 181
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         },
         {
           "node_type": "item",
@@ -5497,7 +5836,8 @@
             "owner": "jmarcet",
             "repo": "movistar-u7d",
             "stars": 115
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         },
         {
           "node_type": "item",
@@ -5512,7 +5852,8 @@
             "owner": "Paco8",
             "repo": "plugin.video.movistarplus",
             "stars": 84
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         },
         {
           "node_type": "item",
@@ -5527,7 +5868,8 @@
             "owner": "aabilio",
             "repo": "PyDownTV2",
             "stars": 52
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         },
         {
           "node_type": "item",
@@ -5542,7 +5884,8 @@
             "owner": "MovistarTV",
             "repo": "tv_grab_es_movistartv",
             "stars": 48
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         },
         {
           "node_type": "item",
@@ -5557,7 +5900,8 @@
             "owner": "zry98",
             "repo": "movistar-home-hacks",
             "stars": 45
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         },
         {
           "node_type": "item",
@@ -5572,7 +5916,8 @@
             "owner": "civio",
             "repo": "verba",
             "stars": 38
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         },
         {
           "node_type": "item",
@@ -5583,11 +5928,12 @@
             "archived": false,
             "id": 305829629,
             "language": null,
-            "last_commit": "2026-08-08T07:41:04Z",
+            "last_commit": "2026-08-28T17:05:00Z",
             "owner": "jungla-team",
             "repo": "Picon-enigma2-Movistar",
             "stars": 26
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         },
         {
           "node_type": "item",
@@ -5602,7 +5948,8 @@
             "owner": "MPAndrew",
             "repo": "EpgGratis",
             "stars": 25
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         },
         {
           "node_type": "item",
@@ -5617,7 +5964,8 @@
             "owner": "LuisPalacios",
             "repo": "tvhstar",
             "stars": 25
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         },
         {
           "node_type": "item",
@@ -5632,7 +5980,8 @@
             "owner": "manuelrn",
             "repo": "Tvheadend_Movistar-Spain",
             "stars": 22
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         },
         {
           "node_type": "item",
@@ -5647,7 +5996,8 @@
             "owner": "Paco8",
             "repo": "plugin.video.orange.spain",
             "stars": 20
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         },
         {
           "node_type": "item",
@@ -5662,7 +6012,8 @@
             "owner": "mcr222",
             "repo": "plugin.video.rtve",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         },
         {
           "children": [
@@ -5679,7 +6030,8 @@
                 "owner": "EdgarVaguencia",
                 "repo": "node-ivoox",
                 "stars": 18
-              }
+              },
+              "first_seen": "2026-08-28T21:21:12.343Z"
             },
             {
               "node_type": "item",
@@ -5694,7 +6046,8 @@
                 "owner": "ciberado",
                 "repo": "dirtyrss",
                 "stars": 12
-              }
+              },
+              "first_seen": "2026-08-28T21:21:12.343Z"
             },
             {
               "node_type": "item",
@@ -5709,7 +6062,8 @@
                 "owner": "daaguirr",
                 "repo": "Ivoox-Downloader",
                 "stars": 10
-              }
+              },
+              "first_seen": "2026-08-28T21:21:12.343Z"
             },
             {
               "node_type": "item",
@@ -5724,7 +6078,8 @@
                 "owner": "WhizzoCode",
                 "repo": "ivooxhunter",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-28T21:21:12.343Z"
             }
           ],
           "description": null,
@@ -5749,8 +6104,9 @@
             "last_commit": "2026-08-26T10:29:26Z",
             "owner": "legalize-dev",
             "repo": "legalize-es",
-            "stars": 1874
-          }
+            "stars": 1875
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         },
         {
           "node_type": "item",
@@ -5764,8 +6120,9 @@
             "last_commit": "2026-03-30T19:03:00Z",
             "owner": "BquantFinance",
             "repo": "licitaciones-espana",
-            "stars": 213
-          }
+            "stars": 214
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         },
         {
           "node_type": "item",
@@ -5780,7 +6137,8 @@
             "owner": "JaimeObregon",
             "repo": "ladonacion.es",
             "stars": 194
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         },
         {
           "node_type": "item",
@@ -5795,7 +6153,8 @@
             "owner": "JaimeObregon",
             "repo": "infoelectoral",
             "stars": 154
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         },
         {
           "node_type": "item",
@@ -5810,7 +6169,8 @@
             "owner": "bukosabino",
             "repo": "justicio",
             "stars": 148
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         },
         {
           "node_type": "item",
@@ -5825,7 +6185,8 @@
             "owner": "JaimeObregon",
             "repo": "observatoriospublicos.es",
             "stars": 132
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         },
         {
           "node_type": "item",
@@ -5840,7 +6201,8 @@
             "owner": "JaimeObregon",
             "repo": "retrosantander",
             "stars": 94
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         },
         {
           "node_type": "item",
@@ -5855,7 +6217,8 @@
             "owner": "hpalacio",
             "repo": "leyes",
             "stars": 84
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         },
         {
           "node_type": "item",
@@ -5870,7 +6233,8 @@
             "owner": "JaimeObregon",
             "repo": "gobiernovasco.marketing",
             "stars": 47
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         },
         {
           "node_type": "item",
@@ -5885,7 +6249,8 @@
             "owner": "gerardgimenezadsuar",
             "repo": "contractes-cat",
             "stars": 42
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         },
         {
           "node_type": "item",
@@ -5900,7 +6265,8 @@
             "owner": "civio",
             "repo": "civio-graphs-public",
             "stars": 38
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         },
         {
           "node_type": "item",
@@ -5915,7 +6281,8 @@
             "owner": "rOpenSpain",
             "repo": "infoelectoral",
             "stars": 32
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         },
         {
           "node_type": "item",
@@ -5930,7 +6297,8 @@
             "owner": "civio",
             "repo": "scraper-pge",
             "stars": 25
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         },
         {
           "node_type": "item",
@@ -5945,7 +6313,8 @@
             "owner": "civio",
             "repo": "presupuesto",
             "stars": 19
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         },
         {
           "node_type": "item",
@@ -5960,7 +6329,8 @@
             "owner": "Gasparms9",
             "repo": "Project5-Cendoj-Scrapping-API",
             "stars": 16
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         },
         {
           "node_type": "item",
@@ -5975,7 +6345,8 @@
             "owner": "eduaero",
             "repo": "BOE",
             "stars": 13
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         },
         {
           "node_type": "item",
@@ -5990,7 +6361,8 @@
             "owner": "JaimeObregon",
             "repo": "contractacio.cat",
             "stars": 12
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         },
         {
           "node_type": "item",
@@ -6005,7 +6377,8 @@
             "owner": "rOpenSpain",
             "repo": "BOE",
             "stars": 10
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         },
         {
           "node_type": "item",
@@ -6020,7 +6393,8 @@
             "owner": "cripsisxyz",
             "repo": "osbex",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         },
         {
           "node_type": "item",
@@ -6035,7 +6409,8 @@
             "owner": "onticsoluciones",
             "repo": "iuris",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         },
         {
           "node_type": "item",
@@ -6050,7 +6425,8 @@
             "owner": "arnabdeypolimi",
             "repo": "your-ai-lawyer",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         },
         {
           "node_type": "item",
@@ -6065,7 +6441,8 @@
             "owner": "vbmedina91",
             "repo": "boeexplorer",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         },
         {
           "node_type": "item",
@@ -6080,7 +6457,8 @@
             "owner": "hadronomy",
             "repo": "canary",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         }
       ],
       "title": "Transparencia y Legal Tech"
@@ -6101,7 +6479,8 @@
             "owner": "gerardcl",
             "repo": "renfe-cli",
             "stars": 47
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         },
         {
           "node_type": "item",
@@ -6116,7 +6495,8 @@
             "owner": "emartinez-dev",
             "repo": "renfe-bot",
             "stars": 27
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         },
         {
           "node_type": "item",
@@ -6131,7 +6511,8 @@
             "owner": "fermartv",
             "repo": "emt_madrid",
             "stars": 22
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         },
         {
           "node_type": "item",
@@ -6146,7 +6527,8 @@
             "owner": "jonseg",
             "repo": "cercanias-renfe-android",
             "stars": 21
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         },
         {
           "node_type": "item",
@@ -6161,7 +6543,8 @@
             "owner": "Sloy",
             "repo": "sevibus-android",
             "stars": 20
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         },
         {
           "node_type": "item",
@@ -6176,7 +6559,8 @@
             "owner": "ferranpm",
             "repo": "renfe",
             "stars": 16
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         },
         {
           "node_type": "item",
@@ -6191,7 +6575,8 @@
             "owner": "JavierMonton",
             "repo": "renfe-tracker",
             "stars": 16
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         },
         {
           "node_type": "item",
@@ -6206,7 +6591,8 @@
             "owner": "ElEd0",
             "repo": "EMTValencia-API",
             "stars": 15
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         },
         {
           "node_type": "item",
@@ -6221,7 +6607,8 @@
             "owner": "peprolinbot",
             "repo": "bus.gal-api",
             "stars": 10
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         },
         {
           "node_type": "item",
@@ -6236,7 +6623,8 @@
             "owner": "grcanosa",
             "repo": "renfe-notifier-bot",
             "stars": 10
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         },
         {
           "node_type": "item",
@@ -6251,7 +6639,8 @@
             "owner": "jesusrp98",
             "repo": "aucorsa",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         },
         {
           "node_type": "item",
@@ -6266,7 +6655,8 @@
             "owner": "fervillarce",
             "repo": "your-renfe-tickets-are-available",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         },
         {
           "node_type": "item",
@@ -6281,7 +6671,8 @@
             "owner": "atabel",
             "repo": "renfe-api",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         },
         {
           "node_type": "item",
@@ -6296,7 +6687,8 @@
             "owner": "angelbarrera92",
             "repo": "ave-round-tripper",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         },
         {
           "node_type": "item",
@@ -6311,7 +6703,8 @@
             "owner": "riera90",
             "repo": "CapitanRenfe",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         },
         {
           "node_type": "item",
@@ -6326,7 +6719,8 @@
             "owner": "rmed",
             "repo": "pyemtmad",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         },
         {
           "children": [
@@ -6343,7 +6737,8 @@
                 "owner": "InnocenceAllen",
                 "repo": "AENA_Info_Vuelos",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-28T21:21:12.343Z"
             }
           ],
           "description": null,
@@ -6365,7 +6760,8 @@
                 "owner": "lechatquidanse",
                 "repo": "bicing-api",
                 "stars": 162
-              }
+              },
+              "first_seen": "2026-08-28T21:21:12.343Z"
             },
             {
               "node_type": "item",
@@ -6380,7 +6776,8 @@
                 "owner": "alexruperez",
                 "repo": "MADBike",
                 "stars": 23
-              }
+              },
+              "first_seen": "2026-08-28T21:21:12.343Z"
             },
             {
               "node_type": "item",
@@ -6395,7 +6792,8 @@
                 "owner": "cicloon",
                 "repo": "bicimad-api",
                 "stars": 15
-              }
+              },
+              "first_seen": "2026-08-28T21:21:12.343Z"
             },
             {
               "node_type": "item",
@@ -6410,7 +6808,8 @@
                 "owner": "rameerez",
                 "repo": "bicimad-data-analysis",
                 "stars": 15
-              }
+              },
+              "first_seen": "2026-08-28T21:21:12.343Z"
             },
             {
               "node_type": "item",
@@ -6425,7 +6824,8 @@
                 "owner": "imartinezl",
                 "repo": "bicing-deckgl",
                 "stars": 11
-              }
+              },
+              "first_seen": "2026-08-28T21:21:12.343Z"
             },
             {
               "node_type": "item",
@@ -6440,7 +6840,8 @@
                 "owner": "Mun0n",
                 "repo": "MADBike",
                 "stars": 11
-              }
+              },
+              "first_seen": "2026-08-28T21:21:12.343Z"
             },
             {
               "node_type": "item",
@@ -6455,7 +6856,8 @@
                 "owner": "lechatquidanse",
                 "repo": "bicing-prediction-api",
                 "stars": 10
-              }
+              },
+              "first_seen": "2026-08-28T21:21:12.343Z"
             },
             {
               "node_type": "item",
@@ -6470,7 +6872,8 @@
                 "owner": "javierarce",
                 "repo": "bicimap",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-28T21:21:12.343Z"
             },
             {
               "node_type": "item",
@@ -6485,7 +6888,8 @@
                 "owner": "systemallica",
                 "repo": "ValenBisi",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-28T21:21:12.343Z"
             },
             {
               "node_type": "item",
@@ -6500,7 +6904,8 @@
                 "owner": "gcaguilar",
                 "repo": "biciradar",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T21:21:12.343Z"
             }
           ],
           "description": null,
@@ -6522,7 +6927,8 @@
                 "owner": "gerardcl",
                 "repo": "rodalies-cli",
                 "stars": 19
-              }
+              },
+              "first_seen": "2026-08-28T21:21:12.343Z"
             },
             {
               "node_type": "item",
@@ -6537,7 +6943,8 @@
                 "owner": "wonx",
                 "repo": "rodalies-tracker",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-28T21:21:12.343Z"
             },
             {
               "node_type": "item",
@@ -6552,7 +6959,8 @@
                 "owner": "fitomad",
                 "repo": "CoreEMT",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T21:21:12.343Z"
             },
             {
               "node_type": "item",
@@ -6567,7 +6975,8 @@
                 "owner": "cmos486",
                 "repo": "fgc-trains",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T21:21:12.343Z"
             },
             {
               "node_type": "item",
@@ -6582,7 +6991,8 @@
                 "owner": "albertodiazsaez",
                 "repo": "fgv-reloaded",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T21:21:12.343Z"
             }
           ],
           "description": null,
@@ -6608,7 +7018,8 @@
             "owner": "singuerinc",
             "repo": "better-dni",
             "stars": 33
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         },
         {
           "node_type": "item",
@@ -6623,7 +7034,8 @@
             "owner": "danielmrdev",
             "repo": "laravel-spanish-validator",
             "stars": 26
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         },
         {
           "node_type": "item",
@@ -6638,7 +7050,8 @@
             "owner": "skilla",
             "repo": "ValidatorCifNifNie",
             "stars": 20
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         },
         {
           "node_type": "item",
@@ -6653,7 +7066,8 @@
             "owner": "coixinet",
             "repo": "spain-id",
             "stars": 18
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         },
         {
           "node_type": "item",
@@ -6668,7 +7082,8 @@
             "owner": "fewlaps",
             "repo": "Picoleto",
             "stars": 11
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         },
         {
           "node_type": "item",
@@ -6683,7 +7098,8 @@
             "owner": "javiertoledo",
             "repo": "spanish_vat_validators",
             "stars": 10
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         },
         {
           "node_type": "item",
@@ -6698,7 +7114,8 @@
             "owner": "singuerinc",
             "repo": "spain-phone",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         },
         {
           "node_type": "item",
@@ -6713,7 +7130,8 @@
             "owner": "64robots",
             "repo": "nova-dni-field",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         },
         {
           "node_type": "item",
@@ -6728,7 +7146,8 @@
             "owner": "singuerinc",
             "repo": "spanish-car-plate",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         },
         {
           "node_type": "item",
@@ -6743,7 +7162,8 @@
             "owner": "criptalia",
             "repo": "spanish_dni_validator",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         },
         {
           "node_type": "item",
@@ -6758,7 +7178,8 @@
             "owner": "alexladerman",
             "repo": "valnif",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         },
         {
           "node_type": "item",
@@ -6773,7 +7194,8 @@
             "owner": "albertfdp",
             "repo": "dni-js",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         },
         {
           "node_type": "item",
@@ -6788,7 +7210,8 @@
             "owner": "AnnaPS",
             "repo": "dni_nie_validator",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         },
         {
           "node_type": "item",
@@ -6803,14 +7226,15 @@
             "owner": "mybooking-es",
             "repo": "aeat-validador-nif",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
         }
       ],
       "title": "Validación de Documentos"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T20:59:01.807Z",
+    "last_updated": "2026-08-28T21:21:12.343Z",
     "original_repository_info": {
       "archived": false,
       "id": 1187199436,
