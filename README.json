@@ -92,7 +92,7 @@
             "id": 432434646,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-28T12:06:45Z",
+            "last_commit": "2026-08-29T10:49:22Z",
             "open_issues": 2,
             "owner": "guerrerotook",
             "repo": "securitas-direct-new-api",
@@ -1031,7 +1031,7 @@
             "id": 461959149,
             "language": "HTML",
             "license": "GPL-3.0",
-            "last_commit": "2026-08-28T19:09:24Z",
+            "last_commit": "2026-08-29T12:53:16Z",
             "open_issues": 0,
             "owner": "soker90",
             "repo": "precio-gasolina",
@@ -2038,7 +2038,7 @@
             "id": 813670716,
             "language": "R",
             "license": "NOASSERTION",
-            "last_commit": "2026-08-22T04:29:21Z",
+            "last_commit": "2026-08-29T10:45:50Z",
             "open_issues": 13,
             "owner": "rOpenSpain",
             "repo": "spanishoddata",
@@ -2533,9 +2533,9 @@
             "description": "A library that provides data on Spain's autonomies, provinces, and cities, including their codes, names, flags, and coats of arms for seamless integration into your applications.",
             "homepage": "https://bymykel.github.io/spanish-cities/",
             "id": 597711728,
-            "language": "Python",
+            "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-03-11T19:46:36Z",
+            "last_commit": "2026-08-29T10:07:15Z",
             "open_issues": 0,
             "owner": "ByMykel",
             "repo": "spanish-cities",
@@ -4109,8 +4109,8 @@
             "id": 1137833640,
             "language": "JavaScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-08-29T02:33:30Z",
-            "open_issues": 0,
+            "last_commit": "2026-08-29T13:51:26Z",
+            "open_issues": 2,
             "owner": "almax-es",
             "repo": "luzfija.es",
             "stars": 5,
@@ -4198,7 +4198,7 @@
             "language": "Python",
             "license": "AGPL-3.0",
             "last_commit": "2026-08-28T13:50:01Z",
-            "open_issues": 143,
+            "open_issues": 144,
             "owner": "OCA",
             "repo": "l10n-spain",
             "stars": 553,
@@ -4703,10 +4703,10 @@
                 "language": "Go",
                 "license": "Apache-2.0",
                 "last_commit": "2026-08-28T11:20:52Z",
-                "open_issues": 64,
+                "open_issues": 65,
                 "owner": "invopop",
                 "repo": "gobl",
-                "stars": 302,
+                "stars": 304,
                 "topics": [
                   "gobl"
                 ]
@@ -5704,7 +5704,7 @@
                 "language": "Java",
                 "license": null,
                 "last_commit": "2026-08-24T11:51:55Z",
-                "open_issues": 378,
+                "open_issues": 379,
                 "owner": "ctt-gob-es",
                 "repo": "clienteafirma",
                 "stars": 330,
@@ -5767,7 +5767,7 @@
                 "open_issues": 0,
                 "owner": "ctt-gob-es",
                 "repo": "jmulticard",
-                "stars": 46,
+                "stars": 47,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:21:12.343Z"
@@ -8969,7 +8969,7 @@
             "open_issues": 40,
             "owner": "LaQuay",
             "repo": "TDTChannels",
-            "stars": 1652,
+            "stars": 1654,
             "topics": []
           },
           "first_seen": "2026-08-28T21:21:12.343Z"
@@ -9137,7 +9137,7 @@
             "open_issues": 2,
             "owner": "zry98",
             "repo": "movistar-home-hacks",
-            "stars": 45,
+            "stars": 46,
             "topics": [
               "hardware-hacking",
               "hass",
@@ -10488,6 +10488,40 @@
             },
             {
               "node_type": "item",
+              "title": "bicimad-data-analysis",
+              "description": "Análisis de datos y predicciones ML de uso de BiciMAD.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "🚲 BiciMAD - Data analysis + ML usage predictions of Madrid's public bike system data",
+                "homepage": "https://madrides.in",
+                "id": 89160890,
+                "language": "Jupyter Notebook",
+                "license": "MIT",
+                "last_commit": "2018-02-05T17:23:11Z",
+                "open_issues": 2,
+                "owner": "rameerez",
+                "repo": "bicimad-data-analysis",
+                "stars": 16,
+                "topics": [
+                  "artificial-intelligence",
+                  "bicimad",
+                  "bicimad-data",
+                  "bike",
+                  "city",
+                  "data-analysis",
+                  "emt-opendata",
+                  "ipython-notebook",
+                  "machine-learning",
+                  "madrid",
+                  "neural-network",
+                  "python"
+                ]
+              },
+              "first_seen": "2026-08-28T21:21:12.343Z"
+            },
+            {
+              "node_type": "item",
               "title": "bicimad-api",
               "description": "API no oficial de BiciMAD.",
               "children": [],
@@ -10504,40 +10538,6 @@
                 "repo": "bicimad-api",
                 "stars": 15,
                 "topics": []
-              },
-              "first_seen": "2026-08-28T21:21:12.343Z"
-            },
-            {
-              "node_type": "item",
-              "title": "bicimad-data-analysis",
-              "description": "Análisis de datos y predicciones ML de uso de BiciMAD.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "🚲 BiciMAD - Data analysis + ML usage predictions of Madrid's public bike system data",
-                "homepage": "https://madrides.in",
-                "id": 89160890,
-                "language": "Jupyter Notebook",
-                "license": "MIT",
-                "last_commit": "2018-02-05T17:23:11Z",
-                "open_issues": 2,
-                "owner": "rameerez",
-                "repo": "bicimad-data-analysis",
-                "stars": 15,
-                "topics": [
-                  "artificial-intelligence",
-                  "bicimad",
-                  "bicimad-data",
-                  "bike",
-                  "city",
-                  "data-analysis",
-                  "emt-opendata",
-                  "ipython-notebook",
-                  "machine-learning",
-                  "madrid",
-                  "neural-network",
-                  "python"
-                ]
               },
               "first_seen": "2026-08-28T21:21:12.343Z"
             },
@@ -11214,7 +11214,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:47:26.281Z",
+    "last_updated": "2026-08-29T15:34:53.027Z",
     "original_repository_info": {
       "archived": false,
       "description": "Una selección de software open source que da soporte específico a España",
