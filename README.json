@@ -93,10 +93,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-08-29T10:49:22Z",
-            "open_issues": 2,
+            "open_issues": 3,
             "owner": "guerrerotook",
             "repo": "securitas-direct-new-api",
-            "stars": 137,
+            "stars": 138,
             "topics": [
               "home-assistant",
               "home-automation",
@@ -284,7 +284,7 @@
             "id": 310689182,
             "language": "R",
             "license": "GPL-3.0",
-            "last_commit": "2026-08-31T17:57:25Z",
+            "last_commit": "2026-09-01T05:18:50Z",
             "open_issues": 2,
             "owner": "rOpenSpain",
             "repo": "mapSpain",
@@ -601,8 +601,8 @@
             "id": 921066224,
             "language": "JavaScript",
             "license": "EUPL-1.2",
-            "last_commit": "2026-08-31T13:06:37Z",
-            "open_issues": 7,
+            "last_commit": "2026-09-01T10:31:15Z",
+            "open_issues": 4,
             "owner": "Desarrollos-IDEE",
             "repo": "API-IDEE",
             "stars": 9,
@@ -661,6 +661,29 @@
         },
         {
           "node_type": "item",
+          "title": "pycartociudad",
+          "description": "Paquete Python para consultar la API de CartoCiudad.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Python package to query cartociudad API",
+            "homepage": null,
+            "id": 302287933,
+            "language": "Python",
+            "license": "GPL-3.0",
+            "last_commit": "2020-12-19T15:53:38Z",
+            "open_issues": 6,
+            "owner": "PyLadiesMadrid",
+            "repo": "pycartociudad",
+            "stars": 4,
+            "topics": [
+              "hacktoberfest"
+            ]
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
+        },
+        {
+          "node_type": "item",
           "title": "trece",
           "description": "CLI para descargar datos geoespaciales y de direcciones oficiales de España.",
           "children": [],
@@ -703,29 +726,6 @@
             "repo": "API-CNIG",
             "stars": 3,
             "topics": []
-          },
-          "first_seen": "2026-08-28T21:21:12.343Z"
-        },
-        {
-          "node_type": "item",
-          "title": "pycartociudad",
-          "description": "Paquete Python para consultar la API de CartoCiudad.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Python package to query cartociudad API",
-            "homepage": null,
-            "id": 302287933,
-            "language": "Python",
-            "license": "GPL-3.0",
-            "last_commit": "2020-12-19T15:53:38Z",
-            "open_issues": 6,
-            "owner": "PyLadiesMadrid",
-            "repo": "pycartociudad",
-            "stars": 3,
-            "topics": [
-              "hacktoberfest"
-            ]
           },
           "first_seen": "2026-08-28T21:21:12.343Z"
         },
@@ -1031,7 +1031,7 @@
             "id": 461959149,
             "language": "HTML",
             "license": "GPL-3.0",
-            "last_commit": "2026-08-31T14:37:54Z",
+            "last_commit": "2026-09-01T12:14:19Z",
             "open_issues": 0,
             "owner": "soker90",
             "repo": "precio-gasolina",
@@ -1508,7 +1508,7 @@
                 "open_issues": 2,
                 "owner": "GeiserX",
                 "repo": "awesome-comunidad-de-madrid",
-                "stars": 4,
+                "stars": 5,
                 "topics": [
                   "awesome",
                   "awesome-comunidad-de-madrid",
@@ -2920,7 +2920,7 @@
             "id": 10214008,
             "language": null,
             "license": "CC0-1.0",
-            "last_commit": "2026-08-25T14:20:50Z",
+            "last_commit": "2026-09-01T11:23:55Z",
             "open_issues": 1,
             "owner": "openfootball",
             "repo": "espana",
@@ -3549,7 +3549,7 @@
             "open_issues": 42,
             "owner": "uvejota",
             "repo": "homeassistant-edata",
-            "stars": 336,
+            "stars": 337,
             "topics": [
               "energy-monitor",
               "home-assistant"
@@ -3981,8 +3981,8 @@
             "id": 449294521,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-31T17:48:59Z",
-            "open_issues": 1,
+            "last_commit": "2026-09-01T15:25:30Z",
+            "open_issues": 4,
             "owner": "hectorespert",
             "repo": "som-energia-hass",
             "stars": 10,
@@ -4109,8 +4109,8 @@
             "id": 1137833640,
             "language": "JavaScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-08-31T13:22:49Z",
-            "open_issues": 2,
+            "last_commit": "2026-09-01T12:56:02Z",
+            "open_issues": 0,
             "owner": "almax-es",
             "repo": "luzfija.es",
             "stars": 5,
@@ -4198,10 +4198,10 @@
             "language": "Python",
             "license": "AGPL-3.0",
             "last_commit": "2026-08-31T12:15:14Z",
-            "open_issues": 142,
+            "open_issues": 146,
             "owner": "OCA",
             "repo": "l10n-spain",
-            "stars": 555,
+            "stars": 556,
             "topics": [
               "erp",
               "hacktoberfest",
@@ -4222,7 +4222,7 @@
             "id": 9263296,
             "language": "PHP",
             "license": "LGPL-3.0",
-            "last_commit": "2026-08-31T15:01:13Z",
+            "last_commit": "2026-09-01T15:04:43Z",
             "open_issues": 78,
             "owner": "NeoRazorX",
             "repo": "facturascripts",
@@ -4430,7 +4430,7 @@
             "open_issues": 3,
             "owner": "TiagoCortinhal",
             "repo": "cita-checker",
-            "stars": 29,
+            "stars": 30,
             "topics": [
               "automation",
               "cita",
@@ -4702,11 +4702,11 @@
                 "id": 292311963,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-31T16:05:28Z",
-                "open_issues": 66,
+                "last_commit": "2026-09-01T15:17:39Z",
+                "open_issues": 60,
                 "owner": "invopop",
                 "repo": "gobl",
-                "stars": 305,
+                "stars": 306,
                 "topics": [
                   "gobl"
                 ]
@@ -5182,7 +5182,7 @@
                 "open_issues": 0,
                 "owner": "mdiago",
                 "repo": "VeriFactu",
-                "stars": 336,
+                "stars": 337,
                 "topics": [
                   "access",
                   "aeat",
@@ -5707,7 +5707,7 @@
                 "open_issues": 379,
                 "owner": "ctt-gob-es",
                 "repo": "clienteafirma",
-                "stars": 331,
+                "stars": 332,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:21:12.343Z"
@@ -7228,11 +7228,11 @@
             "id": 65914086,
             "language": "Ruby",
             "license": "AGPL-3.0",
-            "last_commit": "2026-08-31T04:17:21Z",
-            "open_issues": 369,
+            "last_commit": "2026-09-01T13:43:15Z",
+            "open_issues": 371,
             "owner": "decidim",
             "repo": "decidim",
-            "stars": 1809,
+            "stars": 1808,
             "topics": [
               "citizen-participation",
               "civic-tech",
@@ -7265,8 +7265,8 @@
             "id": 39152554,
             "language": "Ruby",
             "license": "AGPL-3.0",
-            "last_commit": "2026-08-28T19:51:39Z",
-            "open_issues": 210,
+            "last_commit": "2026-09-01T13:51:15Z",
+            "open_issues": 209,
             "owner": "consuldemocracy",
             "repo": "consuldemocracy",
             "stars": 1547,
@@ -7650,7 +7650,7 @@
             "open_issues": 1,
             "owner": "majulvez",
             "repo": "easyredsys",
-            "stars": 14,
+            "stars": 15,
             "topics": [
               "banco",
               "compra",
@@ -7701,7 +7701,7 @@
                 "id": 17015540,
                 "language": "Perl",
                 "license": "NOASSERTION",
-                "last_commit": "2026-08-28T07:43:38Z",
+                "last_commit": "2026-09-01T08:26:02Z",
                 "open_issues": 9,
                 "owner": "Softcatala",
                 "repo": "catalan-dict-tools",
@@ -7968,7 +7968,7 @@
                 "id": 179056834,
                 "language": "Ruby",
                 "license": "LGPL-3.0",
-                "last_commit": "2026-02-27T08:51:04Z",
+                "last_commit": "2026-09-01T08:52:00Z",
                 "open_issues": 2,
                 "owner": "crpih",
                 "repo": "xiada",
@@ -8758,7 +8758,7 @@
             "id": 1025912736,
             "language": "Python",
             "license": "Unlicense",
-            "last_commit": "2026-08-30T18:51:32Z",
+            "last_commit": "2026-08-31T21:08:58Z",
             "open_issues": 1,
             "owner": "mv12star",
             "repo": "lista-telefonos-spam",
@@ -9184,7 +9184,7 @@
             "id": 305829629,
             "language": null,
             "license": "GPL-3.0",
-            "last_commit": "2026-08-31T17:58:16Z",
+            "last_commit": "2026-08-31T18:00:20Z",
             "open_issues": 1,
             "owner": "jungla-team",
             "repo": "Picon-enigma2-Movistar",
@@ -9425,7 +9425,7 @@
             "open_issues": 3,
             "owner": "legalize-dev",
             "repo": "legalize-es",
-            "stars": 1875,
+            "stars": 1877,
             "topics": [
               "legalize-country"
             ]
@@ -11214,7 +11214,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T17:58:30.742Z",
+    "last_updated": "2026-09-01T15:27:26.633Z",
     "original_repository_info": {
       "archived": false,
       "description": "Una selección de software open source que da soporte específico a España",
@@ -11226,7 +11226,7 @@
       "open_issues": 4,
       "owner": "GeiserX",
       "repo": "awesome-spain",
-      "stars": 332,
+      "stars": 333,
       "topics": [
         "administracion-electronica",
         "aeat",
