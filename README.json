@@ -92,8 +92,8 @@
             "id": 432434646,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-04T17:47:06Z",
-            "open_issues": 2,
+            "last_commit": "2026-09-06T10:46:25Z",
+            "open_issues": 0,
             "owner": "guerrerotook",
             "repo": "securitas-direct-new-api",
             "stars": 138,
@@ -375,7 +375,7 @@
             "id": 94240565,
             "language": "R",
             "license": "GPL-2.0",
-            "last_commit": "2026-08-31T11:11:44Z",
+            "last_commit": "2026-09-06T11:12:32Z",
             "open_issues": 0,
             "owner": "rOpenSpain",
             "repo": "CatastRo",
@@ -1031,7 +1031,7 @@
             "id": 461959149,
             "language": "HTML",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-05T11:03:10Z",
+            "last_commit": "2026-09-06T11:26:55Z",
             "open_issues": 0,
             "owner": "soker90",
             "repo": "precio-gasolina",
@@ -2368,6 +2368,29 @@
         },
         {
           "node_type": "item",
+          "title": "spain-open-data",
+          "description": "Recopilación de recursos de datos abiertos españoles.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A list of Spanish open data resources",
+            "homepage": null,
+            "id": 123171104,
+            "language": null,
+            "license": null,
+            "last_commit": "2018-03-14T11:04:47Z",
+            "open_issues": 1,
+            "owner": "ginopalazzo",
+            "repo": "spain-open-data",
+            "stars": 10,
+            "topics": [
+              "open-data"
+            ]
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
+        },
+        {
+          "node_type": "item",
           "title": "Datania Mercadona",
           "description": "Catálogo de productos de la tienda online de Mercadona en formato JSON.",
           "children": [],
@@ -2405,29 +2428,6 @@
             "repo": "municipios-provincias-comunidades-INE-spain",
             "stars": 9,
             "topics": []
-          },
-          "first_seen": "2026-08-28T21:21:12.343Z"
-        },
-        {
-          "node_type": "item",
-          "title": "spain-open-data",
-          "description": "Recopilación de recursos de datos abiertos españoles.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A list of Spanish open data resources",
-            "homepage": null,
-            "id": 123171104,
-            "language": null,
-            "license": null,
-            "last_commit": "2018-03-14T11:04:47Z",
-            "open_issues": 1,
-            "owner": "ginopalazzo",
-            "repo": "spain-open-data",
-            "stars": 9,
-            "topics": [
-              "open-data"
-            ]
           },
           "first_seen": "2026-08-28T21:21:12.343Z"
         },
@@ -3447,7 +3447,7 @@
             "language": null,
             "license": null,
             "last_commit": "2026-07-20T17:15:09Z",
-            "open_issues": 6,
+            "open_issues": 7,
             "owner": "remote-es",
             "repo": "remotes",
             "stars": 2834,
@@ -4058,7 +4058,7 @@
             "id": 1137833640,
             "language": "JavaScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-05T13:05:23Z",
+            "last_commit": "2026-09-06T13:55:11Z",
             "open_issues": 0,
             "owner": "almax-es",
             "repo": "luzfija.es",
@@ -4198,7 +4198,7 @@
             "language": "Python",
             "license": "AGPL-3.0",
             "last_commit": "2026-09-04T06:36:24Z",
-            "open_issues": 151,
+            "open_issues": 153,
             "owner": "OCA",
             "repo": "l10n-spain",
             "stars": 557,
@@ -4458,7 +4458,7 @@
             "open_issues": 2,
             "owner": "kpliuta",
             "repo": "cita-previa-extranjeria-monitor",
-            "stars": 19,
+            "stars": 20,
             "topics": [
               "android",
               "appointment",
@@ -6331,7 +6331,7 @@
                 "open_issues": 1,
                 "owner": "martin0995",
                 "repo": "idealista-notifier",
-                "stars": 11,
+                "stars": 12,
                 "topics": [
                   "bot",
                   "idealista",
@@ -7228,8 +7228,8 @@
             "id": 65914086,
             "language": "Ruby",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-04T01:06:44Z",
-            "open_issues": 374,
+            "last_commit": "2026-09-05T18:38:05Z",
+            "open_issues": 373,
             "owner": "decidim",
             "repo": "decidim",
             "stars": 1810,
@@ -7430,8 +7430,8 @@
             "id": 184131074,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-08-31T17:38:47Z",
-            "open_issues": 1,
+            "last_commit": "2026-09-05T21:16:34Z",
+            "open_issues": 2,
             "owner": "javiertury",
             "repo": "redsys-easy",
             "stars": 54,
@@ -8670,22 +8670,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": "🛍️ A Mercadona interface for Python to track product prices, amounts, and more. ",
-            "homepage": "https://joeltaylor.business/",
+            "description": "a synchronous, typed python client for mercadona's public storefront apis",
+            "homepage": "https://jtayped.github.io/mercapy/",
             "id": 801671088,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2024-05-27T10:11:06Z",
+            "last_commit": "2026-09-06T12:58:23Z",
             "open_issues": 0,
             "owner": "jtayped",
             "repo": "mercapy",
             "stars": 7,
             "topics": [
-              "api",
-              "api-interface",
+              "api-client",
+              "httpx",
               "mercadona",
-              "mercadona-scraper",
-              "scraper"
+              "python",
+              "typed"
             ]
           },
           "first_seen": "2026-08-28T21:21:12.343Z"
@@ -8758,7 +8758,7 @@
             "id": 1025912736,
             "language": "Python",
             "license": "Unlicense",
-            "last_commit": "2026-09-04T18:36:11Z",
+            "last_commit": "2026-09-05T17:44:57Z",
             "open_issues": 1,
             "owner": "mv12star",
             "repo": "lista-telefonos-spam",
@@ -8966,7 +8966,7 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-08-31T17:14:19Z",
-            "open_issues": 41,
+            "open_issues": 48,
             "owner": "LaQuay",
             "repo": "TDTChannels",
             "stars": 1660,
@@ -9425,7 +9425,7 @@
             "open_issues": 3,
             "owner": "legalize-dev",
             "repo": "legalize-es",
-            "stars": 1877,
+            "stars": 1879,
             "topics": [
               "legalize-country"
             ]
@@ -9448,7 +9448,7 @@
             "open_issues": 6,
             "owner": "BquantFinance",
             "repo": "licitaciones-espana",
-            "stars": 215,
+            "stars": 216,
             "topics": []
           },
           "first_seen": "2026-08-28T21:21:12.343Z"
@@ -9851,7 +9851,7 @@
             "open_issues": 1,
             "owner": "cripsisxyz",
             "repo": "osbex",
-            "stars": 9,
+            "stars": 10,
             "topics": [
               "borme",
               "docker",
@@ -10698,8 +10698,8 @@
                 "id": 1178280204,
                 "language": "Kotlin",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-02T20:09:20Z",
-                "open_issues": 10,
+                "last_commit": "2026-09-05T17:53:35Z",
+                "open_issues": 11,
                 "owner": "gcaguilar",
                 "repo": "biciradar",
                 "stars": 4,
@@ -11214,7 +11214,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T13:49:45.019Z",
+    "last_updated": "2026-09-06T14:06:47.838Z",
     "original_repository_info": {
       "archived": false,
       "description": "Una selección de software open source que da soporte específico a España",
@@ -11226,7 +11226,7 @@
       "open_issues": 4,
       "owner": "GeiserX",
       "repo": "awesome-spain",
-      "stars": 335,
+      "stars": 337,
       "topics": [
         "administracion-electronica",
         "aeat",
