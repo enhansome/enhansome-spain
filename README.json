@@ -107,51 +107,6 @@
         },
         {
           "node_type": "item",
-          "title": "securitasdirect",
-          "description": "Integración Home Assistant con Securitas Direct (Verisure EU) y CLI.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Home Assistant integration with Securitas Direct (AKA Verisure EU) and command line tool to interact with.",
-            "homepage": null,
-            "id": 150291093,
-            "language": "Python",
-            "license": null,
-            "last_commit": "2021-06-15T17:54:10Z",
-            "open_issues": 18,
-            "owner": "segalion",
-            "repo": "securitasdirect",
-            "stars": 46,
-            "topics": [
-              "securitas-direct",
-              "verisure"
-            ]
-          },
-          "first_seen": "2026-08-28T21:21:12.343Z"
-        },
-        {
-          "node_type": "item",
-          "title": "homebridge-securitas-direct",
-          "description": "Plugin de Homebridge para Securitas Direct.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": null,
-            "homepage": "https://www.npmjs.com/package/homebridge-securitas-direct",
-            "id": 314883940,
-            "language": "JavaScript",
-            "license": "MIT",
-            "last_commit": "2020-12-07T12:57:31Z",
-            "open_issues": 11,
-            "owner": "ptz0n",
-            "repo": "homebridge-securitas-direct",
-            "stars": 7,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T21:21:12.343Z"
-        },
-        {
-          "node_type": "item",
           "title": "pyprosegur",
           "description": "Librería Python para alarmas Smart Prosegur.",
           "children": [],
@@ -168,32 +123,6 @@
             "repo": "pyprosegur",
             "stars": 7,
             "topics": []
-          },
-          "first_seen": "2026-08-28T21:21:12.343Z"
-        },
-        {
-          "node_type": "item",
-          "title": "ha_prosegur",
-          "description": "Integración Home Assistant para alarmas Prosegur.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "description": "Home Assistant Integration for Prosegur Alarms",
-            "homepage": null,
-            "id": 326288909,
-            "language": "Python",
-            "license": "MIT",
-            "last_commit": "2023-02-28T17:21:10Z",
-            "open_issues": 1,
-            "owner": "dgomes",
-            "repo": "ha_prosegur",
-            "stars": 3,
-            "topics": [
-              "alarm-control-panel",
-              "alarm-system",
-              "home-assistant",
-              "home-assistant-component"
-            ]
           },
           "first_seen": "2026-08-28T21:21:12.343Z"
         }
@@ -288,7 +217,7 @@
             "open_issues": 1,
             "owner": "rOpenSpain",
             "repo": "mapSpain",
-            "stars": 49,
+            "stars": 50,
             "topics": [
               "administrative-boundaries",
               "ccaa",
@@ -601,8 +530,8 @@
             "id": 921066224,
             "language": "JavaScript",
             "license": "EUPL-1.2",
-            "last_commit": "2026-09-04T13:04:20Z",
-            "open_issues": 4,
+            "last_commit": "2026-09-08T08:47:55Z",
+            "open_issues": 3,
             "owner": "Desarrollos-IDEE",
             "repo": "API-IDEE",
             "stars": 9,
@@ -767,27 +696,6 @@
       "items": [
         {
           "children": [
-            {
-              "node_type": "item",
-              "title": "api-filmaffinity",
-              "description": "API REST no oficial de FilmAffinity en castellano.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "API REST no oficial de Filmaffinity en castellano",
-                "homepage": null,
-                "id": 113630830,
-                "language": "JavaScript",
-                "license": null,
-                "last_commit": "2020-09-27T14:44:32Z",
-                "open_issues": 5,
-                "owner": "carlosramosa",
-                "repo": "api-filmaffinity",
-                "stars": 29,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T21:21:12.343Z"
-            },
             {
               "node_type": "item",
               "title": "filmaffinity-api (xsga)",
@@ -969,27 +877,6 @@
         },
         {
           "node_type": "item",
-          "title": "gasolineras-espana",
-          "description": "Descarga, parseo y transformación de la lista completa de precios de gasolineras españolas.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Retrieve, parse and transform full list of Spanish petrol stations' prices",
-            "homepage": null,
-            "id": 13325325,
-            "language": "Python",
-            "license": null,
-            "last_commit": "2021-11-04T13:53:31Z",
-            "open_issues": 2,
-            "owner": "kbsali",
-            "repo": "gasolineras-espana",
-            "stars": 7,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T21:21:12.343Z"
-        },
-        {
-          "node_type": "item",
           "title": "spain-gas",
           "description": "Cliente PHP para obtener información de gasolineras y precios del Geoportal del Gobierno.",
           "children": [],
@@ -1031,7 +918,7 @@
             "id": 461959149,
             "language": "HTML",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-07T13:09:29Z",
+            "last_commit": "2026-09-08T11:53:54Z",
             "open_issues": 0,
             "owner": "soker90",
             "repo": "precio-gasolina",
@@ -1063,7 +950,7 @@
                 "id": 1209376795,
                 "language": null,
                 "license": "GPL-3.0",
-                "last_commit": "2026-08-01T10:42:22Z",
+                "last_commit": "2026-09-08T12:22:04Z",
                 "open_issues": 2,
                 "owner": "GeiserX",
                 "repo": "awesome-andalucia",
@@ -1112,7 +999,7 @@
                 "id": 1209380852,
                 "language": null,
                 "license": "GPL-3.0",
-                "last_commit": "2026-08-08T21:22:44Z",
+                "last_commit": "2026-09-08T12:22:09Z",
                 "open_issues": 2,
                 "owner": "GeiserX",
                 "repo": "awesome-aragon",
@@ -1161,7 +1048,7 @@
                 "id": 1209385146,
                 "language": null,
                 "license": "GPL-3.0",
-                "last_commit": "2026-08-01T10:42:29Z",
+                "last_commit": "2026-09-08T12:22:13Z",
                 "open_issues": 3,
                 "owner": "GeiserX",
                 "repo": "awesome-asturies",
@@ -1210,7 +1097,7 @@
                 "id": 1209380765,
                 "language": null,
                 "license": "GPL-3.0",
-                "last_commit": "2026-08-01T19:28:21Z",
+                "last_commit": "2026-09-08T12:22:17Z",
                 "open_issues": 2,
                 "owner": "GeiserX",
                 "repo": "awesome-canarias",
@@ -1259,7 +1146,7 @@
                 "id": 1209383755,
                 "language": null,
                 "license": "GPL-3.0",
-                "last_commit": "2026-08-01T10:42:39Z",
+                "last_commit": "2026-09-08T12:22:22Z",
                 "open_issues": 2,
                 "owner": "GeiserX",
                 "repo": "awesome-cantabria",
@@ -1308,7 +1195,7 @@
                 "id": 1209385365,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-08-08T21:22:50Z",
+                "last_commit": "2026-09-08T12:22:26Z",
                 "open_issues": 2,
                 "owner": "GeiserX",
                 "repo": "awesome-castilla-la-mancha",
@@ -1357,7 +1244,7 @@
                 "id": 1209383828,
                 "language": null,
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-02T19:25:04Z",
+                "last_commit": "2026-09-08T12:22:30Z",
                 "open_issues": 2,
                 "owner": "GeiserX",
                 "repo": "awesome-castilla-y-leon",
@@ -1406,7 +1293,7 @@
                 "id": 1209377261,
                 "language": null,
                 "license": "GPL-3.0",
-                "last_commit": "2026-08-01T10:42:18Z",
+                "last_commit": "2026-09-08T12:22:35Z",
                 "open_issues": 3,
                 "owner": "GeiserX",
                 "repo": "awesome-catalunya",
@@ -1455,7 +1342,7 @@
                 "id": 1209385350,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-08-01T10:42:14Z",
+                "last_commit": "2026-09-08T12:22:39Z",
                 "open_issues": 2,
                 "owner": "GeiserX",
                 "repo": "awesome-ceuta-y-melilla",
@@ -1504,7 +1391,7 @@
                 "id": 1209377018,
                 "language": null,
                 "license": "GPL-3.0",
-                "last_commit": "2026-08-08T21:22:56Z",
+                "last_commit": "2026-09-08T12:22:43Z",
                 "open_issues": 2,
                 "owner": "GeiserX",
                 "repo": "awesome-comunidad-de-madrid",
@@ -1553,7 +1440,7 @@
                 "id": 1209380828,
                 "language": null,
                 "license": "GPL-3.0",
-                "last_commit": "2026-08-02T10:28:17Z",
+                "last_commit": "2026-09-08T12:22:48Z",
                 "open_issues": 3,
                 "owner": "GeiserX",
                 "repo": "awesome-comunitat-valenciana",
@@ -1602,7 +1489,7 @@
                 "id": 1209385176,
                 "language": null,
                 "license": "GPL-3.0",
-                "last_commit": "2026-08-08T21:23:04Z",
+                "last_commit": "2026-09-08T12:23:01Z",
                 "open_issues": 2,
                 "owner": "GeiserX",
                 "repo": "awesome-extremadura",
@@ -1651,7 +1538,7 @@
                 "id": 1209380825,
                 "language": null,
                 "license": "GPL-3.0",
-                "last_commit": "2026-08-01T16:57:43Z",
+                "last_commit": "2026-09-08T12:23:05Z",
                 "open_issues": 3,
                 "owner": "GeiserX",
                 "repo": "awesome-galicia",
@@ -1700,7 +1587,7 @@
                 "id": 1209376754,
                 "language": null,
                 "license": "GPL-3.0",
-                "last_commit": "2026-08-08T21:23:12Z",
+                "last_commit": "2026-09-08T12:23:10Z",
                 "open_issues": 3,
                 "owner": "GeiserX",
                 "repo": "awesome-illes-balears",
@@ -1749,7 +1636,7 @@
                 "id": 1209383802,
                 "language": null,
                 "license": "GPL-3.0",
-                "last_commit": "2026-08-01T06:52:49Z",
+                "last_commit": "2026-09-08T12:23:14Z",
                 "open_issues": 2,
                 "owner": "GeiserX",
                 "repo": "awesome-la-rioja",
@@ -1798,7 +1685,7 @@
                 "id": 1209387484,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-08-01T10:42:32Z",
+                "last_commit": "2026-09-08T12:23:18Z",
                 "open_issues": 3,
                 "owner": "GeiserX",
                 "repo": "awesome-nafarroa",
@@ -1847,7 +1734,7 @@
                 "id": 1209383786,
                 "language": null,
                 "license": "GPL-3.0",
-                "last_commit": "2026-08-25T15:02:19Z",
+                "last_commit": "2026-09-08T12:22:56Z",
                 "open_issues": 3,
                 "owner": "GeiserX",
                 "repo": "awesome-euskadi",
@@ -1896,7 +1783,7 @@
                 "id": 1189356064,
                 "language": "Python",
                 "license": "CC0-1.0",
-                "last_commit": "2026-08-02T10:34:45Z",
+                "last_commit": "2026-09-08T12:23:23Z",
                 "open_issues": 0,
                 "owner": "GeiserX",
                 "repo": "awesome-region-de-murcia",
@@ -2340,34 +2227,6 @@
         },
         {
           "node_type": "item",
-          "title": "Siane",
-          "description": "Paquete R para representar datos estadísticos en mapas oficiales españoles.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "R package to represent statistical data on official Spanish maps at several administrative levels",
-            "homepage": null,
-            "id": 91350495,
-            "language": "R",
-            "license": "NOASSERTION",
-            "last_commit": "2021-07-26T11:37:37Z",
-            "open_issues": 6,
-            "owner": "rOpenSpain",
-            "repo": "Siane",
-            "stars": 10,
-            "topics": [
-              "choropleth",
-              "choropleth-map",
-              "ign",
-              "ine",
-              "maps",
-              "spain"
-            ]
-          },
-          "first_seen": "2026-08-28T21:21:12.343Z"
-        },
-        {
-          "node_type": "item",
           "title": "spain-open-data",
           "description": "Recopilación de recursos de datos abiertos españoles.",
           "children": [],
@@ -2378,8 +2237,8 @@
             "id": 123171104,
             "language": null,
             "license": null,
-            "last_commit": "2018-03-14T11:04:47Z",
-            "open_issues": 2,
+            "last_commit": "2026-09-07T17:27:39Z",
+            "open_issues": 1,
             "owner": "ginopalazzo",
             "repo": "spain-open-data",
             "stars": 10,
@@ -2551,6 +2410,27 @@
             ]
           },
           "first_seen": "2026-08-28T21:21:12.343Z"
+        },
+        {
+          "node_type": "item",
+          "title": "spanish-cities-info",
+          "description": "Paquete TypeScript con los 8.132 municipios de España verificados contra el INE, con búsqueda por código, nombre, provincia, comunidad autónoma y radio geográfico.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "8,132 municipios de España verificados contra el INE. Búsqueda por nombre, provincia, comunidad o radio (km). TypeScript, imports modulares.",
+            "homepage": "npmjs.com/package/spanish-cities-info",
+            "id": 809466729,
+            "language": "TypeScript",
+            "license": "ISC",
+            "last_commit": "2026-09-07T22:29:44Z",
+            "open_issues": 0,
+            "owner": "ManuelCebreiro",
+            "repo": "spanish-cities-info",
+            "stars": 5,
+            "topics": []
+          },
+          "first_seen": "2026-09-08T15:02:47.643Z"
         },
         {
           "node_type": "item",
@@ -2920,7 +2800,7 @@
             "id": 10214008,
             "language": null,
             "license": "CC0-1.0",
-            "last_commit": "2026-09-01T11:23:55Z",
+            "last_commit": "2026-09-08T10:18:19Z",
             "open_issues": 1,
             "owner": "openfootball",
             "repo": "espana",
@@ -3157,31 +3037,6 @@
               "skill",
               "test",
               "voicefirst"
-            ]
-          },
-          "first_seen": "2026-08-28T21:21:12.343Z"
-        },
-        {
-          "node_type": "item",
-          "title": "DGT-appointment",
-          "description": "Herramienta para facilitar la reserva de citas de tráfico en la DGT.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Making life easier for traffic appointments",
-            "homepage": null,
-            "id": 200675707,
-            "language": "JavaScript",
-            "license": null,
-            "last_commit": "2023-01-04T06:43:21Z",
-            "open_issues": 28,
-            "owner": "ajorquera",
-            "repo": "DGT-appointment",
-            "stars": 5,
-            "topics": [
-              "cron",
-              "gcloud",
-              "serverless"
             ]
           },
           "first_seen": "2026-08-28T21:21:12.343Z"
@@ -3446,7 +3301,7 @@
             "id": 237201573,
             "language": null,
             "license": null,
-            "last_commit": "2026-07-20T17:15:09Z",
+            "last_commit": "2026-09-07T16:42:46Z",
             "open_issues": 7,
             "owner": "remote-es",
             "repo": "remotes",
@@ -3468,7 +3323,7 @@
             "language": "TypeScript",
             "license": "CC-BY-SA-4.0",
             "last_commit": "2025-09-29T14:18:00Z",
-            "open_issues": 6,
+            "open_issues": 7,
             "owner": "getmanfred",
             "repo": "mac",
             "stars": 591,
@@ -3736,7 +3591,7 @@
             "id": 247789400,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-08-03T20:02:52Z",
+            "last_commit": "2026-09-07T20:06:58Z",
             "open_issues": 12,
             "owner": "azogue",
             "repo": "aiopvpc",
@@ -3812,7 +3667,7 @@
             "id": 622526792,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-08-03T20:01:27Z",
+            "last_commit": "2026-09-07T20:07:01Z",
             "open_issues": 14,
             "owner": "azogue",
             "repo": "ha-pvpc-custom",
@@ -3890,34 +3745,6 @@
               "home-assistant",
               "repsol",
               "repsolluzygas"
-            ]
-          },
-          "first_seen": "2026-08-28T21:21:12.343Z"
-        },
-        {
-          "node_type": "item",
-          "title": "zoilomora/iberdrola",
-          "description": "Integración con la API de Iberdrola.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Integration with Iberdrola API",
-            "homepage": "https://packagist.org/packages/zoilomora/iberdrola",
-            "id": 144782251,
-            "language": "PHP",
-            "license": "MIT",
-            "last_commit": "2019-05-16T18:27:55Z",
-            "open_issues": 1,
-            "owner": "zoilomora",
-            "repo": "iberdrola",
-            "stars": 16,
-            "topics": [
-              "api",
-              "automatic",
-              "electricity",
-              "iberdrola",
-              "icp",
-              "reading"
             ]
           },
           "first_seen": "2026-08-28T21:21:12.343Z"
@@ -4049,7 +3876,7 @@
         {
           "node_type": "item",
           "title": "luzfija.es",
-          "description": "(Demo) - Comparador de tarifas de luz independiente y gratuito, optimizado para la normativa eléctrica española de 2026.",
+          "description": "Comparador de tarifas de luz independiente y gratuito, optimizado para la normativa eléctrica española de 2026.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4058,7 +3885,7 @@
             "id": 1137833640,
             "language": "JavaScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-07T13:42:11Z",
+            "last_commit": "2026-09-08T12:36:21Z",
             "open_issues": 0,
             "owner": "almax-es",
             "repo": "luzfija.es",
@@ -4197,11 +4024,11 @@
             "id": 20920616,
             "language": "Python",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-07T15:28:17Z",
-            "open_issues": 155,
+            "last_commit": "2026-09-08T14:49:42Z",
+            "open_issues": 150,
             "owner": "OCA",
             "repo": "l10n-spain",
-            "stars": 557,
+            "stars": 558,
             "topics": [
               "erp",
               "hacktoberfest",
@@ -4223,7 +4050,7 @@
             "language": "PHP",
             "license": "LGPL-3.0",
             "last_commit": "2026-09-05T11:14:24Z",
-            "open_issues": 80,
+            "open_issues": 81,
             "owner": "NeoRazorX",
             "repo": "facturascripts",
             "stars": 493,
@@ -4232,32 +4059,6 @@
               "crm",
               "erp",
               "facturacion",
-              "php"
-            ]
-          },
-          "first_seen": "2026-08-28T21:21:12.343Z"
-        },
-        {
-          "node_type": "item",
-          "title": "FacturaScripts 2015",
-          "description": "(Demo) - Versión anterior de FacturaScripts con facturación y contabilidad libre.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "description": "Facturación y contabilidad fácil, libre y con actualizaciones constantes",
-            "homepage": "https://facturascripts.com/2017",
-            "id": 29038941,
-            "language": "PHP",
-            "license": "LGPL-3.0",
-            "last_commit": "2022-04-20T11:49:19Z",
-            "open_issues": 0,
-            "owner": "NeoRazorX",
-            "repo": "facturascripts_2015",
-            "stars": 88,
-            "topics": [
-              "contabilidad",
-              "facturacion",
-              "libre",
               "php"
             ]
           },
@@ -4356,7 +4157,7 @@
         {
           "node_type": "item",
           "title": "spanish-tax-calculators",
-          "description": "(Demo) - Calculadoras de impuestos españoles en JavaScript puro: IRPF (estatal + 19 comunidades), Seguridad Social (RETA, 15 tramos), Autónomo Colaborador e ITP.",
+          "description": "Calculadoras de impuestos españoles en JavaScript puro: IRPF (estatal + 19 comunidades), Seguridad Social (RETA, 15 tramos), Autónomo Colaborador e ITP.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4702,8 +4503,8 @@
                 "id": 292311963,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-07T15:59:41Z",
-                "open_issues": 65,
+                "last_commit": "2026-09-07T18:27:53Z",
+                "open_issues": 66,
                 "owner": "invopop",
                 "repo": "gobl",
                 "stars": 306,
@@ -4848,27 +4649,6 @@
                   "aeat",
                   "php"
                 ]
-              },
-              "first_seen": "2026-08-28T21:21:12.343Z"
-            },
-            {
-              "node_type": "item",
-              "title": "irpf",
-              "description": "(Demo) - Calculadora del IRPF español en R.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Calculadora del IRPF",
-                "homepage": "https://enchufa2.shinyapps.io/irpf",
-                "id": 229322688,
-                "language": null,
-                "license": null,
-                "last_commit": "2020-01-23T11:25:51Z",
-                "open_issues": 0,
-                "owner": "Enchufa2",
-                "repo": "irpf",
-                "stars": 8,
-                "topics": []
               },
               "first_seen": "2026-08-28T21:21:12.343Z"
             },
@@ -5023,7 +4803,7 @@
             {
               "node_type": "item",
               "title": "puntoBOE",
-              "description": "(Demo) - Validador de ficheros BOE de la AEAT que funciona en el navegador sin envío de datos a ningún servidor.",
+              "description": "Validador de ficheros BOE de la AEAT que funciona en el navegador sin envío de datos a ningún servidor.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5040,6 +4820,36 @@
                 "topics": []
               },
               "first_seen": "2026-08-28T21:21:12.343Z"
+            },
+            {
+              "node_type": "item",
+              "title": "calendario-fiscal-es",
+              "description": "Calcula los plazos de presentación de diecinueve modelos tributarios en Python, con traslado a día hábil por festivos nacionales y fecha límite de domiciliación.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Plazos de presentación de los modelos tributarios españoles (AEAT) en Python puro, sin dependencias: traslado a día hábil y fecha límite de domiciliación.",
+                "homepage": "https://mindset-code.com",
+                "id": 1351383691,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-08-31T17:36:00Z",
+                "open_issues": 0,
+                "owner": "mindset-code",
+                "repo": "calendario-fiscal-es",
+                "stars": 0,
+                "topics": [
+                  "aeat",
+                  "calendario",
+                  "fiscal",
+                  "impuestos",
+                  "modelo-303",
+                  "plazos-procesales",
+                  "python",
+                  "spain"
+                ]
+              },
+              "first_seen": "2026-09-08T15:02:47.643Z"
             }
           ],
           "description": null,
@@ -5526,6 +5336,35 @@
                 ]
               },
               "first_seen": "2026-08-28T21:21:12.343Z"
+            },
+            {
+              "node_type": "item",
+              "title": "pyverifactu-huella",
+              "description": "Calcula la huella SHA-256 encadenada de los registros de facturación en Python sin dependencias, reproduciendo los tres vectores de prueba oficiales de la AEAT.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Huella y encadenamiento de registros de facturación VERI*FACTU (AEAT) en Python puro, sin dependencias. Validado contra el vector oficial de la Agencia Tributaria.",
+                "homepage": "https://mindset-code.com",
+                "id": 1351303326,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-08-31T17:39:05Z",
+                "open_issues": 0,
+                "owner": "mindset-code",
+                "repo": "pyverifactu-huella",
+                "stars": 0,
+                "topics": [
+                  "aeat",
+                  "facturacion-electronica",
+                  "hash-chain",
+                  "python",
+                  "sha256",
+                  "spain",
+                  "verifactu"
+                ]
+              },
+              "first_seen": "2026-09-08T15:02:47.643Z"
             }
           ],
           "description": "Sistema de facturación certificada de la AEAT (Ley Antifraude 2021).",
@@ -5584,38 +5423,6 @@
             },
             {
               "node_type": "item",
-              "title": "laravel-policia-hotel",
-              "description": "Registro de viajeros en el sistema Webpol/E-Hotel de la Policía Nacional para establecimientos hoteleros.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Registro de viajeros en el sistema Webpol  o E-Hotel de la Policía",
-                "homepage": null,
-                "id": 211313457,
-                "language": "PHP",
-                "license": "MIT",
-                "last_commit": "2026-05-19T20:24:28Z",
-                "open_issues": 3,
-                "owner": "leifermendez",
-                "repo": "laravel-policia-hotel",
-                "stars": 9,
-                "topics": [
-                  "checkin",
-                  "checkinn-platform",
-                  "espana",
-                  "hotel",
-                  "hotel-reservation",
-                  "laravel",
-                  "parte",
-                  "partee",
-                  "php",
-                  "webpolice"
-                ]
-              },
-              "first_seen": "2026-08-28T21:21:12.343Z"
-            },
-            {
-              "node_type": "item",
               "title": "MinervaChatBot",
               "description": "Minerva: chatbot municipal de código abierto del Gobierno.",
               "children": [],
@@ -5631,27 +5438,6 @@
                 "owner": "ctt-gob-es",
                 "repo": "MinervaChatBot",
                 "stars": 3,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T21:21:12.343Z"
-            },
-            {
-              "node_type": "item",
-              "title": "clave",
-              "description": "Cl@ve: plataforma oficial de identificación del sector público.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Cl@ve Plataforma de identificación del Sector Público",
-                "homepage": null,
-                "id": 120609095,
-                "language": null,
-                "license": null,
-                "last_commit": "2018-02-07T11:55:35Z",
-                "open_issues": 1,
-                "owner": "ctt-gob-es",
-                "repo": "clave",
-                "stars": 2,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:21:12.343Z"
@@ -5703,7 +5489,7 @@
                 "id": 20186069,
                 "language": "Java",
                 "license": null,
-                "last_commit": "2026-08-24T11:51:55Z",
+                "last_commit": "2026-09-08T06:43:22Z",
                 "open_issues": 379,
                 "owner": "ctt-gob-es",
                 "repo": "clienteafirma",
@@ -5989,27 +5775,6 @@
             },
             {
               "node_type": "item",
-              "title": "eVisor",
-              "description": "Generación de informes de verificación visual de firma electrónica.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Aplicación de generación de informes de firma electrónica",
-                "homepage": "https://administracionelectronica.gob.es/ctt/evisor",
-                "id": 116674375,
-                "language": "Java",
-                "license": null,
-                "last_commit": "2018-10-18T13:13:38Z",
-                "open_issues": 3,
-                "owner": "ctt-gob-es",
-                "repo": "eVisor",
-                "stars": 5,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T21:21:12.343Z"
-            },
-            {
-              "node_type": "item",
               "title": "portafirmas-android",
               "description": "App Android del portafirmas de la SEAP para firma de expedientes.",
               "children": [],
@@ -6049,6 +5814,94 @@
                 "topics": []
               },
               "first_seen": "2026-08-28T21:21:12.343Z"
+            },
+            {
+              "node_type": "item",
+              "title": "autofirma-client",
+              "description": "Cliente TypeScript para integrar la API oficial AutoScript y AutoFirma en aplicaciones web con promesas, tipado y errores normalizados.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Cliente TypeScript para usar la API oficial AutoScript con promesas, tipado estricto, conversión de datos, errores normalizados y dobles de prueba.",
+                "homepage": "https://erseco.github.io/autofirma-client/",
+                "id": 1318034879,
+                "language": "TypeScript",
+                "license": "GPL-2.0",
+                "last_commit": "2026-09-06T07:04:35Z",
+                "open_issues": 0,
+                "owner": "erseco",
+                "repo": "autofirma-client",
+                "stars": 0,
+                "topics": []
+              },
+              "first_seen": "2026-09-08T15:02:47.643Z"
+            },
+            {
+              "node_type": "item",
+              "title": "autofirma-intermediate-server",
+              "description": "Servidor intermedio PHP para el protocolo de almacenamiento y recuperación temporal usado por AutoScript y AutoFirma, especialmente en flujos móviles.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Implementación PHP, independiente de frameworks, del servidor intermedio que AutoScript utiliza para intercambiar datos entre una aplicación web y AutoFirma.",
+                "homepage": null,
+                "id": 1319273048,
+                "language": "PHP",
+                "license": "GPL-2.0",
+                "last_commit": "2026-08-11T15:56:21Z",
+                "open_issues": 0,
+                "owner": "erseco",
+                "repo": "autofirma-intermediate-server",
+                "stars": 0,
+                "topics": []
+              },
+              "first_seen": "2026-09-08T15:02:47.643Z"
+            },
+            {
+              "node_type": "item",
+              "title": "fpdf-autofirma",
+              "description": "Extensión PHP de FPDF para definir áreas de firma PAdES visibles y generar los parámetros que AutoFirma necesita para firmar desde el navegador.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Extension for the FPDF class (www.fpdf.org) providing AutoFirma integration, visible PAdES signature areas, and signing parameters for browser-based electronic signatures.",
+                "homepage": null,
+                "id": 1351159672,
+                "language": "PHP",
+                "license": "MIT",
+                "last_commit": "2026-08-30T07:14:47Z",
+                "open_issues": 0,
+                "owner": "erseco",
+                "repo": "fpdf-autofirma",
+                "stars": 0,
+                "topics": [
+                  "autofirma",
+                  "fpdf",
+                  "fpdf-library"
+                ]
+              },
+              "first_seen": "2026-09-08T15:02:47.643Z"
+            },
+            {
+              "node_type": "item",
+              "title": "wp-autofirma",
+              "description": "Plugin de WordPress para firmar documentos PDF de la biblioteca de medios con AutoFirma y guardar el resultado firmado.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Plugin de WordPress para firmar PDF de la biblioteca de medios mediante AutoScript y AutoFirma, guardando el resultado como un adjunto nuevo.",
+                "homepage": "https://playground.wordpress.net/?blueprint-url=https://raw.githubusercontent.com/erseco/wp-autofirma/main/blueprint.json",
+                "id": 1318035564,
+                "language": "JavaScript",
+                "license": "GPL-2.0",
+                "last_commit": "2026-09-06T07:50:18Z",
+                "open_issues": 0,
+                "owner": "erseco",
+                "repo": "wp-autofirma",
+                "stars": 0,
+                "topics": []
+              },
+              "first_seen": "2026-09-08T15:02:47.643Z"
             }
           ],
           "description": null,
@@ -6250,48 +6103,6 @@
             },
             {
               "node_type": "item",
-              "title": "dedomeno",
-              "description": "Scraper Python de Idealista para datos inmobiliarios españoles.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Dedomeno: A Spanish real estate (Idealista) python scraper",
-                "homepage": null,
-                "id": 125709718,
-                "language": "Python",
-                "license": "MIT",
-                "last_commit": "2020-04-22T18:38:02Z",
-                "open_issues": 2,
-                "owner": "ginopalazzo",
-                "repo": "dedomeno",
-                "stars": 45,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T21:21:12.343Z"
-            },
-            {
-              "node_type": "item",
-              "title": "idealisto",
-              "description": "Scraper del portal inmobiliario Idealista.com.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Scraper for the spanish real estate website Idealista.com.",
-                "homepage": null,
-                "id": 124104962,
-                "language": "R",
-                "license": "MIT",
-                "last_commit": "2018-04-23T11:57:12Z",
-                "open_issues": 4,
-                "owner": "hmeleiro",
-                "repo": "idealisto",
-                "stars": 15,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T21:21:12.343Z"
-            },
-            {
-              "node_type": "item",
               "title": "idealista-api",
               "description": "Cliente Python para la API de Idealista.",
               "children": [],
@@ -6363,27 +6174,6 @@
             },
             {
               "node_type": "item",
-              "title": "idealista-scraper",
-              "description": "Scraper para idealista.com.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Scraper for idealista.com places, just for demo purposes",
-                "homepage": null,
-                "id": 138014527,
-                "language": "JavaScript",
-                "license": null,
-                "last_commit": "2018-06-21T20:35:31Z",
-                "open_issues": 1,
-                "owner": "rubnvp",
-                "repo": "idealista-scraper",
-                "stars": 5,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T21:21:12.343Z"
-            },
-            {
-              "node_type": "item",
               "title": "fotocasa-scraper",
               "description": "Scraper para extraer datos de viviendas de Fotocasa.",
               "children": [],
@@ -6447,34 +6237,8 @@
                 "open_issues": 2,
                 "owner": "danielhuici",
                 "repo": "Wallamonitor",
-                "stars": 33,
+                "stars": 34,
                 "topics": []
-              },
-              "first_seen": "2026-08-28T21:21:12.343Z"
-            },
-            {
-              "node_type": "item",
-              "title": "wallapopy",
-              "description": "Cliente Python para la API de Wallapop.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "A Python client for Wallapop",
-                "homepage": null,
-                "id": 66579965,
-                "language": "Python",
-                "license": null,
-                "last_commit": "2020-04-28T22:10:35Z",
-                "open_issues": 6,
-                "owner": "toniprada",
-                "repo": "wallapopy",
-                "stars": 25,
-                "topics": [
-                  "api",
-                  "client",
-                  "scraper",
-                  "wallapop"
-                ]
               },
               "first_seen": "2026-08-28T21:21:12.343Z"
             },
@@ -6730,32 +6494,6 @@
         },
         {
           "node_type": "item",
-          "title": "php-correosexpress-api",
-          "description": "Librería PHP para la API de Correos Express.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A PHP library for dealing with CorreosExpress API ",
-            "homepage": null,
-            "id": 169220424,
-            "language": "PHP",
-            "license": null,
-            "last_commit": "2019-02-06T13:46:43Z",
-            "open_issues": 2,
-            "owner": "klareNNNs",
-            "repo": "php-correosexpress-api",
-            "stars": 3,
-            "topics": [
-              "api",
-              "correos",
-              "correosexpress",
-              "php"
-            ]
-          },
-          "first_seen": "2026-08-28T21:21:12.343Z"
-        },
-        {
-          "node_type": "item",
           "title": "homeassistant-correos_spain",
           "description": "Integración de seguimiento de paquetes de Correos para Home Assistant.",
           "children": [],
@@ -6965,8 +6703,8 @@
             "id": 163177427,
             "language": "JavaScript",
             "license": "CC-BY-SA-4.0",
-            "last_commit": "2026-08-26T18:58:58Z",
-            "open_issues": 4,
+            "last_commit": "2026-09-08T13:36:26Z",
+            "open_issues": 3,
             "owner": "vulturno",
             "repo": "vulturno",
             "stars": 13,
@@ -7075,6 +6813,68 @@
             ]
           },
           "first_seen": "2026-08-28T21:21:12.343Z"
+        },
+        {
+          "node_type": "item",
+          "title": "playas-cruzroja",
+          "description": "Integración de Home Assistant con la bandera oficial y los datos de socorrismo de las playas españolas vigiladas por Cruz Roja Española.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Integracion HACS para Home Assistant con el estado de las banderas de las playas espanolas vigiladas por Cruz Roja",
+            "homepage": null,
+            "id": 1346162699,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2026-09-07T15:54:39Z",
+            "open_issues": 0,
+            "owner": "ggonmar",
+            "repo": "playas-cruzroja",
+            "stars": 0,
+            "topics": [
+              "beach",
+              "cruz-roja",
+              "hacs",
+              "hacs-integration",
+              "home-assistant",
+              "home-assistant-custom-component",
+              "homeassistant",
+              "playas",
+              "spain"
+            ]
+          },
+          "first_seen": "2026-09-08T15:02:47.643Z"
+        },
+        {
+          "node_type": "item",
+          "title": "playas-espana",
+          "description": "Integración de Home Assistant con la bandera estimada, el oleaje y la temperatura del agua de las playas de España a partir de los datos de playas-espana.com.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Integracion HACS de condiciones de Playas de Espana",
+            "homepage": null,
+            "id": 1354644852,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2026-09-07T21:20:05Z",
+            "open_issues": 0,
+            "owner": "ggonmar",
+            "repo": "playas-espana",
+            "stars": 0,
+            "topics": [
+              "beach",
+              "hacs",
+              "hacs-integration",
+              "home-assistant",
+              "home-assistant-custom-component",
+              "homeassistant",
+              "playas",
+              "spain",
+              "weather"
+            ]
+          },
+          "first_seen": "2026-09-08T15:02:47.643Z"
         }
       ],
       "title": "Meteorología"
@@ -7228,11 +7028,11 @@
             "id": 65914086,
             "language": "Ruby",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-07T13:58:49Z",
-            "open_issues": 364,
+            "last_commit": "2026-09-08T14:03:17Z",
+            "open_issues": 366,
             "owner": "decidim",
             "repo": "decidim",
-            "stars": 1810,
+            "stars": 1812,
             "topics": [
               "citizen-participation",
               "civic-tech",
@@ -7269,7 +7069,7 @@
             "open_issues": 212,
             "owner": "consuldemocracy",
             "repo": "consuldemocracy",
-            "stars": 1547,
+            "stars": 1548,
             "topics": [
               "agplv3",
               "consuldemocracy",
@@ -7295,7 +7095,7 @@
             "id": 78930746,
             "language": "HTML",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-07T09:46:26Z",
+            "last_commit": "2026-09-08T08:12:20Z",
             "open_issues": 52,
             "owner": "AjuntamentdeBarcelona",
             "repo": "decidim-barcelona",
@@ -7462,30 +7262,6 @@
         },
         {
           "node_type": "item",
-          "title": "Devopensource_Redsys",
-          "description": "Método de pago Redsys para Magento 2 compatible con SHA-256.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Método de pago para Redsys para Magento compatible con SHA-256 y parche SUPEE-6788",
-            "homepage": "https://devopensource.com/blog/devopensource-y-redsys",
-            "id": 46064304,
-            "language": "PHP",
-            "license": null,
-            "last_commit": "2017-11-04T18:35:28Z",
-            "open_issues": 21,
-            "owner": "DevopensourceTeam",
-            "repo": "Devopensource_Redsys",
-            "stars": 26,
-            "topics": [
-              "redsys",
-              "tpv"
-            ]
-          },
-          "first_seen": "2026-08-28T21:21:12.343Z"
-        },
-        {
-          "node_type": "item",
           "title": "django-virtual-pos",
           "description": "Módulo Django que abstrae TPV virtuales incluyendo Redsys y PayPal.",
           "children": [],
@@ -7538,27 +7314,6 @@
               "redsys",
               "sermepa"
             ]
-          },
-          "first_seen": "2026-08-28T21:21:12.343Z"
-        },
-        {
-          "node_type": "item",
-          "title": "sermepa-omnipay",
-          "description": "Gateway Sermepa (Redsys) para Omnipay.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "sermepa (redsys) omnipay gateway",
-            "homepage": null,
-            "id": 21605709,
-            "language": "PHP",
-            "license": null,
-            "last_commit": "2023-04-19T18:37:28Z",
-            "open_issues": 8,
-            "owner": "jsampedro77",
-            "repo": "sermepa-omnipay",
-            "stars": 21,
-            "topics": []
           },
           "first_seen": "2026-08-28T21:21:12.343Z"
         },
@@ -7636,32 +7391,6 @@
         },
         {
           "node_type": "item",
-          "title": "easyredsys",
-          "description": "Librería Java para facilitar la integración con la pasarela de pagos Redsys.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Librería que facilita la integración con la pasarela de pago Redsys para aplicaciones Java",
-            "homepage": "https://www.miguelangeljulvez.com/es/servicios/desarrollo-software/easyredsys",
-            "id": 59213041,
-            "language": "Java",
-            "license": "GPL-3.0",
-            "last_commit": "2023-10-10T13:42:52Z",
-            "open_issues": 1,
-            "owner": "majulvez",
-            "repo": "easyredsys",
-            "stars": 15,
-            "topics": [
-              "banco",
-              "compra",
-              "java",
-              "pagos"
-            ]
-          },
-          "first_seen": "2026-08-28T21:21:12.343Z"
-        },
-        {
-          "node_type": "item",
           "title": "sermepa (CommerceRedsys)",
           "description": "Clase PHP para pasarelas de pago de bancos españoles que usan Sermepa/Redsys.",
           "children": [],
@@ -7701,7 +7430,7 @@
                 "id": 17015540,
                 "language": "Perl",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-07T15:46:27Z",
+                "last_commit": "2026-09-08T09:25:36Z",
                 "open_issues": 9,
                 "owner": "Softcatala",
                 "repo": "catalan-dict-tools",
@@ -7968,7 +7697,7 @@
                 "id": 179056834,
                 "language": "Ruby",
                 "license": "LGPL-3.0",
-                "last_commit": "2026-09-01T08:52:00Z",
+                "last_commit": "2026-09-08T13:59:42Z",
                 "open_issues": 2,
                 "owner": "crpih",
                 "repo": "xiada",
@@ -8374,27 +8103,6 @@
             "topics": []
           },
           "first_seen": "2026-08-28T21:21:12.343Z"
-        },
-        {
-          "node_type": "item",
-          "title": "spanish-law-mcp",
-          "description": "Servidor MCP con base de datos de legislación española: LOPDGDD, ENS, LSSI, NIS2.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "description": "Spanish law database covering data protection (LOPDGDD), national security framework (ENS), cybercrime (Codigo Penal), e-commerce (LSSI), company law, and NIS2 transposition with Spanish full-text sea",
-            "homepage": "https://spanish-law-mcp.vercel.app",
-            "id": 1162271132,
-            "language": "TypeScript",
-            "license": "NOASSERTION",
-            "last_commit": "2026-07-07T03:56:28Z",
-            "open_issues": 11,
-            "owner": "Ansvar-Systems",
-            "repo": "spanish-law-mcp",
-            "stars": 2,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T21:21:12.343Z"
         }
       ],
       "title": "Servidores MCP"
@@ -8513,32 +8221,6 @@
     {
       "description": null,
       "items": [
-        {
-          "node_type": "item",
-          "title": "mercadona-scrapper",
-          "description": "Scraper de la web de Mercadona que descarga todos los productos en CSV.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Scrapper for the web page of mercadona. It downloads all current products into a csv file",
-            "homepage": null,
-            "id": 172965886,
-            "language": "Python",
-            "license": null,
-            "last_commit": "2021-06-01T23:48:21Z",
-            "open_issues": 4,
-            "owner": "nicolaspascual",
-            "repo": "mercadona-scrapper",
-            "stars": 49,
-            "topics": [
-              "mercadona",
-              "python3",
-              "scrapper",
-              "selenium"
-            ]
-          },
-          "first_seen": "2026-08-28T21:21:12.343Z"
-        },
         {
           "node_type": "item",
           "title": "mercadata",
@@ -8758,7 +8440,7 @@
             "id": 1025912736,
             "language": "Python",
             "license": "Unlicense",
-            "last_commit": "2026-09-06T17:48:01Z",
+            "last_commit": "2026-09-07T19:26:51Z",
             "open_issues": 1,
             "owner": "mv12star",
             "repo": "lista-telefonos-spam",
@@ -8798,27 +8480,6 @@
             "owner": "segura2010",
             "repo": "LiveboxFibraExtractor",
             "stars": 15,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T21:21:12.343Z"
-        },
-        {
-          "node_type": "item",
-          "title": "MitraStar_GPT-2541GNAC_HA",
-          "description": "Device tracker del router MitraStar GPT-2541GNAC (Movistar) para Home Assistant.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "MitraStar GPT-2541GNAC (Movistar Spain  Router) Component(Device Tracker) for Home Assistant",
-            "homepage": null,
-            "id": 153608355,
-            "language": "Python",
-            "license": "GPL-3.0",
-            "last_commit": "2019-11-23T10:04:34Z",
-            "open_issues": 3,
-            "owner": "joseska",
-            "repo": "MitraStar_GPT-2541GNAC_HA",
-            "stars": 14,
             "topics": []
           },
           "first_seen": "2026-08-28T21:21:12.343Z"
@@ -8941,6 +8602,27 @@
                 ]
               },
               "first_seen": "2026-08-28T21:21:12.343Z"
+            },
+            {
+              "node_type": "item",
+              "title": "homeassistant_canal_isabel_II",
+              "description": "Integración Home Assistant para el consumo de agua de Canal de Isabel II en la Comunidad de Madrid.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Integración de Home Assistant para Canal de Isabel Segunda (Contadores agua en Madrid).",
+                "homepage": null,
+                "id": 1142611791,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-08-03T15:34:10Z",
+                "open_issues": 0,
+                "owner": "miguelangel-nubla",
+                "repo": "homeassistant_canal_isabel_II",
+                "stars": 12,
+                "topics": []
+              },
+              "first_seen": "2026-09-08T15:02:47.643Z"
             }
           ],
           "description": null,
@@ -8966,31 +8648,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-08-31T17:14:19Z",
-            "open_issues": 48,
+            "open_issues": 50,
             "owner": "LaQuay",
             "repo": "TDTChannels",
             "stars": 1660,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T21:21:12.343Z"
-        },
-        {
-          "node_type": "item",
-          "title": "TDTChannels-APP",
-          "description": "Aplicación Android open source para reproducir canales de TDTChannels.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "description": "Aplicación Android Open Source para la reproducción de TDTChannels",
-            "homepage": null,
-            "id": 170997699,
-            "language": "Java",
-            "license": "MIT",
-            "last_commit": "2020-04-26T17:03:01Z",
-            "open_issues": 9,
-            "owner": "LaQuay",
-            "repo": "TDTChannels-APP",
-            "stars": 187,
             "topics": []
           },
           "first_seen": "2026-08-28T21:21:12.343Z"
@@ -9081,27 +8742,6 @@
         },
         {
           "node_type": "item",
-          "title": "PyDownTV2",
-          "description": "Librería para obtener enlaces de descarga de vídeos de webs de televisiones españolas.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Versión 2 (ahora \"spaintvs\") de la librería para obtener los enlaces de descarga de los vídeos de las webs de TVs españolas (PyDownTV). Y Script para ejemplo de uso. Además en desarrollo nueva web y versiones de Escritorio y Android",
-            "homepage": null,
-            "id": 6166689,
-            "language": "Python",
-            "license": null,
-            "last_commit": "2014-09-17T16:35:47Z",
-            "open_issues": 37,
-            "owner": "aabilio",
-            "repo": "PyDownTV2",
-            "stars": 52,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T21:21:12.343Z"
-        },
-        {
-          "node_type": "item",
           "title": "tv_grab_es_movistartv",
           "description": "Grabber XMLTV para la guía de programación de Movistar TV.",
           "children": [],
@@ -9184,7 +8824,7 @@
             "id": 305829629,
             "language": null,
             "license": "GPL-3.0",
-            "last_commit": "2026-08-31T18:00:20Z",
+            "last_commit": "2026-09-07T20:47:20Z",
             "open_issues": 1,
             "owner": "jungla-team",
             "repo": "Picon-enigma2-Movistar",
@@ -9210,48 +8850,6 @@
             "owner": "MPAndrew",
             "repo": "EpgGratis",
             "stars": 25,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T21:21:12.343Z"
-        },
-        {
-          "node_type": "item",
-          "title": "tvhstar",
-          "description": "Descarga periódica del EPG de Movistar TV para Tvheadend.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Descarga periódica del EPG desde Movistar TV para ser consumido por Tvheadend",
-            "homepage": null,
-            "id": 78267739,
-            "language": "JavaScript",
-            "license": null,
-            "last_commit": "2018-11-13T15:30:32Z",
-            "open_issues": 4,
-            "owner": "LuisPalacios",
-            "repo": "tvhstar",
-            "stars": 25,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T21:21:12.343Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Tvheadend_Movistar-Spain",
-          "description": "Configuración de Tvheadend para Movistar+.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Tvheadend y Movistar+",
-            "homepage": null,
-            "id": 90200541,
-            "language": "Shell",
-            "license": null,
-            "last_commit": "2019-10-07T23:07:43Z",
-            "open_issues": 5,
-            "owner": "manuelrn",
-            "repo": "Tvheadend_Movistar-Spain",
-            "stars": 22,
             "topics": []
           },
           "first_seen": "2026-08-28T21:21:12.343Z"
@@ -9712,8 +9310,8 @@
             "id": 19004883,
             "language": "Ruby",
             "license": null,
-            "last_commit": "2023-04-12T06:06:26Z",
-            "open_issues": 3,
+            "last_commit": "2026-09-08T08:15:07Z",
+            "open_issues": 4,
             "owner": "civio",
             "repo": "scraper-pge",
             "stars": 25,
@@ -10118,27 +9716,6 @@
         },
         {
           "node_type": "item",
-          "title": "renfe",
-          "description": "Herramienta para consultar horarios de Renfe.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "description": null,
-            "homepage": null,
-            "id": 10843021,
-            "language": "Ruby",
-            "license": null,
-            "last_commit": "2024-11-26T12:59:09Z",
-            "open_issues": 1,
-            "owner": "ferranpm",
-            "repo": "renfe",
-            "stars": 16,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T21:21:12.343Z"
-        },
-        {
-          "node_type": "item",
           "title": "renfe-tracker",
           "description": "Monitoriza cambios de precio en billetes de Renfe (media/larga distancia). Recibe notificaciones cuando el precio baja.",
           "children": [],
@@ -10352,55 +9929,6 @@
           "first_seen": "2026-08-28T21:21:12.343Z"
         },
         {
-          "node_type": "item",
-          "title": "pyemtmad",
-          "description": "Wrapper Python para la API de EMT Madrid.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "(Kind of) sane wrapper for the EMT Madrid API",
-            "homepage": null,
-            "id": 59777605,
-            "language": "Python",
-            "license": "GPL-2.0",
-            "last_commit": "2018-05-06T18:38:16Z",
-            "open_issues": 3,
-            "owner": "rmed",
-            "repo": "pyemtmad",
-            "stars": 5,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T21:21:12.343Z"
-        },
-        {
-          "children": [
-            {
-              "node_type": "item",
-              "title": "AENA_Info_Vuelos",
-              "description": "Scraper de información de vuelos de AENA (Aeropuertos Españoles y Navegación Aérea).",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": null,
-                "homepage": null,
-                "id": 125722298,
-                "language": "HTML",
-                "license": "MIT",
-                "last_commit": "2018-11-19T21:34:40Z",
-                "open_issues": 1,
-                "owner": "InnocenceAllen",
-                "repo": "AENA_Info_Vuelos",
-                "stars": 8,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T21:21:12.343Z"
-            }
-          ],
-          "description": null,
-          "node_type": "group",
-          "title": "Aeropuertos"
-        },
-        {
           "children": [
             {
               "node_type": "item",
@@ -10446,103 +9974,6 @@
             },
             {
               "node_type": "item",
-              "title": "MADBike (iOS)",
-              "description": "App iOS de código abierto para el servicio BiciMAD (Madrid).",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "This is the public repository of the MADBike app for iOS. Public bike rental service for BiciMAD.",
-                "homepage": "https://madbike.app.link/lxuaEi3VVv",
-                "id": 104628543,
-                "language": "Objective-C",
-                "license": "GPL-3.0",
-                "last_commit": "2019-08-19T07:43:48Z",
-                "open_issues": 1,
-                "owner": "alexruperez",
-                "repo": "MADBike",
-                "stars": 23,
-                "topics": [
-                  "app",
-                  "application",
-                  "apps",
-                  "appstore",
-                  "bike",
-                  "bike-share",
-                  "bike-share-station",
-                  "bike-sharing",
-                  "bikes",
-                  "bikeshare",
-                  "bikesharing",
-                  "bikeways",
-                  "ios",
-                  "ios-app",
-                  "ios-swift",
-                  "open-data",
-                  "open-source",
-                  "opensource-apps",
-                  "xcode",
-                  "xcode9"
-                ]
-              },
-              "first_seen": "2026-08-28T21:21:12.343Z"
-            },
-            {
-              "node_type": "item",
-              "title": "bicimad-data-analysis",
-              "description": "Análisis de datos y predicciones ML de uso de BiciMAD.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "🚲 BiciMAD - Data analysis + ML usage predictions of Madrid's public bike system data",
-                "homepage": "https://madrides.in",
-                "id": 89160890,
-                "language": "Jupyter Notebook",
-                "license": "MIT",
-                "last_commit": "2018-02-05T17:23:11Z",
-                "open_issues": 2,
-                "owner": "rameerez",
-                "repo": "bicimad-data-analysis",
-                "stars": 16,
-                "topics": [
-                  "artificial-intelligence",
-                  "bicimad",
-                  "bicimad-data",
-                  "bike",
-                  "city",
-                  "data-analysis",
-                  "emt-opendata",
-                  "ipython-notebook",
-                  "machine-learning",
-                  "madrid",
-                  "neural-network",
-                  "python"
-                ]
-              },
-              "first_seen": "2026-08-28T21:21:12.343Z"
-            },
-            {
-              "node_type": "item",
-              "title": "bicimad-api",
-              "description": "API no oficial de BiciMAD.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "bicimad unnoficial api",
-                "homepage": null,
-                "id": 21252780,
-                "language": "JavaScript",
-                "license": null,
-                "last_commit": "2016-05-13T19:26:12Z",
-                "open_issues": 2,
-                "owner": "cicloon",
-                "repo": "bicimad-api",
-                "stars": 15,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T21:21:12.343Z"
-            },
-            {
-              "node_type": "item",
               "title": "bicing-deckgl",
               "description": "(Demo) - Visualización de viajes en bicicleta de Bicing Barcelona con Deck.gl.",
               "children": [],
@@ -10568,27 +9999,6 @@
                   "webpack",
                   "webpack4"
                 ]
-              },
-              "first_seen": "2026-08-28T21:21:12.343Z"
-            },
-            {
-              "node_type": "item",
-              "title": "MADBike (Android)",
-              "description": "App Android de código abierto para BiciMAD.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "This is the public repository of the MADBike app for Android. Public bike rental service for BiciMAD.",
-                "homepage": null,
-                "id": 104666581,
-                "language": "Java",
-                "license": "GPL-3.0",
-                "last_commit": "2017-11-23T21:38:37Z",
-                "open_issues": 2,
-                "owner": "Mun0n",
-                "repo": "MADBike",
-                "stars": 11,
-                "topics": []
               },
               "first_seen": "2026-08-28T21:21:12.343Z"
             },
@@ -10780,33 +10190,6 @@
                 "repo": "rodalies-tracker",
                 "stars": 8,
                 "topics": []
-              },
-              "first_seen": "2026-08-28T21:21:12.343Z"
-            },
-            {
-              "node_type": "item",
-              "title": "CoreEMT",
-              "description": "Paquete Swift para la API de EMT Madrid (autobuses, BiciMAD, parking).",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "CoreEMT swift package para el API de la Empresa Municipal de Madrid (EMT+BiciMAD+Parking)",
-                "homepage": null,
-                "id": 216427276,
-                "language": "Swift",
-                "license": null,
-                "last_commit": "2020-02-03T07:34:01Z",
-                "open_issues": 1,
-                "owner": "fitomad",
-                "repo": "CoreEMT",
-                "stars": 6,
-                "topics": [
-                  "bicimad-data",
-                  "emt-madrid",
-                  "emt-madrid-api",
-                  "swift",
-                  "swift-package-manager"
-                ]
               },
               "first_seen": "2026-08-28T21:21:12.343Z"
             },
@@ -11043,27 +10426,6 @@
         },
         {
           "node_type": "item",
-          "title": "nova-dni-field",
-          "description": "Campo DNI/NIF/CIF para Laravel Nova.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Spanish DNI / NIF / CIF Field for Laravel Nova",
-            "homepage": null,
-            "id": 146216668,
-            "language": "PHP",
-            "license": null,
-            "last_commit": "2018-10-16T12:46:39Z",
-            "open_issues": 2,
-            "owner": "64robots",
-            "repo": "nova-dni-field",
-            "stars": 8,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T21:21:12.343Z"
-        },
-        {
-          "node_type": "item",
           "title": "spanish-car-plate",
           "description": "Validación de matrículas de coches españoles: formato moderno, antiguo, especiales y por provincia.",
           "children": [],
@@ -11214,7 +10576,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T16:24:15.944Z",
+    "last_updated": "2026-09-08T15:02:47.643Z",
     "original_repository_info": {
       "archived": false,
       "description": "Una selección de software open source que da soporte específico a España",
@@ -11222,8 +10584,8 @@
       "id": 1187199436,
       "language": "Python",
       "license": "CC0-1.0",
-      "last_commit": "2026-08-07T14:01:59Z",
-      "open_issues": 5,
+      "last_commit": "2026-09-08T12:23:27Z",
+      "open_issues": 0,
       "owner": "GeiserX",
       "repo": "awesome-spain",
       "stars": 337,
@@ -11250,7 +10612,7 @@
         "tdt"
       ]
     },
-    "original_repository_sha": "50f61cdf14b828e86226b112447d557ad00b8d3c",
+    "original_repository_sha": "64bffed53ecc58fb9a8b7101bea5769d049047e9",
     "enhanced_repository": "enhansome/enhansome-spain",
     "enhanced_repository_description": null,
     "title": "Awesome spain with stars"
