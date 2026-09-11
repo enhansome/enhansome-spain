@@ -92,8 +92,8 @@
             "id": 432434646,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-09T14:04:12Z",
-            "open_issues": 2,
+            "last_commit": "2026-09-10T23:48:53Z",
+            "open_issues": 3,
             "owner": "guerrerotook",
             "repo": "securitas-direct-new-api",
             "stars": 138,
@@ -530,7 +530,7 @@
             "id": 921066224,
             "language": "JavaScript",
             "license": "EUPL-1.2",
-            "last_commit": "2026-09-10T13:07:12Z",
+            "last_commit": "2026-09-11T13:07:39Z",
             "open_issues": 3,
             "owner": "Desarrollos-IDEE",
             "repo": "API-IDEE",
@@ -918,7 +918,7 @@
             "id": 461959149,
             "language": "HTML",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-10T11:57:52Z",
+            "last_commit": "2026-09-11T11:56:47Z",
             "open_issues": 0,
             "owner": "soker90",
             "repo": "precio-gasolina",
@@ -2210,8 +2210,8 @@
             "id": 123171104,
             "language": null,
             "license": null,
-            "last_commit": "2026-09-07T17:27:39Z",
-            "open_issues": 1,
+            "last_commit": "2026-09-11T08:24:28Z",
+            "open_issues": 0,
             "owner": "ginopalazzo",
             "repo": "spain-open-data",
             "stars": 11,
@@ -2455,6 +2455,27 @@
         },
         {
           "node_type": "item",
+          "title": "Datania INE",
+          "description": "Herramientas para exportar metadatos y datasets del INE de forma periódica.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "📁 Herramientas para exportar metadatos y datasets del Instituto Nacional de Estadística (INE) de forma periódica",
+            "homepage": "https://huggingface.co/datasets/datania/ine-catalog",
+            "id": 948078621,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2026-09-07T11:38:19Z",
+            "open_issues": 0,
+            "owner": "datania",
+            "repo": "ine-catalog",
+            "stars": 4,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
+        },
+        {
+          "node_type": "item",
           "title": "opencis",
           "description": "Paquete R para importar datos del Centro de Investigaciones Sociológicas (CIS).",
           "children": [],
@@ -2482,27 +2503,6 @@
               "r",
               "sociologicos"
             ]
-          },
-          "first_seen": "2026-08-28T21:21:12.343Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Datania INE",
-          "description": "Herramientas para exportar metadatos y datasets del INE de forma periódica.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "📁 Herramientas para exportar metadatos y datasets del Instituto Nacional de Estadística (INE) de forma periódica",
-            "homepage": "https://huggingface.co/datasets/datania/ine-catalog",
-            "id": 948078621,
-            "language": "Python",
-            "license": "MIT",
-            "last_commit": "2026-09-07T11:38:19Z",
-            "open_issues": 0,
-            "owner": "datania",
-            "repo": "ine-catalog",
-            "stars": 3,
-            "topics": []
           },
           "first_seen": "2026-08-28T21:21:12.343Z"
         },
@@ -3791,7 +3791,7 @@
             "open_issues": 3,
             "owner": "uvejota",
             "repo": "python-edata",
-            "stars": 13,
+            "stars": 14,
             "topics": []
           },
           "first_seen": "2026-08-28T21:21:12.343Z"
@@ -3854,6 +3854,27 @@
         },
         {
           "node_type": "item",
+          "title": "luzfija.es",
+          "description": "Comparador de tarifas de luz independiente y gratuito, optimizado para la normativa eléctrica española de 2026.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Comparador de tarifas de luz independiente, gratuito y sin publicidad. Optimizado para la normativa de 2026.",
+            "homepage": null,
+            "id": 1137833640,
+            "language": "JavaScript",
+            "license": "NOASSERTION",
+            "last_commit": "2026-09-11T13:48:37Z",
+            "open_issues": 0,
+            "owner": "almax-es",
+            "repo": "luzfija.es",
+            "stars": 7,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
+        },
+        {
+          "node_type": "item",
           "title": "Open Luz",
           "description": "App con información detallada por horas del precio de la electricidad en España.",
           "children": [],
@@ -3869,27 +3890,6 @@
             "owner": "Webierta",
             "repo": "open_luz",
             "stars": 7,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T21:21:12.343Z"
-        },
-        {
-          "node_type": "item",
-          "title": "luzfija.es",
-          "description": "Comparador de tarifas de luz independiente y gratuito, optimizado para la normativa eléctrica española de 2026.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Comparador de tarifas de luz independiente, gratuito y sin publicidad. Optimizado para la normativa de 2026.",
-            "homepage": null,
-            "id": 1137833640,
-            "language": "JavaScript",
-            "license": "NOASSERTION",
-            "last_commit": "2026-09-10T11:36:21Z",
-            "open_issues": 0,
-            "owner": "almax-es",
-            "repo": "luzfija.es",
-            "stars": 6,
             "topics": []
           },
           "first_seen": "2026-08-28T21:21:12.343Z"
@@ -4025,10 +4025,10 @@
             "language": "Python",
             "license": "AGPL-3.0",
             "last_commit": "2026-09-10T14:10:58Z",
-            "open_issues": 151,
+            "open_issues": 153,
             "owner": "OCA",
             "repo": "l10n-spain",
-            "stars": 559,
+            "stars": 560,
             "topics": [
               "erp",
               "hacktoberfest",
@@ -4364,6 +4364,36 @@
             "topics": []
           },
           "first_seen": "2026-08-28T21:21:12.343Z"
+        },
+        {
+          "node_type": "item",
+          "title": "plazos-extranjeria-es",
+          "description": "Días inhábiles de 2026 del Estado, de las 17 comunidades autónomas y de Ceuta y Melilla según el BOE, plazo de resolución y sentido del silencio de 32 trámites de extranjería, y funciones JavaScript para calcular vencimientos según la Ley 39/2015.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Días inhábiles 2026 del Estado, las 17 comunidades autónomas y Ceuta y Melilla (BOE), y plazo de resolución y silencio de 32 trámites de extranjería en España, en JSON/CSV, con librería JS de cómputo según la Ley 39/2015.",
+            "homepage": "https://esextranjeria.es/calculadora-plazos",
+            "id": 1364824895,
+            "language": "JavaScript",
+            "license": "MIT",
+            "last_commit": "2026-09-10T19:55:26Z",
+            "open_issues": 1,
+            "owner": "luisdues",
+            "repo": "plazos-extranjeria-es",
+            "stars": 0,
+            "topics": [
+              "boe",
+              "dias-inhabiles",
+              "extranjeria",
+              "immigration",
+              "ley-39-2015",
+              "open-data",
+              "plazos",
+              "spain"
+            ]
+          },
+          "first_seen": "2026-09-11T14:57:27.272Z"
         }
       ],
       "title": "Extranjería y Visados"
@@ -4503,8 +4533,8 @@
                 "id": 292311963,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-09T16:34:49Z",
-                "open_issues": 56,
+                "last_commit": "2026-09-10T16:01:54Z",
+                "open_issues": 58,
                 "owner": "invopop",
                 "repo": "gobl",
                 "stars": 306,
@@ -5511,7 +5541,7 @@
                 "language": "Nix",
                 "license": "MIT",
                 "last_commit": "2026-09-09T15:54:48Z",
-                "open_issues": 36,
+                "open_issues": 37,
                 "owner": "nix-community",
                 "repo": "autofirma-nix",
                 "stars": 55,
@@ -5827,8 +5857,8 @@
                 "id": 1318034879,
                 "language": "TypeScript",
                 "license": "GPL-2.0",
-                "last_commit": "2026-09-09T21:57:26Z",
-                "open_issues": 0,
+                "last_commit": "2026-09-11T11:24:35Z",
+                "open_issues": 1,
                 "owner": "erseco",
                 "repo": "autofirma-client",
                 "stars": 0,
@@ -5894,7 +5924,7 @@
                 "id": 1318035564,
                 "language": "JavaScript",
                 "license": "GPL-2.0",
-                "last_commit": "2026-09-06T07:50:18Z",
+                "last_commit": "2026-09-11T05:52:00Z",
                 "open_issues": 0,
                 "owner": "erseco",
                 "repo": "wp-autofirma",
@@ -6300,7 +6330,7 @@
                 "open_issues": 0,
                 "owner": "Tatuck",
                 "repo": "wallapop-scraper",
-                "stars": 9,
+                "stars": 10,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:21:12.343Z"
@@ -7028,11 +7058,11 @@
             "id": 65914086,
             "language": "Ruby",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-10T11:37:44Z",
-            "open_issues": 377,
+            "last_commit": "2026-09-11T14:01:08Z",
+            "open_issues": 376,
             "owner": "decidim",
             "repo": "decidim",
-            "stars": 1812,
+            "stars": 1813,
             "topics": [
               "citizen-participation",
               "civic-tech",
@@ -7069,7 +7099,7 @@
             "open_issues": 214,
             "owner": "consuldemocracy",
             "repo": "consuldemocracy",
-            "stars": 1548,
+            "stars": 1547,
             "topics": [
               "agplv3",
               "consuldemocracy",
@@ -7095,7 +7125,7 @@
             "id": 78930746,
             "language": "HTML",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-10T02:55:02Z",
+            "last_commit": "2026-09-11T09:49:03Z",
             "open_issues": 53,
             "owner": "AjuntamentdeBarcelona",
             "repo": "decidim-barcelona",
@@ -8440,7 +8470,7 @@
             "id": 1025912736,
             "language": "Python",
             "license": "Unlicense",
-            "last_commit": "2026-09-09T18:53:33Z",
+            "last_commit": "2026-09-10T18:43:35Z",
             "open_issues": 1,
             "owner": "mv12star",
             "repo": "lista-telefonos-spam",
@@ -8648,10 +8678,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-09-09T18:48:04Z",
-            "open_issues": 38,
+            "open_issues": 40,
             "owner": "LaQuay",
             "repo": "TDTChannels",
-            "stars": 1662,
+            "stars": 1663,
             "topics": []
           },
           "first_seen": "2026-08-28T21:21:12.343Z"
@@ -9019,7 +9049,7 @@
             "id": 1193927913,
             "language": null,
             "license": "NOASSERTION",
-            "last_commit": "2026-09-10T14:01:29Z",
+            "last_commit": "2026-09-11T14:00:24Z",
             "open_issues": 3,
             "owner": "legalize-dev",
             "repo": "legalize-es",
@@ -9331,7 +9361,7 @@
             "id": 50596751,
             "language": "JavaScript",
             "license": "EUPL-1.1",
-            "last_commit": "2026-08-03T01:04:51Z",
+            "last_commit": "2026-09-11T14:31:36Z",
             "open_issues": 3,
             "owner": "civio",
             "repo": "presupuesto",
@@ -9556,8 +9586,8 @@
             "id": 1136643259,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-09-04T19:34:15Z",
-            "open_issues": 2,
+            "last_commit": "2026-09-11T11:19:37Z",
+            "open_issues": 1,
             "owner": "hadronomy",
             "repo": "canary",
             "stars": 2,
@@ -10576,7 +10606,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T14:57:22.294Z",
+    "last_updated": "2026-09-11T14:57:27.272Z",
     "original_repository_info": {
       "archived": false,
       "description": "Una selección de software open source que da soporte específico a España",
@@ -10584,11 +10614,11 @@
       "id": 1187199436,
       "language": "Python",
       "license": "CC0-1.0",
-      "last_commit": "2026-09-08T12:23:27Z",
+      "last_commit": "2026-09-11T13:37:59Z",
       "open_issues": 0,
       "owner": "GeiserX",
       "repo": "awesome-spain",
-      "stars": 338,
+      "stars": 339,
       "topics": [
         "administracion-electronica",
         "aeat",
@@ -10612,7 +10642,7 @@
         "tdt"
       ]
     },
-    "original_repository_sha": "64bffed53ecc58fb9a8b7101bea5769d049047e9",
+    "original_repository_sha": "ade25cd632368de85a95352d682795ad56a3040b",
     "enhanced_repository": "enhansome/enhansome-spain",
     "enhanced_repository_description": null,
     "title": "Awesome spain with stars"
