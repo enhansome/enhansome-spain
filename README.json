@@ -92,8 +92,8 @@
             "id": 432434646,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-15T10:34:50Z",
-            "open_issues": 9,
+            "last_commit": "2026-09-25T20:37:27Z",
+            "open_issues": 6,
             "owner": "guerrerotook",
             "repo": "securitas-direct-new-api",
             "stars": 136,
@@ -650,7 +650,7 @@
             "language": "JavaScript",
             "license": "EUPL-1.2",
             "last_commit": "2025-01-14T11:33:27Z",
-            "open_issues": 4,
+            "open_issues": 5,
             "owner": "IGN-CNIG",
             "repo": "API-CNIG",
             "stars": 3,
@@ -918,7 +918,7 @@
             "id": 461959149,
             "language": "HTML",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-25T12:26:00Z",
+            "last_commit": "2026-09-26T11:58:03Z",
             "open_issues": 0,
             "owner": "soker90",
             "repo": "precio-gasolina",
@@ -1925,7 +1925,7 @@
             "id": 813670716,
             "language": "R",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-21T13:44:20Z",
+            "last_commit": "2026-09-26T09:02:49Z",
             "open_issues": 13,
             "owner": "rOpenSpain",
             "repo": "spanishoddata",
@@ -2167,6 +2167,27 @@
         },
         {
           "node_type": "item",
+          "title": "Datania Mercadona",
+          "description": "Catálogo de productos de la tienda online de Mercadona en formato JSON.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "🍍 Descarga el catálogo (JSON) de la API pública de la tienda online de Mercadona",
+            "homepage": "https://datania.github.io/mercadona-catalog/",
+            "id": 1154422915,
+            "language": "HTML",
+            "license": "MIT",
+            "last_commit": "2026-09-25T10:18:31Z",
+            "open_issues": 0,
+            "owner": "datania",
+            "repo": "mercadona-catalog",
+            "stars": 12,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
+        },
+        {
+          "node_type": "item",
           "title": "tidyBdE",
           "description": "Paquete R para recuperar datos del Banco de España.",
           "children": [],
@@ -2195,27 +2216,6 @@
               "series-data",
               "spain"
             ]
-          },
-          "first_seen": "2026-08-28T21:21:12.343Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Datania Mercadona",
-          "description": "Catálogo de productos de la tienda online de Mercadona en formato JSON.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "🍍 Descarga el catálogo (JSON) de la API pública de la tienda online de Mercadona",
-            "homepage": "https://datania.github.io/mercadona-catalog/",
-            "id": 1154422915,
-            "language": "HTML",
-            "license": "MIT",
-            "last_commit": "2026-09-25T10:18:31Z",
-            "open_issues": 0,
-            "owner": "datania",
-            "repo": "mercadona-catalog",
-            "stars": 11,
-            "topics": []
           },
           "first_seen": "2026-08-28T21:21:12.343Z"
         },
@@ -3837,7 +3837,7 @@
             "id": 1137833640,
             "language": "JavaScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-25T13:41:46Z",
+            "last_commit": "2026-09-26T06:19:15Z",
             "open_issues": 0,
             "owner": "almax-es",
             "repo": "luzfija.es",
@@ -4028,7 +4028,7 @@
             "open_issues": 152,
             "owner": "OCA",
             "repo": "l10n-spain",
-            "stars": 572,
+            "stars": 574,
             "topics": [
               "erp",
               "hacktoberfest",
@@ -4049,8 +4049,8 @@
             "id": 9263296,
             "language": "PHP",
             "license": "LGPL-3.0",
-            "last_commit": "2026-09-25T11:33:16Z",
-            "open_issues": 89,
+            "last_commit": "2026-09-26T12:00:40Z",
+            "open_issues": 84,
             "owner": "NeoRazorX",
             "repo": "facturascripts",
             "stars": 495,
@@ -4537,7 +4537,7 @@
                 "open_issues": 60,
                 "owner": "invopop",
                 "repo": "gobl",
-                "stars": 308,
+                "stars": 310,
                 "topics": [
                   "gobl"
                 ]
@@ -5018,7 +5018,7 @@
                 "id": 594140234,
                 "language": "C#",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-09-24T14:34:55Z",
+                "last_commit": "2026-09-26T09:35:51Z",
                 "open_issues": 2,
                 "owner": "mdiago",
                 "repo": "VeriFactu",
@@ -5075,7 +5075,7 @@
                 "language": "PHP",
                 "license": null,
                 "last_commit": "2026-08-22T10:29:15Z",
-                "open_issues": 6,
+                "open_issues": 7,
                 "owner": "Eseperio",
                 "repo": "verifactu-php",
                 "stars": 52,
@@ -5540,7 +5540,7 @@
                 "id": 695448736,
                 "language": "Nix",
                 "license": "MIT",
-                "last_commit": "2026-09-24T15:55:10Z",
+                "last_commit": "2026-09-25T15:54:29Z",
                 "open_issues": 40,
                 "owner": "nix-community",
                 "repo": "autofirma-nix",
@@ -5857,8 +5857,8 @@
                 "id": 1318034879,
                 "language": "TypeScript",
                 "license": "GPL-2.0",
-                "last_commit": "2026-09-25T11:24:00Z",
-                "open_issues": 1,
+                "last_commit": "2026-09-25T22:28:02Z",
+                "open_issues": 0,
                 "owner": "erseco",
                 "repo": "autofirma-client",
                 "stars": 0,
@@ -6246,7 +6246,7 @@
                 "open_issues": 7,
                 "owner": "z0r3f",
                 "repo": "wallbot",
-                "stars": 43,
+                "stars": 44,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:21:12.343Z"
@@ -6267,7 +6267,7 @@
                 "open_issues": 2,
                 "owner": "danielhuici",
                 "repo": "Wallamonitor",
-                "stars": 33,
+                "stars": 34,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:21:12.343Z"
@@ -6674,7 +6674,7 @@
             "id": 539629703,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-24T21:27:19Z",
+            "last_commit": "2026-09-26T14:23:39Z",
             "open_issues": 1,
             "owner": "Danieldiazi",
             "repo": "homeassistant-meteogalicia",
@@ -7058,11 +7058,11 @@
             "id": 65914086,
             "language": "Ruby",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-25T15:44:55Z",
+            "last_commit": "2026-09-26T12:05:25Z",
             "open_issues": 380,
             "owner": "decidim",
             "repo": "decidim",
-            "stars": 1821,
+            "stars": 1822,
             "topics": [
               "citizen-participation",
               "civic-tech",
@@ -7095,7 +7095,7 @@
             "id": 39152554,
             "language": "Ruby",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-25T10:35:01Z",
+            "last_commit": "2026-09-26T12:09:02Z",
             "open_issues": 193,
             "owner": "consuldemocracy",
             "repo": "consuldemocracy",
@@ -7460,7 +7460,7 @@
                 "id": 17015540,
                 "language": "Perl",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-24T10:24:09Z",
+                "last_commit": "2026-09-26T11:46:36Z",
                 "open_issues": 9,
                 "owner": "Softcatala",
                 "repo": "catalan-dict-tools",
@@ -8449,7 +8449,7 @@
             "id": 1025912736,
             "language": "Python",
             "license": "Unlicense",
-            "last_commit": "2026-09-24T19:32:53Z",
+            "last_commit": "2026-09-25T19:39:39Z",
             "open_issues": 1,
             "owner": "mv12star",
             "repo": "lista-telefonos-spam",
@@ -8657,10 +8657,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-09-20T21:19:35Z",
-            "open_issues": 26,
+            "open_issues": 29,
             "owner": "LaQuay",
             "repo": "TDTChannels",
-            "stars": 1672,
+            "stars": 1673,
             "topics": []
           },
           "first_seen": "2026-08-28T21:21:12.343Z"
@@ -8751,6 +8751,36 @@
         },
         {
           "node_type": "item",
+          "title": "movistar-home-hacks",
+          "description": "Reutilización del dispositivo Movistar Home como panel de Home Assistant.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Reutilización de Movistar Home como un panel de dashboard de Home Assistant. / Repurposing Movistar Home as a Home Assistant dashboard panel.",
+            "homepage": "https://t.me/movistar_home_hacking",
+            "id": 479666045,
+            "language": "Shell",
+            "license": "GPL-3.0",
+            "last_commit": "2026-04-24T22:11:24Z",
+            "open_issues": 2,
+            "owner": "zry98",
+            "repo": "movistar-home-hacks",
+            "stars": 48,
+            "topics": [
+              "hardware-hacking",
+              "hass",
+              "hassio",
+              "home-assistant",
+              "iot-device",
+              "iot-hacking",
+              "movistar",
+              "telefonica"
+            ]
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
+        },
+        {
+          "node_type": "item",
           "title": "tv_grab_es_movistartv",
           "description": "Grabber XMLTV para la guía de programación de Movistar TV.",
           "children": [],
@@ -8767,36 +8797,6 @@
             "repo": "tv_grab_es_movistartv",
             "stars": 48,
             "topics": []
-          },
-          "first_seen": "2026-08-28T21:21:12.343Z"
-        },
-        {
-          "node_type": "item",
-          "title": "movistar-home-hacks",
-          "description": "Reutilización del dispositivo Movistar Home como panel de Home Assistant.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Reutilización de Movistar Home como un panel de dashboard de Home Assistant. / Repurposing Movistar Home as a Home Assistant dashboard panel.",
-            "homepage": "https://t.me/movistar_home_hacking",
-            "id": 479666045,
-            "language": "Shell",
-            "license": "GPL-3.0",
-            "last_commit": "2026-04-24T22:11:24Z",
-            "open_issues": 2,
-            "owner": "zry98",
-            "repo": "movistar-home-hacks",
-            "stars": 47,
-            "topics": [
-              "hardware-hacking",
-              "hass",
-              "hassio",
-              "home-assistant",
-              "iot-device",
-              "iot-hacking",
-              "movistar",
-              "telefonica"
-            ]
           },
           "first_seen": "2026-08-28T21:21:12.343Z"
         },
@@ -9032,7 +9032,7 @@
             "open_issues": 4,
             "owner": "legalize-dev",
             "repo": "legalize-es",
-            "stars": 1945,
+            "stars": 1944,
             "topics": [
               "legalize-country"
             ]
@@ -9544,7 +9544,7 @@
             "id": 1136643259,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-09-18T20:55:24Z",
+            "last_commit": "2026-09-25T18:43:28Z",
             "open_issues": 1,
             "owner": "hadronomy",
             "repo": "canary",
@@ -10585,7 +10585,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-25T15:47:19.872Z",
+    "last_updated": "2026-09-26T14:57:19.605Z",
     "original_repository_info": {
       "archived": false,
       "description": "Una selección de software open source que da soporte específico a España",
@@ -10594,7 +10594,7 @@
       "language": "Python",
       "license": "CC0-1.0",
       "last_commit": "2026-09-11T13:37:59Z",
-      "open_issues": 1,
+      "open_issues": 2,
       "owner": "GeiserX",
       "repo": "awesome-spain",
       "stars": 349,
