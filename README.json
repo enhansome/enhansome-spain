@@ -973,7 +973,7 @@
             "id": 461959149,
             "language": "HTML",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-09T14:00:12Z",
+            "last_commit": "2026-10-10T13:09:40Z",
             "open_issues": 0,
             "owner": "soker90",
             "repo": "precio-gasolina",
@@ -1980,8 +1980,8 @@
             "id": 813670716,
             "language": "R",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-03T09:38:44Z",
-            "open_issues": 13,
+            "last_commit": "2026-10-10T10:25:58Z",
+            "open_issues": 14,
             "owner": "rOpenSpain",
             "repo": "spanishoddata",
             "stars": 48,
@@ -3476,8 +3476,8 @@
             "id": 394949488,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-09T17:12:53Z",
-            "open_issues": 27,
+            "last_commit": "2026-10-09T19:16:48Z",
+            "open_issues": 9,
             "owner": "uvejota",
             "repo": "homeassistant-edata",
             "stars": 337,
@@ -3863,11 +3863,32 @@
             "id": 391008310,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-09T17:06:29Z",
+            "last_commit": "2026-10-09T18:14:01Z",
             "open_issues": 3,
             "owner": "uvejota",
             "repo": "python-edata",
             "stars": 14,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T21:21:12.343Z"
+        },
+        {
+          "node_type": "item",
+          "title": "luzfija.es",
+          "description": "Comparador de tarifas de luz independiente y gratuito, optimizado para la normativa eléctrica española de 2026.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Comparador de tarifas de luz independiente, gratuito y sin publicidad. Optimizado para la normativa de 2026.",
+            "homepage": null,
+            "id": 1137833640,
+            "language": "JavaScript",
+            "license": "NOASSERTION",
+            "last_commit": "2026-10-10T15:31:44Z",
+            "open_issues": 0,
+            "owner": "almax-es",
+            "repo": "luzfija.es",
+            "stars": 10,
             "topics": []
           },
           "first_seen": "2026-08-28T21:21:12.343Z"
@@ -3898,27 +3919,6 @@
               "integration",
               "som-energia"
             ]
-          },
-          "first_seen": "2026-08-28T21:21:12.343Z"
-        },
-        {
-          "node_type": "item",
-          "title": "luzfija.es",
-          "description": "Comparador de tarifas de luz independiente y gratuito, optimizado para la normativa eléctrica española de 2026.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Comparador de tarifas de luz independiente, gratuito y sin publicidad. Optimizado para la normativa de 2026.",
-            "homepage": null,
-            "id": 1137833640,
-            "language": "JavaScript",
-            "license": "NOASSERTION",
-            "last_commit": "2026-10-09T12:48:05Z",
-            "open_issues": 0,
-            "owner": "almax-es",
-            "repo": "luzfija.es",
-            "stars": 9,
-            "topics": []
           },
           "first_seen": "2026-08-28T21:21:12.343Z"
         },
@@ -4125,7 +4125,7 @@
             "id": 9263296,
             "language": "PHP",
             "license": "LGPL-3.0",
-            "last_commit": "2026-10-08T09:47:24Z",
+            "last_commit": "2026-10-10T12:05:39Z",
             "open_issues": 87,
             "owner": "NeoRazorX",
             "repo": "facturascripts",
@@ -5133,6 +5133,27 @@
             },
             {
               "node_type": "item",
+              "title": "verifactu-api-python",
+              "description": "API Python para facturas VeriFactu con envío a la AEAT.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Sistema de facturas VeriFactu con envío a la AEAT",
+                "homepage": null,
+                "id": 1011841784,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2026-09-26T20:09:26Z",
+                "open_issues": 2,
+                "owner": "EduardoRuizM",
+                "repo": "verifactu-api-python",
+                "stars": 24,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T21:21:12.343Z"
+            },
+            {
+              "node_type": "item",
               "title": "LaravelVerifactu",
               "description": "Paquete Laravel para gestión y registro de facturación electrónica VeriFactu.",
               "children": [],
@@ -5155,27 +5176,6 @@
                   "laravel-package",
                   "verifactu"
                 ]
-              },
-              "first_seen": "2026-08-28T21:21:12.343Z"
-            },
-            {
-              "node_type": "item",
-              "title": "verifactu-api-python",
-              "description": "API Python para facturas VeriFactu con envío a la AEAT.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Sistema de facturas VeriFactu con envío a la AEAT",
-                "homepage": null,
-                "id": 1011841784,
-                "language": "Python",
-                "license": null,
-                "last_commit": "2026-09-26T20:09:26Z",
-                "open_issues": 2,
-                "owner": "EduardoRuizM",
-                "repo": "verifactu-api-python",
-                "stars": 23,
-                "topics": []
               },
               "first_seen": "2026-08-28T21:21:12.343Z"
             },
@@ -5905,8 +5905,8 @@
                 "id": 1318034879,
                 "language": "TypeScript",
                 "license": "GPL-2.0",
-                "last_commit": "2026-10-09T11:26:29Z",
-                "open_issues": 1,
+                "last_commit": "2026-10-10T08:07:28Z",
+                "open_issues": 0,
                 "owner": "erseco",
                 "repo": "autofirma-client",
                 "stars": 0,
@@ -5972,8 +5972,8 @@
                 "id": 1318035564,
                 "language": "JavaScript",
                 "license": "GPL-2.0",
-                "last_commit": "2026-10-09T06:59:58Z",
-                "open_issues": 2,
+                "last_commit": "2026-10-09T22:44:06Z",
+                "open_issues": 0,
                 "owner": "erseco",
                 "repo": "wp-autofirma",
                 "stars": 0,
@@ -6722,7 +6722,7 @@
             "id": 539629703,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-06T22:24:41Z",
+            "last_commit": "2026-10-10T13:02:47Z",
             "open_issues": 0,
             "owner": "Danieldiazi",
             "repo": "homeassistant-meteogalicia",
@@ -7106,7 +7106,7 @@
             "id": 65914086,
             "language": "Ruby",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-09T16:56:21Z",
+            "last_commit": "2026-10-09T20:47:54Z",
             "open_issues": 391,
             "owner": "decidim",
             "repo": "decidim",
@@ -7508,7 +7508,7 @@
                 "id": 17015540,
                 "language": "Perl",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-09T16:41:47Z",
+                "last_commit": "2026-10-10T10:19:52Z",
                 "open_issues": 9,
                 "owner": "Softcatala",
                 "repo": "catalan-dict-tools",
@@ -8476,7 +8476,7 @@
             "id": 1025912736,
             "language": "Python",
             "license": "Unlicense",
-            "last_commit": "2026-10-08T20:55:23Z",
+            "last_commit": "2026-10-09T20:23:56Z",
             "open_issues": 1,
             "owner": "mv12star",
             "repo": "lista-telefonos-spam",
@@ -9020,11 +9020,11 @@
             "id": 1193927913,
             "language": null,
             "license": "NOASSERTION",
-            "last_commit": "2026-10-09T16:47:50Z",
+            "last_commit": "2026-10-10T15:40:47Z",
             "open_issues": 4,
             "owner": "legalize-dev",
             "repo": "legalize-es",
-            "stars": 1955,
+            "stars": 1957,
             "topics": [
               "legalize-country"
             ]
@@ -10577,7 +10577,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T17:24:51.089Z",
+    "last_updated": "2026-10-10T16:12:30.297Z",
     "original_repository_info": {
       "archived": false,
       "description": "Una selección de software open source que da soporte específico a España",
@@ -10589,7 +10589,7 @@
       "open_issues": 2,
       "owner": "GeiserX",
       "repo": "awesome-spain",
-      "stars": 356,
+      "stars": 357,
       "topics": [
         "administracion-electronica",
         "aeat",
