@@ -213,8 +213,8 @@
             "id": 310689182,
             "language": "R",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-11T06:48:38Z",
-            "open_issues": 1,
+            "last_commit": "2026-11-17T17:04:21Z",
+            "open_issues": 2,
             "owner": "rOpenSpain",
             "repo": "mapSpain",
             "stars": 50,
@@ -237,31 +237,6 @@
               "spatial",
               "static-tiles",
               "tiles"
-            ]
-          },
-          "first_seen": "2026-08-28T21:21:12.343Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Leaflet.Spain.WMS",
-          "description": "Capas WMS de España para Leaflet (PNOA, IGN base, Catastro) de organismos cartográficos.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Provides easy setup for several Web Map Services (WMS) layers for Spain (PNOA, IGN base, Catastro, etc), from Spanish mapping agencies.",
-            "homepage": "http://sigdeletras.github.io/Leaflet.Spain.WMS/examples/",
-            "id": 37276570,
-            "language": "JavaScript",
-            "license": "NOASSERTION",
-            "last_commit": "2015-06-16T09:24:25Z",
-            "open_issues": 2,
-            "owner": "sigdeletras",
-            "repo": "Leaflet.Spain.WMS",
-            "stars": 36,
-            "topics": [
-              "javascript",
-              "leaflet",
-              "plugins"
             ]
           },
           "first_seen": "2026-08-28T21:21:12.343Z"
@@ -323,27 +298,6 @@
               "spatial",
               "static-tiles"
             ]
-          },
-          "first_seen": "2026-08-28T21:21:12.343Z"
-        },
-        {
-          "node_type": "item",
-          "title": "catastro2postgis",
-          "description": "Herramienta para importar datos del Catastro español a PostGIS.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": null,
-            "homepage": null,
-            "id": 1608988,
-            "language": "Python",
-            "license": null,
-            "last_commit": "2013-09-03T07:13:29Z",
-            "open_issues": 1,
-            "owner": "oscarfonts",
-            "repo": "catastro2postgis",
-            "stars": 28,
-            "topics": []
           },
           "first_seen": "2026-08-28T21:21:12.343Z"
         },
@@ -439,40 +393,6 @@
         },
         {
           "node_type": "item",
-          "title": "libreCatastro",
-          "description": "Plataforma open source para descargar y consultar el Catastro español.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "OpenSource platform for downloading and querying Spanish Official Cadaster Registry (Catastro)",
-            "homepage": null,
-            "id": 208592097,
-            "language": "Python",
-            "license": "MIT",
-            "last_commit": "2023-05-22T22:30:27Z",
-            "open_issues": 3,
-            "owner": "josejuanmartinez",
-            "repo": "libreCatastro",
-            "stars": 14,
-            "topics": [
-              "catastral",
-              "catastro",
-              "docker",
-              "elasticsearch",
-              "elk",
-              "opendata",
-              "opensource",
-              "python",
-              "registro",
-              "scrapping",
-              "spanish-cadaster",
-              "visualization"
-            ]
-          },
-          "first_seen": "2026-08-28T21:21:12.343Z"
-        },
-        {
-          "node_type": "item",
           "title": "ESCatastroLib",
           "description": "Librería Python para consultar datos del Catastro con información geográfica.",
           "children": [],
@@ -483,7 +403,7 @@
             "id": 928575727,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-16T20:33:49Z",
+            "last_commit": "2026-11-16T21:59:06Z",
             "open_issues": 1,
             "owner": "IvanitiX",
             "repo": "ESCatastroLib",
@@ -494,27 +414,6 @@
               "gis",
               "hacktoberfest"
             ]
-          },
-          "first_seen": "2026-08-28T21:21:12.343Z"
-        },
-        {
-          "node_type": "item",
-          "title": "catastro-lib-python",
-          "description": "Librería Python para acceder a los servicios web del Portal del Catastro.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Librería desarrollada en python para acceder a los servicios web públicos del Portal de la Dirección General del Catastro y obtener los resultados en formato json ",
-            "homepage": null,
-            "id": 128370558,
-            "language": "HTML",
-            "license": "GPL-3.0",
-            "last_commit": "2018-04-06T09:05:13Z",
-            "open_issues": 1,
-            "owner": "sperea",
-            "repo": "catastro-lib-python",
-            "stars": 12,
-            "topics": []
           },
           "first_seen": "2026-08-28T21:21:12.343Z"
         },
@@ -572,7 +471,7 @@
             "id": 305817602,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-11-07T21:56:05Z",
+            "last_commit": "2026-11-17T05:38:35Z",
             "open_issues": 1,
             "owner": "dieghernan",
             "repo": "leaflet-providersESP",
@@ -759,54 +658,6 @@
                 "topics": []
               },
               "first_seen": "2026-08-28T21:21:12.343Z"
-            },
-            {
-              "node_type": "item",
-              "title": "filmaffinity2CSV",
-              "description": "Exporta películas votadas de FilmAffinity a CSV y las publica en IMDB.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Get filmaffinity voted movies, save them to CSV and post them on IMDB",
-                "homepage": null,
-                "id": 6341831,
-                "language": "Python",
-                "license": "AGPL-3.0",
-                "last_commit": "2022-11-16T14:45:06Z",
-                "open_issues": 1,
-                "owner": "gism",
-                "repo": "filmaffinity2CSV",
-                "stars": 19,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T21:21:12.343Z"
-            },
-            {
-              "node_type": "item",
-              "title": "faffinity-bot",
-              "description": "Bot de Telegram para obtener información de filmaffinity.com.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Telegram bot to get info from https://filmaffinity.com.",
-                "homepage": null,
-                "id": 387523683,
-                "language": "Python",
-                "license": "MIT",
-                "last_commit": "2023-05-13T20:24:52Z",
-                "open_issues": 0,
-                "owner": "svex99",
-                "repo": "faffinity-bot",
-                "stars": 12,
-                "topics": [
-                  "bot",
-                  "filmaffinity",
-                  "movies",
-                  "python3",
-                  "telegram"
-                ]
-              },
-              "first_seen": "2026-08-28T21:21:12.343Z"
             }
           ],
           "description": null,
@@ -930,7 +781,7 @@
             "id": 461959149,
             "language": "JavaScript",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-16T16:58:46Z",
+            "last_commit": "2026-11-17T02:27:39Z",
             "open_issues": 0,
             "owner": "soker90",
             "repo": "precio-gasolina",
@@ -962,7 +813,7 @@
                 "id": 1209376795,
                 "language": "Shell",
                 "license": "CC0-1.0",
-                "last_commit": "2026-11-06T20:56:51Z",
+                "last_commit": "2026-11-17T15:45:52Z",
                 "open_issues": 2,
                 "owner": "GeiserX",
                 "repo": "awesome-andalucia",
@@ -1011,7 +862,7 @@
                 "id": 1209380852,
                 "language": "Shell",
                 "license": "CC0-1.0",
-                "last_commit": "2026-11-06T20:57:01Z",
+                "last_commit": "2026-11-17T15:45:58Z",
                 "open_issues": 2,
                 "owner": "GeiserX",
                 "repo": "awesome-aragon",
@@ -1060,7 +911,7 @@
                 "id": 1209385146,
                 "language": "Shell",
                 "license": "CC0-1.0",
-                "last_commit": "2026-11-06T20:57:13Z",
+                "last_commit": "2026-11-17T15:46:04Z",
                 "open_issues": 3,
                 "owner": "GeiserX",
                 "repo": "awesome-asturies",
@@ -1109,7 +960,7 @@
                 "id": 1209380765,
                 "language": "Shell",
                 "license": "CC0-1.0",
-                "last_commit": "2026-11-06T23:23:42Z",
+                "last_commit": "2026-11-17T15:46:11Z",
                 "open_issues": 2,
                 "owner": "GeiserX",
                 "repo": "awesome-canarias",
@@ -1158,7 +1009,7 @@
                 "id": 1209383755,
                 "language": "Shell",
                 "license": "CC0-1.0",
-                "last_commit": "2026-11-06T20:57:28Z",
+                "last_commit": "2026-11-17T15:46:16Z",
                 "open_issues": 2,
                 "owner": "GeiserX",
                 "repo": "awesome-cantabria",
@@ -1207,7 +1058,7 @@
                 "id": 1209385365,
                 "language": "Shell",
                 "license": "CC0-1.0",
-                "last_commit": "2026-11-06T20:57:40Z",
+                "last_commit": "2026-11-17T15:46:22Z",
                 "open_issues": 2,
                 "owner": "GeiserX",
                 "repo": "awesome-castilla-la-mancha",
@@ -1256,7 +1107,7 @@
                 "id": 1209383828,
                 "language": "Shell",
                 "license": "CC0-1.0",
-                "last_commit": "2026-11-06T20:57:50Z",
+                "last_commit": "2026-11-17T15:46:29Z",
                 "open_issues": 2,
                 "owner": "GeiserX",
                 "repo": "awesome-castilla-y-leon",
@@ -1305,7 +1156,7 @@
                 "id": 1209377261,
                 "language": "Shell",
                 "license": "CC0-1.0",
-                "last_commit": "2026-11-06T20:58:01Z",
+                "last_commit": "2026-11-17T15:46:35Z",
                 "open_issues": 3,
                 "owner": "GeiserX",
                 "repo": "awesome-catalunya",
@@ -1354,7 +1205,7 @@
                 "id": 1209385350,
                 "language": "Shell",
                 "license": "CC0-1.0",
-                "last_commit": "2026-11-06T20:58:13Z",
+                "last_commit": "2026-11-17T15:46:42Z",
                 "open_issues": 2,
                 "owner": "GeiserX",
                 "repo": "awesome-ceuta-y-melilla",
@@ -1403,7 +1254,7 @@
                 "id": 1209377018,
                 "language": "Shell",
                 "license": "CC0-1.0",
-                "last_commit": "2026-11-06T20:58:24Z",
+                "last_commit": "2026-11-17T15:46:49Z",
                 "open_issues": 2,
                 "owner": "GeiserX",
                 "repo": "awesome-comunidad-de-madrid",
@@ -1452,7 +1303,7 @@
                 "id": 1209380828,
                 "language": "Shell",
                 "license": "CC0-1.0",
-                "last_commit": "2026-11-06T23:23:55Z",
+                "last_commit": "2026-11-17T15:46:55Z",
                 "open_issues": 3,
                 "owner": "GeiserX",
                 "repo": "awesome-comunitat-valenciana",
@@ -1501,7 +1352,7 @@
                 "id": 1209385176,
                 "language": "Shell",
                 "license": "CC0-1.0",
-                "last_commit": "2026-11-06T20:58:56Z",
+                "last_commit": "2026-11-17T15:47:14Z",
                 "open_issues": 2,
                 "owner": "GeiserX",
                 "repo": "awesome-extremadura",
@@ -1550,7 +1401,7 @@
                 "id": 1209380825,
                 "language": "Shell",
                 "license": "CC0-1.0",
-                "last_commit": "2026-11-06T20:59:08Z",
+                "last_commit": "2026-11-17T15:47:20Z",
                 "open_issues": 4,
                 "owner": "GeiserX",
                 "repo": "awesome-galicia",
@@ -1599,7 +1450,7 @@
                 "id": 1209376754,
                 "language": "Shell",
                 "license": "CC0-1.0",
-                "last_commit": "2026-11-06T20:59:19Z",
+                "last_commit": "2026-11-17T15:47:26Z",
                 "open_issues": 3,
                 "owner": "GeiserX",
                 "repo": "awesome-illes-balears",
@@ -1648,7 +1499,7 @@
                 "id": 1209383802,
                 "language": "Shell",
                 "license": "CC0-1.0",
-                "last_commit": "2026-11-06T20:59:29Z",
+                "last_commit": "2026-11-17T15:47:33Z",
                 "open_issues": 2,
                 "owner": "GeiserX",
                 "repo": "awesome-la-rioja",
@@ -1697,7 +1548,7 @@
                 "id": 1209387484,
                 "language": "Shell",
                 "license": "CC0-1.0",
-                "last_commit": "2026-11-10T11:33:16Z",
+                "last_commit": "2026-11-17T15:47:43Z",
                 "open_issues": 3,
                 "owner": "GeiserX",
                 "repo": "awesome-nafarroa",
@@ -1746,7 +1597,7 @@
                 "id": 1209383786,
                 "language": "Shell",
                 "license": "CC0-1.0",
-                "last_commit": "2026-11-06T20:58:47Z",
+                "last_commit": "2026-11-17T15:47:08Z",
                 "open_issues": 3,
                 "owner": "GeiserX",
                 "repo": "awesome-euskadi",
@@ -1795,7 +1646,7 @@
                 "id": 1189356064,
                 "language": "Shell",
                 "license": "CC0-1.0",
-                "last_commit": "2026-11-10T11:33:29Z",
+                "last_commit": "2026-11-17T15:47:49Z",
                 "open_issues": 0,
                 "owner": "GeiserX",
                 "repo": "awesome-region-de-murcia",
@@ -1890,7 +1741,7 @@
             "id": 357524767,
             "language": "Jupyter Notebook",
             "license": null,
-            "last_commit": "2026-11-15T19:55:40Z",
+            "last_commit": "2026-11-17T15:54:25Z",
             "open_issues": 0,
             "owner": "Admindatosgobes",
             "repo": "Laboratorio-de-Datos",
@@ -1938,7 +1789,7 @@
             "language": "R",
             "license": "NOASSERTION",
             "last_commit": "2026-11-14T11:11:58Z",
-            "open_issues": 14,
+            "open_issues": 13,
             "owner": "rOpenSpain",
             "repo": "spanishoddata",
             "stars": 48,
@@ -1950,57 +1801,6 @@
               "mobility",
               "origin-destination",
               "rstats"
-            ]
-          },
-          "first_seen": "2026-08-28T21:21:12.343Z"
-        },
-        {
-          "node_type": "item",
-          "title": "spanish-names-surnames",
-          "description": "Dataset de nombres y apellidos españoles.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Data set with Spanish names and surnames",
-            "homepage": null,
-            "id": 84847517,
-            "language": null,
-            "license": "NOASSERTION",
-            "last_commit": "2022-11-18T10:50:21Z",
-            "open_issues": 2,
-            "owner": "jvalhondo",
-            "repo": "spanish-names-surnames",
-            "stars": 36,
-            "topics": [
-              "dataset",
-              "demographics",
-              "names",
-              "spain",
-              "surnames"
-            ]
-          },
-          "first_seen": "2026-08-28T21:21:12.343Z"
-        },
-        {
-          "node_type": "item",
-          "title": "COVID19_es",
-          "description": "Datos COVID-19 de España ampliamente referenciados.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "COVID19 Spain data",
-            "homepage": null,
-            "id": 246312065,
-            "language": "Jupyter Notebook",
-            "license": "Apache-2.0",
-            "last_commit": "2023-07-06T21:57:18Z",
-            "open_issues": 6,
-            "owner": "victorvicpal",
-            "repo": "COVID19_es",
-            "stars": 34,
-            "topics": [
-              "covid-19-spain",
-              "covid19-data"
             ]
           },
           "first_seen": "2026-08-28T21:21:12.343Z"
@@ -2041,55 +1841,6 @@
         },
         {
           "node_type": "item",
-          "title": "municipios",
-          "description": "Base de datos MySQL con municipios, provincias y comunidades autónomas con coordenadas.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Volcado de datos MySQL con municipios, provincias y comunidades autónomas con latitud, longitud y enlace amigable",
-            "homepage": null,
-            "id": 52385521,
-            "language": null,
-            "license": null,
-            "last_commit": "2018-11-26T08:39:34Z",
-            "open_issues": 2,
-            "owner": "antonrodin",
-            "repo": "municipios",
-            "stars": 32,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T21:21:12.343Z"
-        },
-        {
-          "node_type": "item",
-          "title": "egov",
-          "description": "API abierto de acceso a datos públicos españoles.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "eGov España - API abierto de acceso a datos púbicos",
-            "homepage": "https://palmerabollo.github.io/egov/",
-            "id": 165316101,
-            "language": "TypeScript",
-            "license": "AGPL-3.0",
-            "last_commit": "2023-03-04T14:37:01Z",
-            "open_issues": 13,
-            "owner": "palmerabollo",
-            "repo": "egov",
-            "stars": 26,
-            "topics": [
-              "api",
-              "community",
-              "e-government",
-              "graphql",
-              "help-wanted",
-              "open-data"
-            ]
-          },
-          "first_seen": "2026-08-28T21:21:12.343Z"
-        },
-        {
-          "node_type": "item",
           "title": "INEbaseR",
           "description": "Paquete R para obtener y analizar datos abiertos del INE (Instituto Nacional de Estadística).",
           "children": [],
@@ -2105,53 +1856,6 @@
             "owner": "rOpenSpain",
             "repo": "INEbaseR",
             "stars": 23,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T21:21:12.343Z"
-        },
-        {
-          "node_type": "item",
-          "title": "ccaa-provincias-municipios",
-          "description": "Tablas MySQL para vincular CCAA con provincias y municipios de España.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Tablas para vincular las Comunidades Autónomas con provincias y municipios de España (en formato mysql)",
-            "homepage": null,
-            "id": 302334703,
-            "language": null,
-            "license": "GPL-3.0",
-            "last_commit": "2020-10-08T15:36:35Z",
-            "open_issues": 0,
-            "owner": "oscarnovasf",
-            "repo": "ccaa-provincias-municipios",
-            "stars": 22,
-            "topics": [
-              "ccaa",
-              "municipios",
-              "mysql",
-              "provincias"
-            ]
-          },
-          "first_seen": "2026-08-28T21:21:12.343Z"
-        },
-        {
-          "node_type": "item",
-          "title": "opendataes",
-          "description": "Paquete R para acceder a datos de datos.gob.es de forma programática.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "R package to access data from datos.gob.es",
-            "homepage": "https://ropenspain.github.io/opendataes/",
-            "id": 142578514,
-            "language": "R",
-            "license": "NOASSERTION",
-            "last_commit": "2024-04-12T09:19:06Z",
-            "open_issues": 9,
-            "owner": "rOpenSpain",
-            "repo": "opendataes",
-            "stars": 22,
             "topics": []
           },
           "first_seen": "2026-08-28T21:21:12.343Z"
@@ -2324,27 +2028,6 @@
               "ine",
               "python"
             ]
-          },
-          "first_seen": "2026-08-28T21:21:12.343Z"
-        },
-        {
-          "node_type": "item",
-          "title": "codigos_postales_spain",
-          "description": "Base de datos SQL de más de 11.000 códigos postales de España con coordenadas.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Base de Datos de más de 11.000 Códigos Postales de más de 6000 localidades España en formato SQL con su correspondiente lista descriptiva del lugar y coordenadas del área que lo forma para ser usada en ficheros kml",
-            "homepage": null,
-            "id": 80344668,
-            "language": null,
-            "license": "GPL-3.0",
-            "last_commit": "2017-01-29T12:44:09Z",
-            "open_issues": 2,
-            "owner": "franciscojuan1974",
-            "repo": "codigos_postales_spain",
-            "stars": 6,
-            "topics": []
           },
           "first_seen": "2026-08-28T21:21:12.343Z"
         },
@@ -2711,88 +2394,6 @@
             "topics": []
           },
           "first_seen": "2026-08-28T21:21:12.343Z"
-        },
-        {
-          "children": [
-            {
-              "node_type": "item",
-              "title": "radar-covid-android",
-              "description": "App Android oficial del Gobierno de España para rastreo de contactos COVID-19.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Native Android app using DP^3T Android sdk to handle Exposure Notifications API from Google",
-                "homepage": null,
-                "id": 290195697,
-                "language": "Kotlin",
-                "license": "MPL-2.0",
-                "last_commit": "2022-10-10T08:10:06Z",
-                "open_issues": 7,
-                "owner": "RadarCOVID",
-                "repo": "radar-covid-android",
-                "stars": 375,
-                "topics": [
-                  "android",
-                  "android-studio",
-                  "kotlin"
-                ]
-              },
-              "first_seen": "2026-08-28T21:21:12.343Z"
-            },
-            {
-              "node_type": "item",
-              "title": "radar-covid-ios",
-              "description": "App iOS oficial de Radar COVID.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Native iOS app using DP^3T iOS sdk to handle Exposure Notification framework from Apple",
-                "homepage": null,
-                "id": 290176822,
-                "language": "Swift",
-                "license": "MPL-2.0",
-                "last_commit": "2022-10-10T07:41:13Z",
-                "open_issues": 10,
-                "owner": "RadarCOVID",
-                "repo": "radar-covid-ios",
-                "stars": 143,
-                "topics": [
-                  "ios",
-                  "swift",
-                  "xcode"
-                ]
-              },
-              "first_seen": "2026-08-28T21:21:12.343Z"
-            },
-            {
-              "node_type": "item",
-              "title": "radar-covid-backend-verification-server",
-              "description": "Servidor backend de verificación de Radar COVID.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Radar COVID Verification Service",
-                "homepage": null,
-                "id": 291329345,
-                "language": "Java",
-                "license": "MPL-2.0",
-                "last_commit": "2021-12-20T11:35:10Z",
-                "open_issues": 1,
-                "owner": "RadarCOVID",
-                "repo": "radar-covid-backend-verification-server",
-                "stars": 93,
-                "topics": [
-                  "java",
-                  "maven",
-                  "spring-boot"
-                ]
-              },
-              "first_seen": "2026-08-28T21:21:12.343Z"
-            }
-          ],
-          "description": null,
-          "node_type": "group",
-          "title": "Radar COVID"
         }
       ],
       "title": "Datos Abiertos y Estadísticas"
@@ -2816,7 +2417,7 @@
             "open_issues": 1,
             "owner": "openfootball",
             "repo": "espana",
-            "stars": 81,
+            "stars": 82,
             "topics": [
               "barca",
               "espana",
@@ -2829,27 +2430,6 @@
               "spain",
               "sqlite"
             ]
-          },
-          "first_seen": "2026-08-28T21:21:12.343Z"
-        },
-        {
-          "node_type": "item",
-          "title": "FootballMatchesDataSet",
-          "description": "Dataset para predicción de resultados de fútbol en formato quiniela (1X2).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "El objetivo de publicar este DataSet es el de abrir una nueva área de investigación dentro del Machine Learning para la predicción de resultados en partidos de fútbol; a priori, arrojando un resultado en formato quiniela (1X2), aunque podría ser extensible a la predicción del resultado final.",
-            "homepage": "http://jarroba.com/dataset-resultados-partidos-futbol-prediccion-machine-learning/",
-            "id": 47029990,
-            "language": "Python",
-            "license": null,
-            "last_commit": "2018-06-13T07:36:15Z",
-            "open_issues": 1,
-            "owner": "RicardoMoya",
-            "repo": "FootballMatchesDataSet",
-            "stars": 37,
-            "topics": []
           },
           "first_seen": "2026-08-28T21:21:12.343Z"
         },
@@ -2881,58 +2461,6 @@
               "scraper",
               "webscraper"
             ]
-          },
-          "first_seen": "2026-08-28T21:21:12.343Z"
-        },
-        {
-          "node_type": "item",
-          "title": "footballcsv/espana",
-          "description": "Datos de fútbol para España en formato CSV: Primera y Segunda División.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Football data for España (Spain) incl. Primera División (La Liga), Segunda División etc.  ",
-            "homepage": null,
-            "id": 22164538,
-            "language": null,
-            "license": "CC0-1.0",
-            "last_commit": "2020-12-01T06:05:45Z",
-            "open_issues": 1,
-            "owner": "footballcsv",
-            "repo": "espana",
-            "stars": 25,
-            "topics": [
-              "csv",
-              "espana",
-              "football",
-              "futbol",
-              "laliga",
-              "opendata",
-              "primeradivision",
-              "segundadivision",
-              "spain"
-            ]
-          },
-          "first_seen": "2026-08-28T21:21:12.343Z"
-        },
-        {
-          "node_type": "item",
-          "title": "marca-fantasy-scraper",
-          "description": "Scraper del API de LaLiga Fantasy de Marca.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Web scraper del API de la LaLiga Fantasy de Marca",
-            "homepage": null,
-            "id": 238990618,
-            "language": "Python",
-            "license": "GPL-3.0",
-            "last_commit": "2022-02-11T04:21:35Z",
-            "open_issues": 5,
-            "owner": "diegoparrilla",
-            "repo": "marca-fantasy-scraper",
-            "stars": 22,
-            "topics": []
           },
           "first_seen": "2026-08-28T21:21:12.343Z"
         }
@@ -2977,27 +2505,6 @@
         },
         {
           "node_type": "item",
-          "title": "DGT_cita_previa",
-          "description": "Script para reservar cita previa en la DGT (Dirección General de Tráfico).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Un script rápido para ayudarte a reservar cita en la DGT (España).",
-            "homepage": null,
-            "id": 290467671,
-            "language": "Jupyter Notebook",
-            "license": null,
-            "last_commit": "2023-09-23T22:00:48Z",
-            "open_issues": 1,
-            "owner": "jabellcu",
-            "repo": "DGT_cita_previa",
-            "stars": 17,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T21:21:12.343Z"
-        },
-        {
-          "node_type": "item",
           "title": "dgt",
           "description": "Consulta el tipo de distintivo ambiental asociado a una matrícula en el servicio web de la DGT.",
           "children": [],
@@ -3018,37 +2525,6 @@
               "golang",
               "plates",
               "spain"
-            ]
-          },
-          "first_seen": "2026-08-28T21:21:12.343Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Alexa-Skill-Test-Autoescuela",
-          "description": "Skill de Alexa para practicar tests de autoescuela (preparación examen DGT).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Test Autoescuela, una Skill para Amazon Alexa, publicada en https://www.amazon.es/Javier-Campos-Test-autoescuela/dp/B07L8JGTG7",
-            "homepage": null,
-            "id": 163961458,
-            "language": "JavaScript",
-            "license": "Apache-2.0",
-            "last_commit": "2021-07-03T19:18:56Z",
-            "open_issues": 1,
-            "owner": "javichur",
-            "repo": "Alexa-Skill-Test-Autoescuela",
-            "stars": 5,
-            "topics": [
-              "alexa",
-              "amazon",
-              "autoescuela",
-              "dgt",
-              "lambda",
-              "preguntas",
-              "skill",
-              "test",
-              "voicefirst"
             ]
           },
           "first_seen": "2026-08-28T21:21:12.343Z"
@@ -3134,7 +2610,7 @@
             "id": 6041708,
             "language": "PHP",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-13T13:15:51Z",
+            "last_commit": "2026-11-17T19:22:49Z",
             "open_issues": 0,
             "owner": "projectestac",
             "repo": "agora",
@@ -3294,27 +2770,6 @@
             "topics": []
           },
           "first_seen": "2026-08-28T21:21:12.343Z"
-        },
-        {
-          "node_type": "item",
-          "title": "utilidadesdetests",
-          "description": "Generador de tests ponderados para PreparaTIC con preguntas de convocatorias oficiales.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Es el código con utilidades para la carga y generación de tests en Preparatic.",
-            "homepage": null,
-            "id": 73269936,
-            "language": "HTML",
-            "license": "Apache-2.0",
-            "last_commit": "2023-06-27T08:33:11Z",
-            "open_issues": 1,
-            "owner": "preparatic",
-            "repo": "utilidadesdetests",
-            "stars": 4,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T21:21:12.343Z"
         }
       ],
       "title": "Educación y Oposiciones"
@@ -3363,33 +2818,6 @@
             "topics": [
               "cv",
               "json"
-            ]
-          },
-          "first_seen": "2026-08-28T21:21:12.343Z"
-        },
-        {
-          "node_type": "item",
-          "title": "infojobs-hackaton",
-          "description": "Bot de Telegram para búsqueda de empleo usando la API de InfoJobs y OpenAI.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "InfojobsGPT is a Telegram bot that streamlines job searching and profile generation using OpenAI and Infojobs APIs.",
-            "homepage": "https://t.me/infojobsgpt_bot",
-            "id": 641530440,
-            "language": "JavaScript",
-            "license": "MIT",
-            "last_commit": "2023-05-28T22:41:54Z",
-            "open_issues": 0,
-            "owner": "ericrisco",
-            "repo": "infojobs-hackaton",
-            "stars": 43,
-            "topics": [
-              "chatbot",
-              "github",
-              "openai",
-              "telegram",
-              "telegram-bot"
             ]
           },
           "first_seen": "2026-08-28T21:21:12.343Z"
@@ -3820,7 +3248,7 @@
             "id": 1137833640,
             "language": "JavaScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-16T19:45:50Z",
+            "last_commit": "2026-11-17T19:45:53Z",
             "open_issues": 0,
             "owner": "almax-es",
             "repo": "luzfija.es",
@@ -4047,11 +3475,11 @@
             "id": 20920616,
             "language": "Python",
             "license": "AGPL-3.0",
-            "last_commit": "2026-11-12T18:27:26Z",
-            "open_issues": 198,
+            "last_commit": "2026-11-17T19:13:40Z",
+            "open_issues": 199,
             "owner": "OCA",
             "repo": "l10n-spain",
-            "stars": 613,
+            "stars": 614,
             "topics": [
               "erp",
               "hacktoberfest",
@@ -4072,8 +3500,8 @@
             "id": 9263296,
             "language": "PHP",
             "license": "LGPL-3.0",
-            "last_commit": "2026-11-16T17:26:00Z",
-            "open_issues": 99,
+            "last_commit": "2026-11-17T18:08:58Z",
+            "open_issues": 102,
             "owner": "NeoRazorX",
             "repo": "facturascripts",
             "stars": 507,
@@ -4099,8 +3527,8 @@
             "id": 1207185051,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-11-16T19:01:13Z",
-            "open_issues": 1,
+            "last_commit": "2026-11-17T19:41:45Z",
+            "open_issues": 5,
             "owner": "GeiserX",
             "repo": "DeclaRenta",
             "stars": 57,
@@ -4250,27 +3678,6 @@
       "items": [
         {
           "node_type": "item",
-          "title": "NIEBot",
-          "description": "Herramienta para obtener citas previas de inmigración (NIE, TIE, huellas) en Barcelona.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A tool to help Barcelonian people get various immigration-related appointments via the Cita previa process",
-            "homepage": null,
-            "id": 468980861,
-            "language": "Java",
-            "license": "GPL-3.0",
-            "last_commit": "2025-12-19T11:28:32Z",
-            "open_issues": 29,
-            "owner": "AFFT-520",
-            "repo": "NIEBot",
-            "stars": 62,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T21:21:12.343Z"
-        },
-        {
-          "node_type": "item",
           "title": "cita-checker",
           "description": "Automatización para comprobar disponibilidad de citas previas en administraciones españolas.",
           "children": [],
@@ -4326,48 +3733,6 @@
               "termux",
               "web-scraping"
             ]
-          },
-          "first_seen": "2026-08-28T21:21:12.343Z"
-        },
-        {
-          "node_type": "item",
-          "title": "cita-previa-tie",
-          "description": "Autocompleta formularios de cita previa de la Policía Nacional para TIE.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "📝 A tool to autofill form for the appointments in the Spain's national police web site.",
-            "homepage": null,
-            "id": 422145400,
-            "language": "JavaScript",
-            "license": "MIT",
-            "last_commit": "2021-11-07T19:20:04Z",
-            "open_issues": 0,
-            "owner": "sviridoff",
-            "repo": "cita-previa-tie",
-            "stars": 9,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T21:21:12.343Z"
-        },
-        {
-          "node_type": "item",
-          "title": "monitor-CitaPrevia-Extranjeria",
-          "description": "Monitor de citas disponibles en Extranjería (renovación NIE, autorizaciones).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Monitor Citas disponibles Extranjeria (Renovación nie, Autorizaciones....) https://icp.administracionelectronica.gob.es/",
-            "homepage": null,
-            "id": 559146222,
-            "language": "JavaScript",
-            "license": null,
-            "last_commit": "2022-10-29T08:25:53Z",
-            "open_issues": 0,
-            "owner": "jhon-murillo",
-            "repo": "monitor-CitaPrevia-Extranjeria",
-            "stars": 9,
-            "topics": []
           },
           "first_seen": "2026-08-28T21:21:12.343Z"
         },
@@ -4587,7 +3952,7 @@
                 "id": 292311963,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-16T17:08:33Z",
+                "last_commit": "2026-11-17T16:24:47Z",
                 "open_issues": 54,
                 "owner": "invopop",
                 "repo": "gobl",
@@ -4690,30 +4055,6 @@
             },
             {
               "node_type": "item",
-              "title": "aeat-web-services",
-              "description": "Integración Python con la Sede Electrónica de la AEAT.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Spanish Tax Agency Electronic Office (AEAT) Integration",
-                "homepage": null,
-                "id": 116160537,
-                "language": "Python",
-                "license": "MIT",
-                "last_commit": "2018-05-29T09:59:12Z",
-                "open_issues": 2,
-                "owner": "initios",
-                "repo": "aeat-web-services",
-                "stars": 12,
-                "topics": [
-                  "aduanet",
-                  "aeat"
-                ]
-              },
-              "first_seen": "2026-08-28T21:21:12.343Z"
-            },
-            {
-              "node_type": "item",
               "title": "AEAT",
               "description": "Clases PHP para los servicios web de la Agencia Tributaria.",
               "children": [],
@@ -4782,77 +4123,6 @@
                   "aeat",
                   "donativos"
                 ]
-              },
-              "first_seen": "2026-08-28T21:21:12.343Z"
-            },
-            {
-              "node_type": "item",
-              "title": "EasySII.Watcher",
-              "description": "Monitor del SII de la AEAT en C#.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "EasySII Monitor",
-                "homepage": null,
-                "id": 149429880,
-                "language": "C#",
-                "license": "MIT",
-                "last_commit": "2018-09-19T14:29:31Z",
-                "open_issues": 1,
-                "owner": "mdiago",
-                "repo": "EasySII.Watcher",
-                "stars": 4,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T21:21:12.343Z"
-            },
-            {
-              "node_type": "item",
-              "title": "hacienda-gpt",
-              "description": "Asistente IA para buscar información en la web de Hacienda.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Tired of searching information in the Spanish Tax Agency website? So do I! HaciendaGPT is you new friend!",
-                "homepage": null,
-                "id": 699276708,
-                "language": "Python",
-                "license": null,
-                "last_commit": "2023-10-25T17:10:06Z",
-                "open_issues": 0,
-                "owner": "aldoborrero",
-                "repo": "hacienda-gpt",
-                "stars": 4,
-                "topics": [
-                  "flakes",
-                  "langchain",
-                  "llms",
-                  "nix",
-                  "python3",
-                  "scraping",
-                  "scrapy"
-                ]
-              },
-              "first_seen": "2026-08-28T21:21:12.343Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Batuz",
-              "description": "Implementación del sistema fiscal Batuz de Bizkaia en C#.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Batuz Bizkaia",
-                "homepage": null,
-                "id": 352964180,
-                "language": "C#",
-                "license": "AGPL-3.0",
-                "last_commit": "2021-11-15T09:23:25Z",
-                "open_issues": 0,
-                "owner": "mdiago",
-                "repo": "Batuz",
-                "stars": 3,
-                "topics": []
               },
               "first_seen": "2026-08-28T21:21:12.343Z"
             },
@@ -5211,8 +4481,8 @@
                 "id": 883103873,
                 "language": "Go",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-10-08T08:24:56Z",
-                "open_issues": 4,
+                "last_commit": "2026-11-17T14:29:02Z",
+                "open_issues": 5,
                 "owner": "invopop",
                 "repo": "gobl.es.verifactu",
                 "stars": 15,
@@ -5643,8 +4913,8 @@
                 "id": 20186069,
                 "language": "Java",
                 "license": null,
-                "last_commit": "2026-11-10T01:28:29Z",
-                "open_issues": 399,
+                "last_commit": "2026-11-17T16:34:50Z",
+                "open_issues": 401,
                 "owner": "ctt-gob-es",
                 "repo": "clienteafirma",
                 "stars": 347,
@@ -5664,8 +4934,8 @@
                 "id": 695448736,
                 "language": "Nix",
                 "license": "MIT",
-                "last_commit": "2026-11-16T15:55:39Z",
-                "open_issues": 45,
+                "last_commit": "2026-11-17T15:28:08Z",
+                "open_issues": 42,
                 "owner": "nix-community",
                 "repo": "autofirma-nix",
                 "stars": 59,
@@ -5756,48 +5026,6 @@
             },
             {
               "node_type": "item",
-              "title": "FirmaXadesNet",
-              "description": "Librería C# para firmas XAdES (versión anterior).",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Librería desarrollada en C# para la generación de firmas XAdES",
-                "homepage": null,
-                "id": 58730406,
-                "language": "C#",
-                "license": null,
-                "last_commit": "2023-05-30T19:12:22Z",
-                "open_issues": 6,
-                "owner": "ctt-gob-es",
-                "repo": "FirmaXadesNet",
-                "stars": 28,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T21:21:12.343Z"
-            },
-            {
-              "node_type": "item",
-              "title": "dnieprov",
-              "description": "Driver Java y librería JCA Provider para el DNI electrónico (DNIe).",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "JAVA DNIe Driver and JCA Provider library",
-                "homepage": "http://puttydnie.es/puttydnie/dnie-provider",
-                "id": 3255287,
-                "language": "Java",
-                "license": "NOASSERTION",
-                "last_commit": "2015-04-06T17:50:22Z",
-                "open_issues": 1,
-                "owner": "lfern",
-                "repo": "dnieprov",
-                "stars": 23,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T21:21:12.343Z"
-            },
-            {
-              "node_type": "item",
               "title": "autofirma-flatpak",
               "description": "Empaquetado Flatpak de AutoFirma para distribuciones Linux.",
               "children": [],
@@ -5882,32 +5110,6 @@
             },
             {
               "node_type": "item",
-              "title": "autofirma-docker",
-              "description": "Imagen Docker con Firefox y AutoFirma preinstalados.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Docker image with Firefox and AutoFirma",
-                "homepage": null,
-                "id": 333909797,
-                "language": "Python",
-                "license": null,
-                "last_commit": "2021-01-29T01:59:19Z",
-                "open_issues": 2,
-                "owner": "xmartinez",
-                "repo": "autofirma-docker",
-                "stars": 8,
-                "topics": [
-                  "autofirma",
-                  "certificates",
-                  "docker",
-                  "firefox"
-                ]
-              },
-              "first_seen": "2026-08-28T21:21:12.343Z"
-            },
-            {
-              "node_type": "item",
               "title": "firma-android",
               "description": "App de firma electrónica oficial del Gobierno para Android.",
               "children": [],
@@ -5944,27 +5146,6 @@
                 "owner": "ctt-gob-es",
                 "repo": "portafirmas-android",
                 "stars": 5,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T21:21:12.343Z"
-            },
-            {
-              "node_type": "item",
-              "title": "autograph",
-              "description": "Script macOS para firma electrónica en batch usando el CLI de AutoFirma con certificado FNMT.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Shell script y acción de carpeta para macOS para la firma electrónica de documentos en batch mediante el CLI de AutoFirma v1.5, usando la firma digital de la FNMT.",
-                "homepage": null,
-                "id": 101854846,
-                "language": "Shell",
-                "license": "MIT",
-                "last_commit": "2017-08-30T09:19:53Z",
-                "open_issues": 1,
-                "owner": "azogue",
-                "repo": "autograph",
-                "stars": 3,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:21:12.343Z"
@@ -6094,48 +5275,6 @@
         },
         {
           "node_type": "item",
-          "title": "cuadernos-AEB",
-          "description": "Implementación PHP de cuadernos AEB 19 y 43 de la banca española.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Implementacion en PHP de algunos cuadernos (19 y 43) de la Asociación de la Banca Española (AEB)",
-            "homepage": null,
-            "id": 9230332,
-            "language": null,
-            "license": null,
-            "last_commit": "2013-04-04T23:43:21Z",
-            "open_issues": 2,
-            "owner": "jofemodo",
-            "repo": "cuadernos-AEB",
-            "stars": 6,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T21:21:12.343Z"
-        },
-        {
-          "node_type": "item",
-          "title": "norma43",
-          "description": "Parser para ficheros Norma 43, estándar de la banca española para movimientos de cuenta.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A parser for norma43 files, a standard from the spanish banking industry for account movements)",
-            "homepage": null,
-            "id": 1505896,
-            "language": "Ruby",
-            "license": null,
-            "last_commit": "2012-01-23T11:11:03Z",
-            "open_issues": 2,
-            "owner": "linkingpaths",
-            "repo": "norma43",
-            "stars": 5,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T21:21:12.343Z"
-        },
-        {
-          "node_type": "item",
           "title": "vscode-norma43",
           "description": "Formateador y resaltador de ficheros Norma43 para VS Code.",
           "children": [],
@@ -6171,27 +5310,6 @@
             "open_issues": 0,
             "owner": "mdiago",
             "repo": "N43",
-            "stars": 3,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T21:21:12.343Z"
-        },
-        {
-          "node_type": "item",
-          "title": "sepakit",
-          "description": "Convierte ficheros AEB 19.14 de adeudo directo TXT a SEPA XML en Python.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Converts AEB 19.14 Direct Debit TXT file to SEPA XML (Core scheme)",
-            "homepage": null,
-            "id": 166074874,
-            "language": "Go",
-            "license": "MIT",
-            "last_commit": "2023-02-23T01:27:55Z",
-            "open_issues": 2,
-            "owner": "APSL",
-            "repo": "sepakit",
             "stars": 3,
             "topics": []
           },
@@ -6307,27 +5425,6 @@
             },
             {
               "node_type": "item",
-              "title": "python-idealista",
-              "description": "Librería Python 3 para la API de Idealista.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Python 3 library for Idealista API (invitation only)",
-                "homepage": "https://python-idealista.readthedocs.io/",
-                "id": 260573557,
-                "language": "Python",
-                "license": "AGPL-3.0",
-                "last_commit": "2021-08-23T15:41:11Z",
-                "open_issues": 0,
-                "owner": "astrojuanlu",
-                "repo": "python-idealista",
-                "stars": 9,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T21:21:12.343Z"
-            },
-            {
-              "node_type": "item",
               "title": "fotocasa-scraper",
               "description": "Scraper para extraer datos de viviendas de Fotocasa.",
               "children": [],
@@ -6392,27 +5489,6 @@
                 "owner": "danielhuici",
                 "repo": "Wallamonitor",
                 "stars": 34,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T21:21:12.343Z"
-            },
-            {
-              "node_type": "item",
-              "title": "wallapop_secret",
-              "description": "Generador de X-Signature para la API de Wallapop.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Wallapop's API X-Signature Generator",
-                "homepage": null,
-                "id": 230572600,
-                "language": null,
-                "license": null,
-                "last_commit": "2021-11-17T15:42:24Z",
-                "open_issues": 1,
-                "owner": "rmonvfer",
-                "repo": "wallapop_secret",
-                "stars": 16,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:21:12.343Z"
@@ -6485,27 +5561,6 @@
                 ]
               },
               "first_seen": "2026-08-28T21:21:12.343Z"
-            },
-            {
-              "node_type": "item",
-              "title": "wallapop_scraper",
-              "description": "Scraper de Wallapop en Python.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": null,
-                "homepage": null,
-                "id": 667357101,
-                "language": "Python",
-                "license": null,
-                "last_commit": "2023-07-20T17:06:12Z",
-                "open_issues": 1,
-                "owner": "LopCuns",
-                "repo": "wallapop_scraper",
-                "stars": 6,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T21:21:12.343Z"
             }
           ],
           "description": null,
@@ -6518,53 +5573,6 @@
     {
       "description": null,
       "items": [
-        {
-          "node_type": "item",
-          "title": "RAE-API (PHP)",
-          "description": "API del Diccionario de la Real Academia Española en PHP.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Diccionario RAE API",
-            "homepage": null,
-            "id": 74625948,
-            "language": "PHP",
-            "license": "MIT",
-            "last_commit": "2022-09-14T14:50:58Z",
-            "open_issues": 1,
-            "owner": "mgp25",
-            "repo": "RAE-API",
-            "stars": 45,
-            "topics": [
-              "academia",
-              "api",
-              "rae",
-              "real"
-            ]
-          },
-          "first_seen": "2026-08-28T21:21:12.343Z"
-        },
-        {
-          "node_type": "item",
-          "title": "RAE-API (Node.js)",
-          "description": "API del Diccionario de la RAE portada a Node.js.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "RAE API i modified from https://github.com/mgp25/RAE-API to nodejs",
-            "homepage": null,
-            "id": 303201559,
-            "language": "JavaScript",
-            "license": "MIT",
-            "last_commit": "2025-03-27T04:28:06Z",
-            "open_issues": 3,
-            "owner": "account0123",
-            "repo": "RAE-API",
-            "stars": 26,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T21:21:12.343Z"
-        },
         {
           "node_type": "item",
           "title": "go-rae",
@@ -6621,107 +5629,6 @@
         }
       ],
       "title": "Lengua Española y Diccionarios"
-    },
-    {
-      "description": null,
-      "items": [
-        {
-          "node_type": "item",
-          "title": "python-correos-express",
-          "description": "Librería Python para realizar envíos con Correos Express.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Python library to ship items using Correos Express",
-            "homepage": null,
-            "id": 109667260,
-            "language": "Python",
-            "license": "GPL-3.0",
-            "last_commit": "2021-01-26T12:33:17Z",
-            "open_issues": 1,
-            "owner": "maguayo",
-            "repo": "python-correos-express",
-            "stars": 7,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T21:21:12.343Z"
-        },
-        {
-          "node_type": "item",
-          "title": "homeassistant-correos_spain",
-          "description": "Integración de seguimiento de paquetes de Correos para Home Assistant.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Home Assistant integration to track packages from Correos Spain",
-            "homepage": null,
-            "id": 300271301,
-            "language": "Python",
-            "license": "Apache-2.0",
-            "last_commit": "2021-06-14T08:22:32Z",
-            "open_issues": 1,
-            "owner": "rikman122",
-            "repo": "homeassistant-correos_spain",
-            "stars": 2,
-            "topics": [
-              "correos-spain",
-              "home-automation",
-              "homeassistant"
-            ]
-          },
-          "first_seen": "2026-08-28T21:21:12.343Z"
-        },
-        {
-          "node_type": "item",
-          "title": "NacexBundle",
-          "description": "Bundle Symfony implementando la API SOAP de Nacex.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A PHP bundle implementing Nacex SOAP API http://nacex.es",
-            "homepage": null,
-            "id": 43879644,
-            "language": "PHP",
-            "license": null,
-            "last_commit": "2015-10-09T09:09:01Z",
-            "open_issues": 1,
-            "owner": "javaguirre",
-            "repo": "NacexBundle",
-            "stars": 2,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T21:21:12.343Z"
-        },
-        {
-          "node_type": "item",
-          "title": "correos-tracking-api",
-          "description": "API REST y bot Telegram para seguimiento automatizado de envíos de Correos España.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "🚀 API REST y Bot de Telegram para seguimiento automatizado de envíos de Correos España con notificaciones en tiempo real",
-            "homepage": null,
-            "id": 880534724,
-            "language": "Python",
-            "license": null,
-            "last_commit": "2024-10-29T22:40:16Z",
-            "open_issues": 1,
-            "owner": "vgvr0",
-            "repo": "correos-tracking-api",
-            "stars": 0,
-            "topics": [
-              "correos-api",
-              "correos-espana-api",
-              "fastapi",
-              "rest-api-correos",
-              "seguimiento-envios-api",
-              "tracking-system"
-            ]
-          },
-          "first_seen": "2026-08-28T21:21:12.343Z"
-        }
-      ],
-      "title": "Logística y Mensajería"
     },
     {
       "description": null,
@@ -6892,49 +5799,7 @@
             "open_issues": 0,
             "owner": "Noltari",
             "repo": "AEMET-OpenData",
-            "stars": 9,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T21:21:12.343Z"
-        },
-        {
-          "node_type": "item",
-          "title": "AEMET-Python",
-          "description": "Librería Python para consultar datos de la AEMET.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Librería en python para consultar los datos de la AEMET",
-            "homepage": null,
-            "id": 13180045,
-            "language": "Python",
-            "license": "MIT",
-            "last_commit": "2021-08-26T09:10:50Z",
-            "open_issues": 1,
-            "owner": "aariste",
-            "repo": "AEMET-Python",
-            "stars": 9,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T21:21:12.343Z"
-        },
-        {
-          "node_type": "item",
-          "title": "calima",
-          "description": "Web y API para la serie histórica de datos meteorológicos de AEMET.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Calima - La memoria del clima. Web/API para la serie histórica de datos meteorológicos de AEMET.",
-            "homepage": "http://calima.linotipo.es/",
-            "id": 1715051,
-            "language": "JavaScript",
-            "license": "NOASSERTION",
-            "last_commit": "2011-05-14T19:42:57Z",
-            "open_issues": 4,
-            "owner": "vrruiz",
-            "repo": "calima",
-            "stars": 9,
+            "stars": 10,
             "topics": []
           },
           "first_seen": "2026-08-28T21:21:12.343Z"
@@ -7038,27 +5903,6 @@
       "items": [
         {
           "node_type": "item",
-          "title": "PyCante",
-          "description": "Transcripción automática de cante flamenco a nivel de nota.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "CANTE: Automatic transcription of flamenco singing.",
-            "homepage": null,
-            "id": 58878927,
-            "language": "Python",
-            "license": "NOASSERTION",
-            "last_commit": "2018-02-13T16:09:42Z",
-            "open_issues": 1,
-            "owner": "NadineKroher",
-            "repo": "PyCante",
-            "stars": 14,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T21:21:12.343Z"
-        },
-        {
-          "node_type": "item",
           "title": "kronognuguitarra",
           "description": "Buscador de acordes y escalas para guitarra flamenca y más de 60 instrumentos de cuerda.",
           "children": [],
@@ -7112,57 +5956,6 @@
             "topics": []
           },
           "first_seen": "2026-08-28T21:21:12.343Z"
-        },
-        {
-          "node_type": "item",
-          "title": "lola",
-          "description": "Clasificación de audio flamenco por palos (bulerías, alegrías, sevillanas) con deep learning.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Flamenco audio classification system",
-            "homepage": "https://lola.alesanchez.es",
-            "id": 414268729,
-            "language": "Jupyter Notebook",
-            "license": "Apache-2.0",
-            "last_commit": "2021-10-27T14:14:02Z",
-            "open_issues": 3,
-            "owner": "alesanmed",
-            "repo": "lola",
-            "stars": 7,
-            "topics": [
-              "deep-learning",
-              "flamenco",
-              "flask",
-              "machine-learning",
-              "music",
-              "python",
-              "streamlit",
-              "tensorflow2"
-            ]
-          },
-          "first_seen": "2026-08-28T21:21:12.343Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Generative-Flamenco",
-          "description": "Experimento de música generativa flamenca con Processing y Ableton Live.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "An experiment in generative music creation (Processing, Ableton Live)",
-            "homepage": null,
-            "id": 12549155,
-            "language": "Processing",
-            "license": null,
-            "last_commit": "2013-09-03T15:00:58Z",
-            "open_issues": 1,
-            "owner": "oratioandco",
-            "repo": "Generative-Flamenco",
-            "stars": 6,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T21:21:12.343Z"
         }
       ],
       "title": "Música y Flamenco"
@@ -7182,11 +5975,11 @@
             "id": 65914086,
             "language": "Ruby",
             "license": "AGPL-3.0",
-            "last_commit": "2026-11-16T17:05:26Z",
+            "last_commit": "2026-11-17T16:15:43Z",
             "open_issues": 408,
             "owner": "decidim",
             "repo": "decidim",
-            "stars": 1853,
+            "stars": 1856,
             "topics": [
               "citizen-participation",
               "civic-tech",
@@ -7219,7 +6012,7 @@
             "id": 39152554,
             "language": "Ruby",
             "license": "AGPL-3.0",
-            "last_commit": "2026-11-16T15:36:51Z",
+            "last_commit": "2026-11-17T19:24:57Z",
             "open_issues": 215,
             "owner": "consuldemocracy",
             "repo": "consuldemocracy",
@@ -7249,8 +6042,8 @@
             "id": 78930746,
             "language": "HTML",
             "license": "AGPL-3.0",
-            "last_commit": "2026-11-13T10:22:34Z",
-            "open_issues": 43,
+            "last_commit": "2026-11-17T09:11:34Z",
+            "open_issues": 44,
             "owner": "AjuntamentdeBarcelona",
             "repo": "decidim-barcelona",
             "stars": 85,
@@ -7262,27 +6055,6 @@
               "democracy",
               "government"
             ]
-          },
-          "first_seen": "2026-08-28T21:21:12.343Z"
-        },
-        {
-          "node_type": "item",
-          "title": "participa",
-          "description": "Plataforma de participación ciudadana de Podemos basada en Decidim.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": null,
-            "homepage": null,
-            "id": 38433739,
-            "language": "Ruby",
-            "license": "NOASSERTION",
-            "last_commit": "2023-01-03T14:18:55Z",
-            "open_issues": 10,
-            "owner": "podemos-info",
-            "repo": "participa",
-            "stars": 60,
-            "topics": []
           },
           "first_seen": "2026-08-28T21:21:12.343Z"
         }
@@ -7384,8 +6156,8 @@
             "id": 184131074,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-11T21:08:49Z",
-            "open_issues": 2,
+            "last_commit": "2026-11-17T07:08:10Z",
+            "open_issues": 3,
             "owner": "javiertury",
             "repo": "redsys-easy",
             "stars": 54,
@@ -7584,7 +6356,7 @@
                 "id": 17015540,
                 "language": "Perl",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-16T09:44:19Z",
+                "last_commit": "2026-11-16T23:01:57Z",
                 "open_issues": 9,
                 "owner": "Softcatala",
                 "repo": "catalan-dict-tools",
@@ -7724,27 +6496,6 @@
                 "owner": "projecte-aina",
                 "repo": "tts-api",
                 "stars": 17,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T21:21:12.343Z"
-            },
-            {
-              "node_type": "item",
-              "title": "spaCy catalan",
-              "description": "Pipeline de NLP en catalán basado en spaCy del Projecte AINA.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Pre-production releases for Spacy in Catalan",
-                "homepage": null,
-                "id": 360070252,
-                "language": "Python",
-                "license": "MIT",
-                "last_commit": "2021-11-30T14:24:42Z",
-                "open_issues": 3,
-                "owner": "projecte-aina",
-                "repo": "spacy",
-                "stars": 13,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:21:12.343Z"
@@ -8036,7 +6787,7 @@
             "open_issues": 0,
             "owner": "ESJavadex",
             "repo": "ree-mcp",
-            "stars": 12,
+            "stars": 13,
             "topics": [
               "apagon",
               "api",
@@ -8404,32 +7155,6 @@
         },
         {
           "node_type": "item",
-          "title": "merca-api",
-          "description": "Aplicación para leer categorías y productos de la API pública de Mercadona.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Aplicación para leer las categorías y productos de API pública de supermercado.",
-            "homepage": null,
-            "id": 135950445,
-            "language": "C#",
-            "license": "MIT",
-            "last_commit": "2018-06-04T00:25:40Z",
-            "open_issues": 2,
-            "owner": "javichur",
-            "repo": "merca-api",
-            "stars": 13,
-            "topics": [
-              "api",
-              "mercadona",
-              "online",
-              "tienda"
-            ]
-          },
-          "first_seen": "2026-08-28T21:21:12.343Z"
-        },
-        {
-          "node_type": "item",
           "title": "Supermarket-Price-Scraper",
           "description": "Extracción de precios de Mercadona, Carrefour y DIA con generación de Excel.",
           "children": [],
@@ -8542,48 +7267,6 @@
       "items": [
         {
           "node_type": "item",
-          "title": "askey_RTF3505VW_hacking",
-          "description": "Documentación de hacking por UART del router Askey RTF3505VW de Movistar España.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Información e intentos de modificación",
-            "homepage": null,
-            "id": 204315290,
-            "language": "HTML",
-            "license": null,
-            "last_commit": "2021-01-22T15:51:28Z",
-            "open_issues": 3,
-            "owner": "daniel-dona",
-            "repo": "askey_RTF3505VW_hacking",
-            "stars": 33,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T21:21:12.343Z"
-        },
-        {
-          "node_type": "item",
-          "title": "LiveboxFibraExtractor",
-          "description": "Herramienta Java para extraer credenciales SIP del router Livebox Fibra de Orange/Jazztel España.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Tool to extract the SIP info from your Livebox Fibra (Orange Spain and Jazztel Spain) and change the API password",
-            "homepage": null,
-            "id": 104241042,
-            "language": "Java",
-            "license": "GPL-2.0",
-            "last_commit": "2017-09-25T09:55:22Z",
-            "open_issues": 0,
-            "owner": "segura2010",
-            "repo": "LiveboxFibraExtractor",
-            "stars": 15,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T21:21:12.343Z"
-        },
-        {
-          "node_type": "item",
           "title": "router-movistar",
           "description": "Librería Python para gestionar el router de Movistar.",
           "children": [],
@@ -8605,27 +7288,6 @@
               "rft3505vw",
               "router"
             ]
-          },
-          "first_seen": "2026-08-28T21:21:12.343Z"
-        },
-        {
-          "node_type": "item",
-          "title": "ha-pepephone",
-          "description": "Integración Home Assistant para consultar datos de la cuenta Pepephone.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Home Assistant integration for Pepephone",
-            "homepage": null,
-            "id": 467959497,
-            "language": "Python",
-            "license": null,
-            "last_commit": "2022-03-10T07:47:35Z",
-            "open_issues": 1,
-            "owner": "ldotlopez",
-            "repo": "ha-pepephone",
-            "stars": 1,
-            "topics": []
           },
           "first_seen": "2026-08-28T21:21:12.343Z"
         },
@@ -8690,31 +7352,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-11-15T10:31:48Z",
-            "open_issues": 36,
+            "open_issues": 37,
             "owner": "LaQuay",
             "repo": "TDTChannels",
             "stars": 1694,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T21:21:12.343Z"
-        },
-        {
-          "node_type": "item",
-          "title": "TV-Online-TDT-Spain",
-          "description": "Lista de URLs de canales TDT de España.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Lista de URLs de canales TDT de España",
-            "homepage": null,
-            "id": 76501719,
-            "language": "Python",
-            "license": null,
-            "last_commit": "2021-06-15T00:10:50Z",
-            "open_issues": 25,
-            "owner": "ruvelro",
-            "repo": "TV-Online-TDT-Spain",
-            "stars": 182,
             "topics": []
           },
           "first_seen": "2026-08-28T21:21:12.343Z"
@@ -8735,7 +7376,7 @@
             "open_issues": 1,
             "owner": "jmarcet",
             "repo": "movistar-u7d",
-            "stars": 118,
+            "stars": 119,
             "topics": [
               "android",
               "androidtv",
@@ -8798,7 +7439,7 @@
             "open_issues": 2,
             "owner": "zry98",
             "repo": "movistar-home-hacks",
-            "stars": 49,
+            "stars": 48,
             "topics": [
               "hardware-hacking",
               "hass",
@@ -8809,27 +7450,6 @@
               "movistar",
               "telefonica"
             ]
-          },
-          "first_seen": "2026-08-28T21:21:12.343Z"
-        },
-        {
-          "node_type": "item",
-          "title": "tv_grab_es_movistartv",
-          "description": "Grabber XMLTV para la guía de programación de Movistar TV.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Grabber XMLTV para Movistar TV",
-            "homepage": null,
-            "id": 94264994,
-            "language": "Python",
-            "license": "GPL-3.0",
-            "last_commit": "2022-06-15T18:42:50Z",
-            "open_issues": 11,
-            "owner": "MovistarTV",
-            "repo": "tv_grab_es_movistartv",
-            "stars": 48,
-            "topics": []
           },
           "first_seen": "2026-08-28T21:21:12.343Z"
         },
@@ -8877,27 +7497,6 @@
         },
         {
           "node_type": "item",
-          "title": "EpgGratis",
-          "description": "EPG y grabber XMLTV para Movistar+.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "EPG y grabber XMLTV para Movistar+",
-            "homepage": null,
-            "id": 195908821,
-            "language": "Shell",
-            "license": "GPL-3.0",
-            "last_commit": "2023-03-23T07:30:30Z",
-            "open_issues": 4,
-            "owner": "MPAndrew",
-            "repo": "EpgGratis",
-            "stars": 25,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T21:21:12.343Z"
-        },
-        {
-          "node_type": "item",
           "title": "plugin.video.orange.spain",
           "description": "Addon de Orange TV Spain para Kodi.",
           "children": [],
@@ -8908,8 +7507,8 @@
             "id": 575475348,
             "language": "Python",
             "license": "GPL-2.0",
-            "last_commit": "2026-10-20T17:05:44Z",
-            "open_issues": 19,
+            "last_commit": "2026-11-17T08:58:39Z",
+            "open_issues": 20,
             "owner": "Paco8",
             "repo": "plugin.video.orange.spain",
             "stars": 22,
@@ -8940,33 +7539,6 @@
         },
         {
           "children": [
-            {
-              "node_type": "item",
-              "title": "node-ivoox",
-              "description": "API no oficial de iVoox (plataforma de podcasts española) para Node.js.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Unofficial iVoox API for node",
-                "homepage": null,
-                "id": 43510275,
-                "language": "JavaScript",
-                "license": "MIT",
-                "last_commit": "2023-04-16T19:07:42Z",
-                "open_issues": 6,
-                "owner": "EdgarVaguencia",
-                "repo": "node-ivoox",
-                "stars": 18,
-                "topics": [
-                  "api",
-                  "ivoox",
-                  "node",
-                  "npm",
-                  "yarn"
-                ]
-              },
-              "first_seen": "2026-08-28T21:21:12.343Z"
-            },
             {
               "node_type": "item",
               "title": "dirtyrss",
@@ -9061,11 +7633,11 @@
             "id": 1193927913,
             "language": null,
             "license": "NOASSERTION",
-            "last_commit": "2026-11-16T20:07:27Z",
-            "open_issues": 4,
+            "last_commit": "2026-11-17T19:05:31Z",
+            "open_issues": 5,
             "owner": "legalize-dev",
             "repo": "legalize-es",
-            "stars": 1973,
+            "stars": 1974,
             "topics": [
               "legalize-country"
             ]
@@ -9190,8 +7762,8 @@
             "id": 375246381,
             "language": "HTML",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-09T10:04:14Z",
-            "open_issues": 80,
+            "last_commit": "2026-11-17T13:21:01Z",
+            "open_issues": 84,
             "owner": "JaimeObregon",
             "repo": "observatoriospublicos.es",
             "stars": 133,
@@ -9384,33 +7956,6 @@
         },
         {
           "node_type": "item",
-          "title": "CENDOJ Scraping API",
-          "description": "Scraping y API del Centro de Documentación Judicial (CENDOJ).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Cendoj Scrapping / API.",
-            "homepage": null,
-            "id": 524717498,
-            "language": "Python",
-            "license": null,
-            "last_commit": "2022-08-16T08:06:19Z",
-            "open_issues": 1,
-            "owner": "Gasparms9",
-            "repo": "Project5-Cendoj-Scrapping-API",
-            "stars": 16,
-            "topics": [
-              "api",
-              "cendoj",
-              "legal",
-              "python",
-              "scrapping"
-            ]
-          },
-          "first_seen": "2026-08-28T21:21:12.343Z"
-        },
-        {
-          "node_type": "item",
           "title": "contractacio.cat",
           "description": "Propuestas de mejora a los portales de transparencia de contratación pública en Cataluña.",
           "children": [],
@@ -9471,64 +8016,6 @@
             "topics": [
               "boe",
               "xml"
-            ]
-          },
-          "first_seen": "2026-08-28T21:21:12.343Z"
-        },
-        {
-          "node_type": "item",
-          "title": "osbex",
-          "description": "Open Source BORME Explorer: plataforma de explotación de datos del BORME.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "OSBEX: Open Source BORME Explorer es una plataforma abierta de explotación de datos del Boletín Oficial del Registro Mercantil de España",
-            "homepage": null,
-            "id": 351167087,
-            "language": "Python",
-            "license": null,
-            "last_commit": "2023-05-08T07:39:10Z",
-            "open_issues": 1,
-            "owner": "vzdata-ch",
-            "repo": "osbex",
-            "stars": 10,
-            "topics": [
-              "borme",
-              "docker",
-              "docker-compose",
-              "elasticsearch",
-              "grafana",
-              "logstash",
-              "logstash-oss",
-              "opendistro",
-              "opensource",
-              "python"
-            ]
-          },
-          "first_seen": "2026-08-28T21:21:12.343Z"
-        },
-        {
-          "node_type": "item",
-          "title": "iuris",
-          "description": "Herramienta de auditoría web para verificar cumplimiento de RGPD, LOPD y LSSI.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Web audit tool for verification of compliance with legislation such as the GDPR, LOPD and LSSI autonomously, without relying on third parties, and complemented by a guide of tips to comply with them.",
-            "homepage": null,
-            "id": 159046821,
-            "language": "JavaScript",
-            "license": "AGPL-3.0",
-            "last_commit": "2018-12-01T17:50:32Z",
-            "open_issues": 2,
-            "owner": "onticsoluciones",
-            "repo": "iuris",
-            "stars": 7,
-            "topics": [
-              "gprd",
-              "iso",
-              "privacy",
-              "rgpd"
             ]
           },
           "first_seen": "2026-08-28T21:21:12.343Z"
@@ -9702,7 +8189,7 @@
             "open_issues": 4,
             "owner": "emartinez-dev",
             "repo": "renfe-bot",
-            "stars": 28,
+            "stars": 29,
             "topics": [
               "bot",
               "renfe",
@@ -9742,27 +8229,6 @@
         },
         {
           "node_type": "item",
-          "title": "cercanias-renfe-android",
-          "description": "App Android para Cercanías Renfe.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": null,
-            "homepage": "http://jonsegador.com/",
-            "id": 3139235,
-            "language": "Java",
-            "license": "NOASSERTION",
-            "last_commit": "2012-02-05T10:50:08Z",
-            "open_issues": 1,
-            "owner": "jonseg",
-            "repo": "cercanias-renfe-android",
-            "stars": 21,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T21:21:12.343Z"
-        },
-        {
-          "node_type": "item",
           "title": "sevibus-android",
           "description": "App Android de código abierto para el transporte público de Sevilla (TUSSAM).",
           "children": [],
@@ -9795,7 +8261,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": "Self-hosted application to track renfe trains and prices.",
+            "description": "Self-hosted application to track Renfe trains and prices.",
             "homepage": "https://javiermonton.github.io/renfe-tracker/",
             "id": 1182024292,
             "language": "Python",
@@ -9865,27 +8331,6 @@
         },
         {
           "node_type": "item",
-          "title": "renfe-notifier-bot",
-          "description": "Bot que comprueba disponibilidad de trenes Renfe y envía notificaciones.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Checking renfe availability for trains",
-            "homepage": null,
-            "id": 111293351,
-            "language": "Python",
-            "license": "MIT",
-            "last_commit": "2018-07-18T21:00:33Z",
-            "open_issues": 1,
-            "owner": "grcanosa",
-            "repo": "renfe-notifier-bot",
-            "stars": 10,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T21:21:12.343Z"
-        },
-        {
-          "node_type": "item",
           "title": "aucorsa",
           "description": "Wrapper en Dart para la API de AUCORSA (autobuses urbanos de Córdoba).",
           "children": [],
@@ -9909,96 +8354,6 @@
               "ios-app",
               "public-transport"
             ]
-          },
-          "first_seen": "2026-08-28T21:21:12.343Z"
-        },
-        {
-          "node_type": "item",
-          "title": "your-renfe-tickets-are-available",
-          "description": "Notificador de disponibilidad de billetes Renfe.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": null,
-            "homepage": null,
-            "id": 221760525,
-            "language": "Python",
-            "license": null,
-            "last_commit": "2020-01-28T19:49:19Z",
-            "open_issues": 1,
-            "owner": "fervillarce",
-            "repo": "your-renfe-tickets-are-available",
-            "stars": 7,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T21:21:12.343Z"
-        },
-        {
-          "node_type": "item",
-          "title": "ave-round-tripper",
-          "description": "Encuentra viajes de ida y vuelta más baratos en AVE con notificaciones de cambio de precio.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "This project tries to solve a not-so-common problem:  Find the cheapest round trip between two cities on AVE (RENFE) line and get notifications when prices change.  People are not aware of price changes on AVE (RENFE) service. Furthermore, they used to think that the price were always the same.",
-            "homepage": null,
-            "id": 528960904,
-            "language": "Python",
-            "license": "MIT",
-            "last_commit": "2025-06-23T15:26:28Z",
-            "open_issues": 2,
-            "owner": "angelbarrera92",
-            "repo": "ave-round-tripper",
-            "stars": 6,
-            "topics": [
-              "ave",
-              "grafana",
-              "renfe",
-              "scraper",
-              "telegram"
-            ]
-          },
-          "first_seen": "2026-08-28T21:21:12.343Z"
-        },
-        {
-          "node_type": "item",
-          "title": "renfe-api",
-          "description": "Scraper y servidor Node.js para servicios de Cercanías Renfe.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A simple nodejs scraper and server of renfe cercanias services ",
-            "homepage": null,
-            "id": 16052001,
-            "language": "JavaScript",
-            "license": "MIT",
-            "last_commit": "2015-03-22T12:21:49Z",
-            "open_issues": 2,
-            "owner": "atabel",
-            "repo": "renfe-api",
-            "stars": 6,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T21:21:12.343Z"
-        },
-        {
-          "node_type": "item",
-          "title": "CapitanRenfe",
-          "description": "Bot que informa si un tren de Renfe se ha retrasado.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "El bot que informa si un tren se ha retrasado!",
-            "homepage": "https://twitter.com/capitanrenfe",
-            "id": 180880597,
-            "language": "Python",
-            "license": null,
-            "last_commit": "2019-04-20T00:35:51Z",
-            "open_issues": 1,
-            "owner": "riera90",
-            "repo": "CapitanRenfe",
-            "stars": 5,
-            "topics": []
           },
           "first_seen": "2026-08-28T21:21:12.343Z"
         },
@@ -10072,100 +8427,6 @@
                   "trips",
                   "webpack",
                   "webpack4"
-                ]
-              },
-              "first_seen": "2026-08-28T21:21:12.343Z"
-            },
-            {
-              "node_type": "item",
-              "title": "bicing-prediction-api",
-              "description": "API de predicción de disponibilidad de bicicletas Bicing en Barcelona.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Predict bikes' availability for Barcelona public bicycle sharing system.",
-                "homepage": null,
-                "id": 161669544,
-                "language": "Python",
-                "license": null,
-                "last_commit": "2019-01-21T16:05:00Z",
-                "open_issues": 1,
-                "owner": "lechatquidanse",
-                "repo": "bicing-prediction-api",
-                "stars": 10,
-                "topics": [
-                  "bicing",
-                  "continuous-integration",
-                  "ddd",
-                  "docker",
-                  "docker-compose",
-                  "flask-restful",
-                  "machine-learning",
-                  "makefile",
-                  "prediction",
-                  "pylint",
-                  "python3",
-                  "rest-api",
-                  "swagger",
-                  "testing",
-                  "xgboost"
-                ]
-              },
-              "first_seen": "2026-08-28T21:21:12.343Z"
-            },
-            {
-              "node_type": "item",
-              "title": "bicimap",
-              "description": "(Demo) - Mapa no oficial de estaciones BiciMAD y Bicing.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Unofficial map of BiciMAD and Bicing stations.",
-                "homepage": "https://bicimap.javierarce.com",
-                "id": 337097767,
-                "language": "CSS",
-                "license": "GPL-3.0",
-                "last_commit": "2023-01-03T18:24:49Z",
-                "open_issues": 2,
-                "owner": "javierarce",
-                "repo": "bicimap",
-                "stars": 8,
-                "topics": [
-                  "bicimad",
-                  "bicing",
-                  "bike-sharing",
-                  "bikes",
-                  "map"
-                ]
-              },
-              "first_seen": "2026-08-28T21:21:12.343Z"
-            },
-            {
-              "node_type": "item",
-              "title": "ValenBisi",
-              "description": "App Android para el servicio Valenbisi de Valencia.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "An Android app for ValenBisi.",
-                "homepage": "https://play.google.com/store/apps/details?id=com.systemallica.valenbisi",
-                "id": 71062127,
-                "language": "Kotlin",
-                "license": "GPL-3.0",
-                "last_commit": "2023-01-10T18:15:49Z",
-                "open_issues": 2,
-                "owner": "systemallica",
-                "repo": "ValenBisi",
-                "stars": 7,
-                "topics": [
-                  "android",
-                  "app",
-                  "bike",
-                  "kotlin",
-                  "maps",
-                  "material-design",
-                  "valenbisi",
-                  "valencia"
                 ]
               },
               "first_seen": "2026-08-28T21:21:12.343Z"
@@ -10427,27 +8688,6 @@
         },
         {
           "node_type": "item",
-          "title": "Picoleto",
-          "description": "Librería simple para verificar NIF y NIE españoles en Java/Android.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A simple library to verify Spanish identity documents like NIF and NIE",
-            "homepage": null,
-            "id": 135050365,
-            "language": "Java",
-            "license": "MIT",
-            "last_commit": "2021-05-23T13:45:20Z",
-            "open_issues": 2,
-            "owner": "fewlaps",
-            "repo": "Picoleto",
-            "stars": 13,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T21:21:12.343Z"
-        },
-        {
-          "node_type": "item",
           "title": "spanish_vat_validators",
           "description": "Validadores Ruby para NIF, CIF y NIE españoles.",
           "children": [],
@@ -10552,27 +8792,6 @@
         },
         {
           "node_type": "item",
-          "title": "valnif",
-          "description": "Validación de NIF en JavaScript basada en la librería Java oficial de la AEAT.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Programa de Validación del NIF en Javascript (basado en la librería Java oficial de la AEAT)",
-            "homepage": null,
-            "id": 26801653,
-            "language": "JavaScript",
-            "license": null,
-            "last_commit": "2016-12-21T23:23:57Z",
-            "open_issues": 1,
-            "owner": "alexladerman",
-            "repo": "valnif",
-            "stars": 8,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T21:21:12.343Z"
-        },
-        {
-          "node_type": "item",
           "title": "dni-js",
           "description": "Cómputo y validación de DNI/NIE español en JavaScript.",
           "children": [],
@@ -10605,27 +8824,6 @@
         },
         {
           "node_type": "item",
-          "title": "dni_nie_validator",
-          "description": "Validador DNI/NIE en Dart (Flutter).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": null,
-            "homepage": null,
-            "id": 322242941,
-            "language": "Dart",
-            "license": "MIT",
-            "last_commit": "2022-09-10T11:21:32Z",
-            "open_issues": 3,
-            "owner": "AnnaPS",
-            "repo": "dni_nie_validator",
-            "stars": 6,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T21:21:12.343Z"
-        },
-        {
-          "node_type": "item",
           "title": "aeat-validador-nif",
           "description": "Validador de NIF usando el servicio web VNifV2 de la AEAT.",
           "children": [],
@@ -10650,7 +8848,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-16T20:56:02.596Z",
+    "last_updated": "2026-11-17T19:45:50.940Z",
     "original_repository_info": {
       "archived": false,
       "description": "Una selección de software open source que da soporte específico a España",
@@ -10658,11 +8856,11 @@
       "id": 1187199436,
       "language": "Python",
       "license": "CC0-1.0",
-      "last_commit": "2026-11-10T11:33:41Z",
-      "open_issues": 1,
+      "last_commit": "2026-11-17T15:45:43Z",
+      "open_issues": 0,
       "owner": "GeiserX",
       "repo": "awesome-spain",
-      "stars": 373,
+      "stars": 374,
       "topics": [
         "administracion-electronica",
         "aeat",
@@ -10686,7 +8884,7 @@
         "verifactu"
       ]
     },
-    "original_repository_sha": "01416bbf44606fb4d15fe33093f9f4c2a823d07e",
+    "original_repository_sha": "f9daf8a7da57ffa2a6f2dc819e789ee47e7f0e5b",
     "enhanced_repository": "enhansome/enhansome-spain",
     "enhanced_repository_description": null,
     "title": "Awesome spain with stars"
